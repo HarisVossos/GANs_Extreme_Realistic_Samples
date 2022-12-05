@@ -1,0 +1,1998 @@
+,Year,Country,Losses,ISO,Alpha_2,Continent,Zone
+60,1931,China,24889233.0,CHN,CN,AS,Subtropical
+217,1961,Bangladesh,107874.0,BGD,BD,AS,Subtropical
+237,1963,Bangladesh,442400.0,BGD,BD,AS,Subtropical
+240,1963,Bahamas (the),13272.0,BHS,BS,NA,Subtropical
+250,1964,Bangladesh,2184.0,BGD,BD,AS,Subtropical
+251,1964,Bangladesh,43681.0,BGD,BD,AS,Subtropical
+268,1965,Bangladesh,496216.0,BGD,BD,AS,Subtropical
+272,1965,Bahamas (the),6020.0,BHS,BS,NA,Subtropical
+280,1965,Chile,85999.0,CHL,CL,SA,Subtropical
+282,1965,China,233213.0,CHN,CN,AS,Subtropical
+293,1966,Argentina,250447.0,ARG,AR,SA,Subtropical
+297,1966,Bangladesh,187000.0,BGD,BD,AS,Subtropical
+298,1966,Bangladesh,8348.0,BGD,BD,AS,Subtropical
+299,1966,Bahamas (the),129398.0,BHS,BS,NA,Subtropical
+311,1966,Algeria,83482.0,DZA,DZ,AF,Subtropical
+322,1967,Argentina,24369.0,ARG,AR,SA,Subtropical
+323,1967,Australia,556425.0,AUS,AU,OC,Subtropical
+324,1967,Australia,4873798.0,AUS,AU,OC,Subtropical
+335,1967,Algeria,24369.0,DZA,DZ,AF,Subtropical
+344,1968,Australia,7790.0,AUS,AU,OC,Subtropical
+345,1968,Bangladesh,11685.0,BGD,BD,AS,Subtropical
+346,1968,Bangladesh,1553369.0,BGD,BD,AS,Subtropical
+351,1968,Chile,428462.0,CHL,CL,SA,Subtropical
+369,1969,Afghanistan,1477.0,AFG,AF,AS,Subtropical
+375,1969,Bangladesh,61524.0,BGD,BD,AS,Subtropical
+380,1969,Cyprus,739.0,CYP,CY,AS,Subtropical
+381,1969,Algeria,73867.0,DZA,DZ,AF,Subtropical
+391,1970,Argentina,174481.0,ARG,AR,SA,Subtropical
+392,1970,Australia,505822.0,AUS,AU,OC,Subtropical
+394,1970,Bangladesh,603008.0,BGD,BD,AS,Subtropical
+396,1970,Bangladesh,174481.0,BGD,BD,AS,Subtropical
+423,1971,Australia,133840.0,AUS,AU,OC,Subtropical
+424,1971,Australia,797812.0,AUS,AU,OC,Subtropical
+430,1971,Chile,16730.0,CHL,CL,SA,Subtropical
+467,1973,Australia,433307.0,AUS,AU,OC,Subtropical
+479,1973,Algeria,61029.0,DZA,DZ,AF,Subtropical
+495,1974,Australia,4396331.0,AUS,AU,OC,Subtropical
+496,1974,Australia,1630583.0,AUS,AU,OC,Subtropical
+498,1974,Australia,32819.0,AUS,AU,OC,Subtropical
+502,1974,Bangladesh,3182944.0,BGD,BD,AS,Subtropical
+510,1974,Chile,54954.0,CHL,CL,SA,Subtropical
+515,1974,Algeria,164862.0,DZA,DZ,AF,Subtropical
+544,1976,Australia,181052.0,AUS,AU,OC,Subtropical
+550,1976,Bangladesh,957.0,BGD,BD,AS,Subtropical
+580,1977,Australia,9693.0,AUS,AU,OC,Subtropical
+584,1977,Bangladesh,223542.0,BGD,BD,AS,Subtropical
+597,1977,Chile,30402.0,CHL,CL,SA,Subtropical
+604,1977,Greece,125183.0,GRC,GR,EU,Subtropical
+615,1978,Afghanistan,216000.0,AFG,AF,AS,Subtropical
+618,1978,Australia,4153853.0,AUS,AU,OC,Subtropical
+642,1900,United States of America (the),974947.0,USA,US,NA,Subtropical
+663,1911,Taiwan (Province of China),580325.0,TWN,TW,AS,Subtropical
+665,1912,Japan,560314.0,JPN,JP,AS,Subtropical
+667,1913,United States of America (the),5471082.0,USA,US,NA,Subtropical
+669,1915,United States of America (the),1603531.0,USA,US,NA,Subtropical
+671,1917,Japan,1055137.0,JPN,JP,AS,Subtropical
+673,1918,United States of America (the),1797468.0,USA,US,NA,Subtropical
+674,1919,United States of America (the),389854.0,USA,US,NA,Subtropical
+680,1923,Japan,158683.0,JPN,JP,AS,Subtropical
+685,1925,United States of America (the),277499.0,USA,US,NA,Subtropical
+690,1926,United States of America (the),1114836.0,USA,US,NA,Subtropical
+691,1927,United States of America (the),342414.0,USA,US,NA,Subtropical
+697,1928,United States of America (the),393632.0,USA,US,NA,Subtropical
+708,1934,Japan,1010517.0,JPN,JP,AS,Subtropical
+713,1935,United States of America (the),118319.0,USA,US,NA,Subtropical
+718,1936,United States of America (the),409150.0,USA,US,NA,Subtropical
+726,1938,United States of America (the),5877339.0,USA,US,NA,Subtropical
+742,1944,United States of America (the),1535833.0,USA,US,NA,Subtropical
+744,1945,Japan,6007066.0,JPN,JP,AS,Subtropical
+749,1947,United States of America (the),1210813.0,USA,US,NA,Subtropical
+750,1947,United States of America (the),363244.0,USA,US,NA,Subtropical
+782,1951,United States of America (the),1041610.0,USA,US,NA,Subtropical
+801,1953,United States of America (the),525469.0,USA,US,NA,Subtropical
+803,1954,Iraq,503380.0,IRQ,IQ,AS,Subtropical
+814,1954,United States of America (the),4530422.0,USA,US,NA,Subtropical
+815,1954,United States of America (the),2828997.0,USA,US,NA,Subtropical
+823,1955,Mexico,404810.0,MEX,MX,NA,Subtropical
+828,1955,United States of America (the),8420046.0,USA,US,NA,Subtropical
+852,1957,United States of America (the),1446887.0,USA,US,NA,Subtropical
+859,1958,United States of America (the),4882618.0,USA,US,NA,Subtropical
+860,1959,Japan,5577419.0,JPN,JP,AS,Subtropical
+866,1959,Mexico,185914.0,MEX,MX,NA,Subtropical
+873,1959,Taiwan (Province of China),464785.0,TWN,TW,AS,Subtropical
+894,1960,United States of America (the),3545740.0,USA,US,NA,Subtropical
+908,1961,United States of America (the),3698544.0,USA,US,NA,Subtropical
+950,1964,Korea (the Republic of),8736.0,KOR,KR,AS,Subtropical
+954,1964,Pakistan,35819.0,PAK,PK,AS,Subtropical
+955,1964,Pakistan,4368.0,PAK,PK,AS,Subtropical
+961,1964,Tunisia,26209.0,TUN,TN,AF,Subtropical
+963,1964,Turkey,19220.0,TUR,TR,AS,Subtropical
+967,1964,United States of America (the),2184066.0,USA,US,NA,Subtropical
+970,1965,Jordan,8600.0,JOR,JO,AS,Subtropical
+975,1965,Japan,773994.0,JPN,JP,AS,Subtropical
+977,1965,Korea (the Republic of),313898.0,KOR,KR,AS,Subtropical
+978,1965,Morocco,43000.0,MAR,MA,AF,Subtropical
+980,1965,Mexico,68800.0,MEX,MX,NA,Subtropical
+991,1965,United States of America (the),1633988.0,USA,US,NA,Subtropical
+992,1965,United States of America (the),12211912.0,USA,US,NA,Subtropical
+996,1966,Jordan,11688.0,JOR,JO,AS,Subtropical
+998,1966,Japan,65951.0,JPN,JP,AS,Subtropical
+999,1966,Korea (the Republic of),15862.0,KOR,KR,AS,Subtropical
+1003,1966,Mexico,200358.0,MEX,MX,NA,Subtropical
+1018,1966,Taiwan (Province of China),144608.0,TWN,TW,AS,Subtropical
+1019,1966,United States of America (the),834823.0,USA,US,NA,Subtropical
+1023,1967,Iraq,40615.0,IRQ,IQ,AS,Subtropical
+1026,1967,Japan,162460.0,JPN,JP,AS,Subtropical
+1031,1967,Mexico,1494631.0,MEX,MX,NA,Subtropical
+1033,1967,Mexico,4061.0,MEX,MX,NA,Subtropical
+1042,1967,Pakistan,22744.0,PAK,PK,AS,Subtropical
+1045,1967,Portugal,24369.0,PRT,PT,EU,Subtropical
+1047,1967,Syrian Arab Republic,40615.0,SYR,SY,AS,Subtropical
+1051,1967,Uruguay,316797.0,URY,UY,SA,Subtropical
+1052,1967,United States of America (the),1624599.0,USA,US,NA,Subtropical
+1057,1968,Iraq,23371.0,IRQ,IQ,AS,Subtropical
+1064,1968,Korea (the Republic of),23371.0,KOR,KR,AS,Subtropical
+1066,1968,Lesotho,7790.0,LSO,LS,AF,Subtropical
+1074,1968,Nepal,2337.0,NPL,NP,AS,Subtropical
+1088,1969,Iraq,14773.0,IRQ,IQ,AS,Subtropical
+1091,1969,Korea (the Republic of),165463.0,KOR,KR,AS,Subtropical
+1104,1969,Tunisia,738672.0,TUN,TN,AF,Subtropical
+1105,1969,Taiwan (Province of China),650032.0,TWN,TW,AS,Subtropical
+1107,1969,United States of America (the),10489149.0,USA,US,NA,Subtropical
+1115,1970,Korea (the Republic of),35594.0,KOR,KR,AS,Subtropical
+1117,1970,Morocco,209378.0,MAR,MA,AF,Subtropical
+1138,1970,United States of America (the),1025951.0,USA,US,NA,Subtropical
+1139,1970,United States of America (the),3140666.0,USA,US,NA,Subtropical
+1140,1970,United States of America (the),697926.0,USA,US,NA,Subtropical
+1149,1971,Morocco,669.0,MAR,MA,AF,Subtropical
+1168,1972,Korea (the Republic of),471740.0,KOR,KR,AS,Subtropical
+1169,1972,Korea (the Republic of),4108.0,KOR,KR,AS,Subtropical
+1176,1972,Nepal,64799.0,NPL,NP,AS,Subtropical
+1186,1972,United States of America (the),13607882.0,USA,US,NA,Subtropical
+1196,1973,Mexico,610292.0,MEX,MX,NA,Subtropical
+1197,1973,Pakistan,4037083.0,PAK,PK,AS,Subtropical
+1206,1973,Tunisia,30515.0,TUN,TN,AF,Subtropical
+1214,1974,Japan,2198166.0,JPN,JP,AS,Subtropical
+1231,1974,Syrian Arab Republic,214321.0,SYR,SY,AS,Subtropical
+1235,1974,United States of America (the),5495414.0,USA,US,NA,Subtropical
+1243,1975,Japan,2542700.0,JPN,JP,AS,Subtropical
+1262,1975,United States of America (the),2769278.0,USA,US,NA,Subtropical
+1264,1976,Japan,3809210.0,JPN,JP,AS,Subtropical
+1265,1976,Japan,190460.0,JPN,JP,AS,Subtropical
+1266,1976,Korea (the Republic of),476151.0,KOR,KR,AS,Subtropical
+1268,1976,Mexico,476151.0,MEX,MX,NA,Subtropical
+1278,1976,Pakistan,2404564.0,PAK,PK,AS,Subtropical
+1294,1977,Japan,53650.0,JPN,JP,AS,Subtropical
+1296,1977,Korea (the Republic of),89417.0,KOR,KR,AS,Subtropical
+1297,1977,Korea (the Republic of),58121.0,KOR,KR,AS,Subtropical
+1328,1977,Taiwan (Province of China),1117708.0,TWN,TW,AS,Subtropical
+1329,1977,Taiwan (Province of China),4471.0,TWN,TW,AS,Subtropical
+1332,1977,United States of America (the),894167.0,USA,US,NA,Subtropical
+1334,1977,United States of America (the),12518331.0,USA,US,NA,Subtropical
+1335,1978,Nepal,2131.0,NPL,NP,AS,Subtropical
+1341,1978,Korea (the Republic of),78923.0,KOR,KR,AS,Subtropical
+1342,1978,Korea (the Republic of),1662.0,KOR,KR,AS,Subtropical
+1346,1978,Mexico,100939.0,MEX,MX,NA,Subtropical
+1360,1978,United States of America (the),415385.0,USA,US,NA,Subtropical
+1361,1903,United States of America (the),14443657.0,USA,US,NA,Subtropical
+1363,1927,United States of America (the),3580.0,USA,US,NA,Subtropical
+1366,1937,United States of America (the),8237398.0,USA,US,NA,Subtropical
+1368,1943,United States of America (the),14061733.0,USA,US,NA,Subtropical
+1380,1950,United States of America (the),1123728.0,USA,US,NA,Subtropical
+1384,1951,United States of America (the),10718165.0,USA,US,NA,Subtropical
+1412,1962,United States of America (the),1791535.0,USA,US,NA,Subtropical
+1413,1962,United States of America (the),1343651.0,USA,US,NA,Subtropical
+1417,1964,United States of America (the),7163735.0,USA,US,NA,Subtropical
+1439,1968,United States of America (the),62322.0,USA,US,NA,Subtropical
+1443,1968,South Africa,233706.0,ZAF,ZA,AF,Subtropical
+1445,1969,United States of America (the),2954690.0,USA,US,NA,Subtropical
+1457,1972,United States of America (the),777593.0,USA,US,NA,Subtropical
+1462,1973,United States of America (the),305146.0,USA,US,NA,Subtropical
+1463,1973,United States of America (the),3051461.0,USA,US,NA,Subtropical
+1477,1976,United States of America (the),195222.0,USA,US,NA,Subtropical
+1491,1978,Australia,71687.0,AUS,AU,OC,Subtropical
+1492,1978,Australia,14339.0,AUS,AU,OC,Subtropical
+1503,1979,Australia,116811.0,AUS,AU,OC,Subtropical
+1520,1979,Egypt,52271.0,EGY,EG,AF,Subtropical
+1538,1980,Bangladesh,493220.0,BGD,BD,AS,Subtropical
+1549,1980,China,526101.0,CHN,CN,AS,Subtropical
+1569,1981,Australia,33613.0,AUS,AU,OC,Subtropical
+1570,1981,Australia,17880869.0,AUS,AU,OC,Subtropical
+1583,1981,China,3278159.0,CHN,CN,AS,Subtropical
+1584,1981,China,3576174.0,CHN,CN,AS,Subtropical
+1607,1982,Australia,34971.0,AUS,AU,OC,Subtropical
+1608,1982,Australia,33041.0,AUS,AU,OC,Subtropical
+1609,1982,Australia,19274.0,AUS,AU,OC,Subtropical
+1648,1983,Argentina,2720579.0,ARG,AR,SA,Subtropical
+1649,1983,Argentina,2176463.0,ARG,AR,SA,Subtropical
+1651,1983,Australia,1088232.0,AUS,AU,OC,Subtropical
+1712,1984,Australia,7825.0,AUS,AU,OC,Subtropical
+1755,1985,Bangladesh,125954.0,BGD,BD,AS,Subtropical
+1759,1985,Argentina,579390.0,ARG,AR,SA,Subtropical
+1760,1985,Argentina,3274812.0,ARG,AR,SA,Subtropical
+1761,1985,Australia,307329.0,AUS,AU,OC,Subtropical
+1762,1985,Australia,37786.0,AUS,AU,OC,Subtropical
+1763,1985,Australia,45769.0,AUS,AU,OC,Subtropical
+1773,1985,Bermuda,5038.0,BMU,BM,NA,Subtropical
+1787,1985,China,3527.0,CHN,CN,AS,Subtropical
+1789,1985,China,881680.0,CHN,CN,AS,Subtropical
+1790,1985,China,881680.0,CHN,CN,AS,Subtropical
+1792,1985,China,3401.0,CHN,CN,AS,Subtropical
+1824,1986,Australia,173051.0,AUS,AU,OC,Subtropical
+1825,1986,Australia,126080.0,AUS,AU,OC,Subtropical
+1826,1986,Australia,168243.0,AUS,AU,OC,Subtropical
+1827,1986,Australia,158713.0,AUS,AU,OC,Subtropical
+1834,1986,Bermuda,3708.0,BMU,BM,NA,Subtropical
+1844,1986,Chile,42521.0,CHL,CL,SA,Subtropical
+1846,1986,China,939422.0,CHN,CN,AS,Subtropical
+1847,1986,China,133497.0,CHN,CN,AS,Subtropical
+1848,1986,China,2323833.0,CHN,CN,AS,Subtropical
+1850,1986,China,123608.0,CHN,CN,AS,Subtropical
+1851,1986,China,7911.0,CHN,CN,AS,Subtropical
+1852,1986,China,3708244.0,CHN,CN,AS,Subtropical
+1853,1986,China,2991.0,CHN,CN,AS,Subtropical
+1871,1987,Argentina,238477.0,ARG,AR,SA,Subtropical
+1873,1987,Argentina,23848.0,ARG,AR,SA,Subtropical
+1874,1987,Bangladesh,786975.0,BGD,BD,AS,Subtropical
+1876,1987,Bangladesh,1734921.0,BGD,BD,AS,Subtropical
+1877,1987,Bermuda,119239.0,BMU,BM,NA,Subtropical
+1888,1987,Chile,422105.0,CHL,CL,SA,Subtropical
+1898,1987,China,286173.0,CHN,CN,AS,Subtropical
+1900,1987,China,262325.0,CHN,CN,AS,Subtropical
+1925,1987,Greece,834670.0,GRC,GR,EU,Subtropical
+1933,1988,China,2160472.0,CHN,CN,AS,Subtropical
+1935,1988,Afghanistan,595748.0,AFG,AF,AS,Subtropical
+1936,1988,Argentina,1122755.0,ARG,AR,SA,Subtropical
+1938,1988,Australia,46782.0,AUS,AU,OC,Subtropical
+1946,1988,Bangladesh,4896587.0,BGD,BD,AS,Subtropical
+1961,1988,China,209987.0,CHN,CN,AS,Subtropical
+1962,1988,China,27496.0,CHN,CN,AS,Subtropical
+1964,1988,China,1237322.0,CHN,CN,AS,Subtropical
+1969,1988,China,2436984.0,CHN,CN,AS,Subtropical
+1972,1988,China,586582.0,CHN,CN,AS,Subtropical
+1993,1989,Bangladesh,35410.0,BGD,BD,AS,Subtropical
+2039,1979,Korea (the Republic of),149346.0,KOR,KR,AS,Subtropical
+2063,1979,Portugal,112010.0,PRT,PT,EU,Subtropical
+2064,1979,Portugal,7841.0,PRT,PT,EU,Subtropical
+2090,1980,Korea (the Republic of),23740.0,KOR,KR,AS,Subtropical
+2094,1980,Mexico,286068.0,MEX,MX,NA,Subtropical
+2136,1981,Korea (the Republic of),399339.0,KOR,KR,AS,Subtropical
+2141,1981,Mexico,119206.0,MEX,MX,NA,Subtropical
+2188,1982,Japan,384693.0,JPN,JP,AS,Subtropical
+2189,1982,Japan,50544.0,JPN,JP,AS,Subtropical
+2190,1982,Japan,160055.0,JPN,JP,AS,Subtropical
+2191,1982,Japan,89855.0,JPN,JP,AS,Subtropical
+2194,1982,Korea (the Republic of),84239.0,KOR,KR,AS,Subtropical
+2201,1982,Mexico,231377.0,MEX,MX,NA,Subtropical
+2202,1982,Mexico,321794.0,MEX,MX,NA,Subtropical
+2267,1983,Nepal,27206.0,NPL,NP,AS,Subtropical
+2287,1983,Portugal,258455.0,PRT,PT,EU,Subtropical
+2288,1983,Portugal,258455.0,PRT,PT,EU,Subtropical
+2315,1984,Korea (the Republic of),104336.0,KOR,KR,AS,Subtropical
+2316,1984,Korea (the Republic of),430387.0,KOR,KR,AS,Subtropical
+2356,1985,Japan,250649.0,JPN,JP,AS,Subtropical
+2357,1985,Korea (the Republic of),35267.0,KOR,KR,AS,Subtropical
+2377,1985,Portugal,239313.0,PRT,PT,EU,Subtropical
+2378,1985,Saudi Arabia,1133589.0,SAU,SA,AS,Subtropical
+2399,1986,Iran (Islamic Republic of),3859046.0,IRN,IR,AS,Subtropical
+2400,1986,Iran (Islamic Republic of),74165.0,IRN,IR,AS,Subtropical
+2406,1986,Japan,5438758.0,JPN,JP,AS,Subtropical
+2408,1986,Korea (the Republic of),26947.0,KOR,KR,AS,Subtropical
+2435,1987,Nepal,227722.0,NPL,NP,AS,Subtropical
+2474,1987,Korea (the Republic of),52465.0,KOR,KR,AS,Subtropical
+2475,1987,Korea (the Republic of),775051.0,KOR,KR,AS,Subtropical
+2476,1987,Korea (the Republic of),476954.0,KOR,KR,AS,Subtropical
+2478,1987,Lebanon,23848.0,LBN,LB,AS,Subtropical
+2507,1988,Mexico,174142.0,MEX,MX,NA,Subtropical
+2528,1988,Iran (Islamic Republic of),343701.0,IRN,IR,AS,Subtropical
+2538,1988,Mexico,1375.0,MEX,MX,NA,Subtropical
+2540,1988,Mexico,572834.0,MEX,MX,NA,Subtropical
+2586,1979,United States of America (the),2053508.0,USA,US,NA,Subtropical
+2587,1979,United States of America (the),48537.0,USA,US,NA,Subtropical
+2588,1979,United States of America (the),8587395.0,USA,US,NA,Subtropical
+2593,1980,United States of America (the),6576268.0,USA,US,NA,Subtropical
+2595,1980,United States of America (the),2827795.0,USA,US,NA,Subtropical
+2600,1980,Turkey,49322.0,TUR,TR,AS,Subtropical
+2601,1980,United States of America (the),98644.0,USA,US,NA,Subtropical
+2602,1980,United States of America (the),65763.0,USA,US,NA,Subtropical
+2605,1980,United States of America (the),1150847.0,USA,US,NA,Subtropical
+2619,1981,United States of America (the),1192058.0,USA,US,NA,Subtropical
+2620,1981,United States of America (the),1373847.0,USA,US,NA,Subtropical
+2630,1981,South Africa,2980.0,ZAF,ZA,AF,Subtropical
+2640,1982,Tunisia,252718.0,TUN,TN,AF,Subtropical
+2642,1982,United States of America (the),1403988.0,USA,US,NA,Subtropical
+2643,1982,United States of America (the),280798.0,USA,US,NA,Subtropical
+2645,1982,United States of America (the),561595.0,USA,US,NA,Subtropical
+2646,1982,United States of America (the),645834.0,USA,US,NA,Subtropical
+2647,1982,United States of America (the),2807976.0,USA,US,NA,Subtropical
+2649,1982,United States of America (the),95190.0,USA,US,NA,Subtropical
+2650,1982,United States of America (the),112319.0,USA,US,NA,Subtropical
+2651,1982,United States of America (the),117935.0,USA,US,NA,Subtropical
+2665,1983,United States of America (the),8161738.0,USA,US,NA,Subtropical
+2667,1983,United States of America (the),1428304.0,USA,US,NA,Subtropical
+2668,1983,United States of America (the),2720579.0,USA,US,NA,Subtropical
+2669,1983,United States of America (the),816174.0,USA,US,NA,Subtropical
+2670,1983,United States of America (the),272058.0,USA,US,NA,Subtropical
+2671,1983,United States of America (the),353675.0,USA,US,NA,Subtropical
+2687,1984,Eswatini,141250.0,SWZ,SZ,AF,Subtropical
+2695,1984,United States of America (the),1900483.0,USA,US,NA,Subtropical
+2696,1984,United States of America (the),1565042.0,USA,US,NA,Subtropical
+2697,1984,United States of America (the),91294.0,USA,US,NA,Subtropical
+2698,1984,United States of America (the),2608404.0,USA,US,NA,Subtropical
+2699,1984,United States of America (the),78252.0,USA,US,NA,Subtropical
+2700,1984,United States of America (the),52168.0,USA,US,NA,Subtropical
+2701,1984,United States of America (the),44343.0,USA,US,NA,Subtropical
+2702,1984,United States of America (the),91294.0,USA,US,NA,Subtropical
+2703,1984,United States of America (the),299966.0,USA,US,NA,Subtropical
+2708,1984,United States of America (the),78252.0,USA,US,NA,Subtropical
+2712,1984,South Africa,130420.0,ZAF,ZA,AF,Subtropical
+2713,1984,South Africa,239973.0,ZAF,ZA,AF,Subtropical
+2723,1985,United States of America (the),583420.0,USA,US,NA,Subtropical
+2726,1985,United States of America (the),1008.0,USA,US,NA,Subtropical
+2727,1985,United States of America (the),30481.0,USA,US,NA,Subtropical
+2730,1985,United States of America (the),2770995.0,USA,US,NA,Subtropical
+2731,1985,United States of America (the),2267178.0,USA,US,NA,Subtropical
+2732,1985,United States of America (the),3778629.0,USA,US,NA,Subtropical
+2734,1985,United States of America (the),856489.0,USA,US,NA,Subtropical
+2735,1985,United States of America (the),2015269.0,USA,US,NA,Subtropical
+2736,1985,United States of America (the),503817.0,USA,US,NA,Subtropical
+2737,1985,United States of America (the),25191.0,USA,US,NA,Subtropical
+2743,1986,United States of America (the),4326285.0,USA,US,NA,Subtropical
+2749,1986,Taiwan (Province of China),1001226.0,TWN,TW,AS,Subtropical
+2750,1986,Taiwan (Province of China),197773.0,TWN,TW,AS,Subtropical
+2753,1986,United States of America (the),98887.0,USA,US,NA,Subtropical
+2756,1986,United States of America (the),74165.0,USA,US,NA,Subtropical
+2757,1986,United States of America (the),61804.0,USA,US,NA,Subtropical
+2774,1987,United States of America (the),11924.0,USA,US,NA,Subtropical
+2776,1987,United States of America (the),274249.0,USA,US,NA,Subtropical
+2777,1987,United States of America (the),38156.0,USA,US,NA,Subtropical
+2781,1987,United States of America (the),138317.0,USA,US,NA,Subtropical
+2782,1987,United States of America (the),23848.0,USA,US,NA,Subtropical
+2791,1987,South Africa,1825078.0,ZAF,ZA,AF,Subtropical
+2849,1989,Australia,206123.0,AUS,AU,OC,Subtropical
+2850,1989,Australia,29751.0,AUS,AU,OC,Subtropical
+2868,1989,China,874331.0,CHN,CN,AS,Subtropical
+2872,1989,China,1060126.0,CHN,CN,AS,Subtropical
+2874,1989,China,6096271.0,CHN,CN,AS,Subtropical
+2887,1990,Australia,162177.0,AUS,AU,OC,Subtropical
+2888,1990,Australia,405444.0,AUS,AU,OC,Subtropical
+2889,1990,Australia,322696.0,AUS,AU,OC,Subtropical
+2905,1990,Bangladesh,12443.0,BGD,BD,AS,Subtropical
+2922,1990,China,435515.0,CHN,CN,AS,Subtropical
+2923,1990,China,695.0,CHN,CN,AS,Subtropical
+2925,1990,China,1227737.0,CHN,CN,AS,Subtropical
+2926,1990,China,437589.0,CHN,CN,AS,Subtropical
+2928,1990,China,33182.0,CHN,CN,AS,Subtropical
+2929,1990,China,58069.0,CHN,CN,AS,Subtropical
+2930,1990,China,325599.0,CHN,CN,AS,Subtropical
+2931,1990,China,172132.0,CHN,CN,AS,Subtropical
+2932,1990,China,1426829.0,CHN,CN,AS,Subtropical
+2933,1990,China,319378.0,CHN,CN,AS,Subtropical
+2934,1990,China,1540893.0,CHN,CN,AS,Subtropical
+2954,1991,China,14922150.0,CHN,CN,AS,Subtropical
+2957,1991,China,55709.0,CHN,CN,AS,Subtropical
+2959,1991,Bangladesh,3541524.0,BGD,BD,AS,Subtropical
+2960,1991,Afghanistan,119377.0,AFG,AF,AS,Subtropical
+2965,1991,Australia,941090.0,AUS,AU,OC,Subtropical
+2966,1991,Australia,3104.0,AUS,AU,OC,Subtropical
+2970,1991,Bangladesh,298443.0,BGD,BD,AS,Subtropical
+2975,1991,Chile,397924.0,CHL,CL,SA,Subtropical
+2976,1991,Chile,11938.0,CHL,CL,SA,Subtropical
+2977,1991,China,1054499.0,CHN,CN,AS,Subtropical
+2978,1991,China,925830.0,CHN,CN,AS,Subtropical
+2979,1991,China,218858.0,CHN,CN,AS,Subtropical
+2980,1991,China,233900.0,CHN,CN,AS,Subtropical
+2983,1991,China,28093.0,CHN,CN,AS,Subtropical
+2984,1991,China,9550.0,CHN,CN,AS,Subtropical
+2994,1992,Argentina,482782.0,ARG,AR,SA,Subtropical
+2995,1992,China,185388.0,CHN,CN,AS,Subtropical
+2996,1992,China,132669.0,CHN,CN,AS,Subtropical
+2997,1992,China,173802.0,CHN,CN,AS,Subtropical
+2998,1992,Afghanistan,7725.0,AFG,AF,AS,Subtropical
+3001,1992,China,212424.0,CHN,CN,AS,Subtropical
+3002,1992,China,7145.0,CHN,CN,AS,Subtropical
+3004,1992,China,796398.0,CHN,CN,AS,Subtropical
+3007,1992,Argentina,502094.0,ARG,AR,SA,Subtropical
+3008,1992,Australia,199099.0,AUS,AU,OC,Subtropical
+3009,1992,Australia,530868.0,AUS,AU,OC,Subtropical
+3010,1992,Australia,2896694.0,AUS,AU,OC,Subtropical
+3016,1992,Bahamas (the),482782.0,BHS,BS,NA,Subtropical
+3025,1992,Chile,231736.0,CHL,CL,SA,Subtropical
+3028,1992,China,328292.0,CHN,CN,AS,Subtropical
+3029,1992,China,281945.0,CHN,CN,AS,Subtropical
+3030,1992,China,146766.0,CHN,CN,AS,Subtropical
+3031,1992,China,6566.0,CHN,CN,AS,Subtropical
+3032,1992,China,820730.0,CHN,CN,AS,Subtropical
+3033,1992,China,102736.0,CHN,CN,AS,Subtropical
+3035,1992,China,132669.0,CHN,CN,AS,Subtropical
+3036,1992,China,212424.0,CHN,CN,AS,Subtropical
+3042,1992,Algeria,1738.0,DZA,DZ,AF,Subtropical
+3051,1993,Argentina,750305.0,ARG,AR,SA,Subtropical
+3052,1993,Argentina,1125458.0,ARG,AR,SA,Subtropical
+3053,1993,Argentina,93788.0,ARG,AR,SA,Subtropical
+3054,1993,Argentina,172570.0,ARG,AR,SA,Subtropical
+3056,1993,Australia,8629.0,AUS,AU,OC,Subtropical
+3077,1993,Chile,63776.0,CHL,CL,SA,Subtropical
+3079,1993,China,165067.0,CHN,CN,AS,Subtropical
+3080,1993,China,76906.0,CHN,CN,AS,Subtropical
+3084,1993,China,50646.0,CHN,CN,AS,Subtropical
+3086,1993,China,813931.0,CHN,CN,AS,Subtropical
+3088,1993,China,412049.0,CHN,CN,AS,Subtropical
+3089,1993,China,23653.0,CHN,CN,AS,Subtropical
+3090,1993,China,494583.0,CHN,CN,AS,Subtropical
+3091,1993,China,537162.0,CHN,CN,AS,Subtropical
+3092,1993,China,29806.0,CHN,CN,AS,Subtropical
+3093,1993,China,13843.0,CHN,CN,AS,Subtropical
+3094,1993,China,11369004.0,CHN,CN,AS,Subtropical
+3111,1994,Australia,274215.0,AUS,AU,OC,Subtropical
+3113,1994,Bangladesh,228512.0,BGD,BD,AS,Subtropical
+3114,1994,Bangladesh,4570.0,BGD,BD,AS,Subtropical
+3119,1994,China,9981410.0,CHN,CN,AS,Subtropical
+3120,1994,China,3308856.0,CHN,CN,AS,Subtropical
+3121,1994,China,1279668.0,CHN,CN,AS,Subtropical
+3122,1994,China,365619.0,CHN,CN,AS,Subtropical
+3158,1989,Iran (Islamic Republic of),4372.0,IRN,IR,AS,Subtropical
+3164,1989,Korea (the Republic of),385798.0,KOR,KR,AS,Subtropical
+3168,1989,Mexico,181861.0,MEX,MX,NA,Subtropical
+3198,1990,Mexico,91251.0,MEX,MX,NA,Subtropical
+3199,1990,Greece,2073880.0,GRC,GR,EU,Subtropical
+3249,1990,Iran (Islamic Republic of),160518.0,IRN,IR,AS,Subtropical
+3254,1990,Japan,26960.0,JPN,JP,AS,Subtropical
+3255,1990,Japan,3525596.0,JPN,JP,AS,Subtropical
+3256,1990,Japan,8295520.0,JPN,JP,AS,Subtropical
+3259,1990,Korea (the Republic of),78807.0,KOR,KR,AS,Subtropical
+3261,1990,Korea (the Republic of),12443.0,KOR,KR,AS,Subtropical
+3273,1990,Mexico,188101.0,MEX,MX,NA,Subtropical
+3308,1991,Korea (the Republic of),208910.0,KOR,KR,AS,Subtropical
+3335,1991,Iran (Islamic Republic of),55709.0,IRN,IR,AS,Subtropical
+3336,1991,Iran (Islamic Republic of),803806.0,IRN,IR,AS,Subtropical
+3337,1991,Iran (Islamic Republic of),2785.0,IRN,IR,AS,Subtropical
+3343,1991,Japan,9948.0,JPN,JP,AS,Subtropical
+3344,1991,Japan,162154.0,JPN,JP,AS,Subtropical
+3347,1991,Japan,19896200.0,JPN,JP,AS,Subtropical
+3350,1991,Korea (the Republic of),616782.0,KOR,KR,AS,Subtropical
+3358,1991,Mexico,3979.0,MEX,MX,NA,Subtropical
+3385,1992,Jordan,772452.0,JOR,JO,AS,Subtropical
+3386,1992,Mexico,150628.0,MEX,MX,NA,Subtropical
+3387,1992,Iran (Islamic Republic of),966144.0,IRN,IR,AS,Subtropical
+3388,1992,Lebanon,299325.0,LBN,LB,AS,Subtropical
+3411,1992,Iran (Islamic Republic of),5733717.0,IRN,IR,AS,Subtropical
+3413,1992,Israel,1062121.0,ISR,IL,AS,Subtropical
+3425,1992,Mexico,5793.0,MEX,MX,NA,Subtropical
+3432,1992,Nepal,11973.0,NPL,NP,AS,Subtropical
+3436,1992,Pakistan,1931130.0,PAK,PK,AS,Subtropical
+3437,1992,Pakistan,444.0,PAK,PK,AS,Subtropical
+3452,1993,Mexico,178948.0,MEX,MX,NA,Subtropical
+3455,1993,Iran (Islamic Republic of),1875764.0,IRN,IR,AS,Subtropical
+3456,1993,Nepal,375153.0,NPL,NP,AS,Subtropical
+3494,1993,Iran (Islamic Republic of),28136.0,IRN,IR,AS,Subtropical
+3495,1993,Iran (Islamic Republic of),32451.0,IRN,IR,AS,Subtropical
+3496,1993,Iran (Islamic Republic of),392035.0,IRN,IR,AS,Subtropical
+3499,1993,Japan,393910.0,JPN,JP,AS,Subtropical
+3500,1993,Japan,2438493.0,JPN,JP,AS,Subtropical
+3501,1993,Japan,844094.0,JPN,JP,AS,Subtropical
+3505,1993,Korea (the Republic of),203896.0,KOR,KR,AS,Subtropical
+3506,1993,Korea (the Republic of),55134.0,KOR,KR,AS,Subtropical
+3516,1993,Mexico,4689.0,MEX,MX,NA,Subtropical
+3519,1993,Mexico,3132525.0,MEX,MX,NA,Subtropical
+3570,1994,Pakistan,168185.0,PAK,PK,AS,Subtropical
+3596,1989,United States of America (the),15300789.0,USA,US,NA,Subtropical
+3597,1989,United States of America (the),1092913.0,USA,US,NA,Subtropical
+3601,1989,United States of America (the),830614.0,USA,US,NA,Subtropical
+3619,1990,United States of America (the),207388.0,USA,US,NA,Subtropical
+3620,1990,United States of America (the),1036940.0,USA,US,NA,Subtropical
+3628,1990,United States of America (the),93325.0,USA,US,NA,Subtropical
+3637,1990,Eswatini,3606.0,SWZ,SZ,AF,Subtropical
+3644,1990,Tunisia,503538.0,TUN,TN,AF,Subtropical
+3645,1990,Turkey,311082.0,TUR,TR,AS,Subtropical
+3657,1990,United States of America (the),72586.0,USA,US,NA,Subtropical
+3660,1990,United States of America (the),82955.0,USA,US,NA,Subtropical
+3671,1990,South Africa,815035.0,ZAF,ZA,AF,Subtropical
+3672,1990,South Africa,2073880.0,ZAF,ZA,AF,Subtropical
+3680,1991,United States of America (the),1989620.0,USA,US,NA,Subtropical
+3689,1991,Turkey,49741.0,TUR,TR,AS,Subtropical
+3701,1991,United States of America (the),59689.0,USA,US,NA,Subtropical
+3714,1991,United States of America (the),2984430.0,USA,US,NA,Subtropical
+3718,1991,United States of America (the),4974050.0,USA,US,NA,Subtropical
+3719,1991,United States of America (the),1989620.0,USA,US,NA,Subtropical
+3720,1991,United States of America (the),666523.0,USA,US,NA,Subtropical
+3721,1991,United States of America (the),59689.0,USA,US,NA,Subtropical
+3723,1991,United States of America (the),1691177.0,USA,US,NA,Subtropical
+3733,1992,United States of America (the),9655648.0,USA,US,NA,Subtropical
+3742,1992,Tajikistan,46540.0,TJK,TJ,AS,Subtropical
+3743,1992,Tajikistan,579339.0,TJK,TJ,AS,Subtropical
+3744,1992,Taiwan (Province of China),67590.0,TWN,TW,AS,Subtropical
+3767,1992,United States of America (the),51174936.0,USA,US,NA,Subtropical
+3769,1992,United States of America (the),164146.0,USA,US,NA,Subtropical
+3770,1992,United States of America (the),173802.0,USA,US,NA,Subtropical
+3774,1992,United States of America (the),5793389.0,USA,US,NA,Subtropical
+3783,1993,Tajikistan,279489.0,TJK,TJ,AS,Subtropical
+3797,1993,Turkmenistan,187333.0,TKM,TM,AS,Subtropical
+3808,1993,United States of America (the),234470.0,USA,US,NA,Subtropical
+3818,1993,United States of America (the),22509164.0,USA,US,NA,Subtropical
+3820,1993,United States of America (the),187576.0,USA,US,NA,Subtropical
+3825,1993,United States of America (the),1875764.0,USA,US,NA,Subtropical
+3828,1993,United States of America (the),356395.0,USA,US,NA,Subtropical
+3831,1993,United States of America (the),9378818.0,USA,US,NA,Subtropical
+3841,1994,China,294324.0,CHN,CN,AS,Subtropical
+3843,1994,China,2102312.0,CHN,CN,AS,Subtropical
+3851,1994,United States of America (the),182810.0,USA,US,NA,Subtropical
+3854,1994,Australia,141860.0,AUS,AU,OC,Subtropical
+3877,1994,China,1828.0,CHN,CN,AS,Subtropical
+3878,1994,China,173669.0,CHN,CN,AS,Subtropical
+3879,1994,China,22120.0,CHN,CN,AS,Subtropical
+3881,1994,China,1280.0,CHN,CN,AS,Subtropical
+3882,1994,China,176046.0,CHN,CN,AS,Subtropical
+3884,1994,China,25145840.0,CHN,CN,AS,Subtropical
+3890,1995,Bangladesh,355642.0,BGD,BD,AS,Subtropical
+3891,1995,Bangladesh,533.0,BGD,BD,AS,Subtropical
+3892,1995,China,64193.0,CHN,CN,AS,Subtropical
+3904,1995,Australia,33253.0,AUS,AU,OC,Subtropical
+3905,1995,Australia,174265.0,AUS,AU,OC,Subtropical
+3907,1995,Australia,149370.0,AUS,AU,OC,Subtropical
+3908,1995,Australia,49790.0,AUS,AU,OC,Subtropical
+3917,1995,Bangladesh,311187.0,BGD,BD,AS,Subtropical
+3920,1995,Bangladesh,1422569.0,BGD,BD,AS,Subtropical
+3921,1995,Bahamas (the),711.0,BHS,BS,NA,Subtropical
+3936,1995,Chile,17782.0,CHL,CL,SA,Subtropical
+3939,1995,China,427.0,CHN,CN,AS,Subtropical
+3941,1995,China,11949577.0,CHN,CN,AS,Subtropical
+3944,1995,China,154704.0,CHN,CN,AS,Subtropical
+3946,1995,China,22761.0,CHN,CN,AS,Subtropical
+3947,1995,China,284514.0,CHN,CN,AS,Subtropical
+3948,1995,China,213741.0,CHN,CN,AS,Subtropical
+3951,1996,China,172757.0,CHN,CN,AS,Subtropical
+3952,1996,China,345514.0,CHN,CN,AS,Subtropical
+3954,1996,Australia,241860.0,AUS,AU,OC,Subtropical
+3955,1996,Australia,226312.0,AUS,AU,OC,Subtropical
+3956,1996,Australia,354671.0,AUS,AU,OC,Subtropical
+3957,1996,Australia,80678.0,AUS,AU,OC,Subtropical
+3958,1996,Australia,81196.0,AUS,AU,OC,Subtropical
+3960,1996,Australia,16123.0,AUS,AU,OC,Subtropical
+3961,1996,Australia,67721.0,AUS,AU,OC,Subtropical
+3962,1996,Australia,548159.0,AUS,AU,OC,Subtropical
+3964,1996,Azores Islands,114020.0,PRT,PT,EU,Subtropical
+3966,1996,Bangladesh,17276.0,BGD,BD,AS,Subtropical
+3980,1996,China,117475.0,CHN,CN,AS,Subtropical
+3982,1996,China,21767408.0,CHN,CN,AS,Subtropical
+3983,1996,China,10908754.0,CHN,CN,AS,Subtropical
+3987,1996,China,82923.0,CHN,CN,AS,Subtropical
+3988,1996,China,124385.0,CHN,CN,AS,Subtropical
+3989,1996,China,2591358.0,CHN,CN,AS,Subtropical
+3995,1997,China,270098.0,CHN,CN,AS,Subtropical
+3996,1997,Chile,307911.0,CHL,CL,SA,Subtropical
+3997,1997,China,1734364.0,CHN,CN,AS,Subtropical
+3998,1997,China,2112163.0,CHN,CN,AS,Subtropical
+3999,1997,China,1688.0,CHN,CN,AS,Subtropical
+4000,1997,China,978597.0,CHN,CN,AS,Subtropical
+4001,1997,Azores Islands,27516.0,PRT,PT,EU,Subtropical
+4002,1997,China,261657.0,CHN,CN,AS,Subtropical
+4003,1997,China,4557895.0,CHN,CN,AS,Subtropical
+4004,1997,China,557076.0,CHN,CN,AS,Subtropical
+4014,1997,Australia,11310.0,AUS,AU,OC,Subtropical
+4020,1997,Bangladesh,386577.0,BGD,BD,AS,Subtropical
+4046,1997,China,48955.0,CHN,CN,AS,Subtropical
+4049,1997,China,285459.0,CHN,CN,AS,Subtropical
+4050,1998,China,49869167.0,CHN,CN,AS,Subtropical
+4053,1998,Argentina,1828536.0,ARG,AR,SA,Subtropical
+4056,1998,Australia,101899.0,AUS,AU,OC,Subtropical
+4057,1998,Australia,166231.0,AUS,AU,OC,Subtropical
+4060,1998,Australia,166231.0,AUS,AU,OC,Subtropical
+4061,1998,Australia,203965.0,AUS,AU,OC,Subtropical
+4064,1998,Bangladesh,7147914.0,BGD,BD,AS,Subtropical
+4084,1998,China,224411.0,CHN,CN,AS,Subtropical
+4086,1998,China,33452.0,CHN,CN,AS,Subtropical
+4087,1998,China,57682.0,CHN,CN,AS,Subtropical
+4088,1998,China,1479452.0,CHN,CN,AS,Subtropical
+4089,1998,China,162906.0,CHN,CN,AS,Subtropical
+4092,1994,Egypt,255934.0,EGY,EG,AF,Subtropical
+4098,1994,Greece,800158.0,GRC,GR,EU,Subtropical
+4131,1994,Iran (Islamic Republic of),259590.0,IRN,IR,AS,Subtropical
+4138,1994,Japan,10969.0,JPN,JP,AS,Subtropical
+4142,1994,Korea (the Republic of),20.0,KOR,KR,AS,Subtropical
+4165,1995,Japan,17071.0,JPN,JP,AS,Subtropical
+4169,1995,Nepal,2134.0,NPL,NP,AS,Subtropical
+4175,1995,Korea (the Republic of),755740.0,KOR,KR,AS,Subtropical
+4180,1995,Korea (the Republic of),248950.0,KOR,KR,AS,Subtropical
+4216,1995,Iran (Islamic Republic of),10491.0,IRN,IR,AS,Subtropical
+4217,1995,Iran (Islamic Republic of),160039.0,IRN,IR,AS,Subtropical
+4221,1995,Israel,80019.0,ISR,IL,AS,Subtropical
+4222,1995,Japan,132121.0,JPN,JP,AS,Subtropical
+4229,1995,Libya,75040.0,LBY,LY,AF,Subtropical
+4231,1995,Morocco,16004.0,MAR,MA,AF,Subtropical
+4235,1995,Mexico,1422569.0,MEX,MX,NA,Subtropical
+4236,1995,Mexico,221743.0,MEX,MX,NA,Subtropical
+4237,1995,Mexico,2667316.0,MEX,MX,NA,Subtropical
+4239,1995,Mexico,177821.0,MEX,MX,NA,Subtropical
+4263,1996,Iran (Islamic Republic of),13700.0,IRN,IR,AS,Subtropical
+4265,1996,Korea (the Republic of),207309.0,KOR,KR,AS,Subtropical
+4323,1996,Iran (Islamic Republic of),15548.0,IRN,IR,AS,Subtropical
+4324,1996,Iran (Islamic Republic of),34551.0,IRN,IR,AS,Subtropical
+4325,1996,Iran (Islamic Republic of),22977.0,IRN,IR,AS,Subtropical
+4339,1996,Morocco,95016.0,MAR,MA,AF,Subtropical
+4344,1996,Mexico,17.0,MEX,MX,NA,Subtropical
+4347,1996,Mexico,2073086.0,MEX,MX,NA,Subtropical
+4377,1997,Korea (the Republic of),2785.0,KOR,KR,AS,Subtropical
+4387,1997,Egypt,1688.0,EGY,EG,AF,Subtropical
+4388,1997,Egypt,1688.0,EGY,EG,AF,Subtropical
+4401,1997,Greece,270098.0,GRC,GR,EU,Subtropical
+4418,1997,Iran (Islamic Republic of),8441.0,IRN,IR,AS,Subtropical
+4419,1997,Iran (Islamic Republic of),33762.0,IRN,IR,AS,Subtropical
+4420,1997,Israel,67524.0,ISR,IL,AS,Subtropical
+4423,1997,Jordan,1688.0,JOR,JO,AS,Subtropical
+4425,1997,Japan,168811.0,JPN,JP,AS,Subtropical
+4440,1997,Mexico,755935.0,MEX,MX,NA,Subtropical
+4443,1997,Mexico,6752.0,MEX,MX,NA,Subtropical
+4464,1998,Iran (Islamic Republic of),162906.0,IRN,IR,AS,Subtropical
+4465,1998,Iran (Islamic Republic of),83946.0,IRN,IR,AS,Subtropical
+4468,1998,Greece,1122056.0,GRC,GR,EU,Subtropical
+4469,1998,Mexico,13298.0,MEX,MX,NA,Subtropical
+4470,1998,Korea (the Republic of),43054.0,KOR,KR,AS,Subtropical
+4506,1998,Japan,4986917.0,JPN,JP,AS,Subtropical
+4507,1998,Japan,557704.0,JPN,JP,AS,Subtropical
+4512,1998,Korea (the Republic of),4744.0,KOR,KR,AS,Subtropical
+4513,1998,Korea (the Republic of),2460212.0,KOR,KR,AS,Subtropical
+4518,1998,Mexico,1001872.0,MEX,MX,NA,Subtropical
+4522,1998,Mexico,1662.0,MEX,MX,NA,Subtropical
+4533,1998,Nepal,8312.0,NPL,NP,AS,Subtropical
+4534,1998,Nepal,36571.0,NPL,NP,AS,Subtropical
+4548,1994,United States of America (the),914048.0,USA,US,NA,Subtropical
+4549,1994,Taiwan (Province of China),424119.0,TWN,TW,AS,Subtropical
+4550,1994,United States of America (the),1279668.0,USA,US,NA,Subtropical
+4575,1994,Taiwan (Province of China),1828.0,TWN,TW,AS,Subtropical
+4576,1994,Taiwan (Province of China),43874.0,TWN,TW,AS,Subtropical
+4577,1994,Taiwan (Province of China),182810.0,TWN,TW,AS,Subtropical
+4578,1994,Taiwan (Province of China),182810.0,TWN,TW,AS,Subtropical
+4581,1994,United States of America (the),457024.0,USA,US,NA,Subtropical
+4582,1994,United States of America (the),3656.0,USA,US,NA,Subtropical
+4595,1995,Turkey,46233.0,TUR,TR,AS,Subtropical
+4597,1995,United States of America (the),5334633.0,USA,US,NA,Subtropical
+4598,1995,United States of America (the),1244748.0,USA,US,NA,Subtropical
+4599,1995,United States of America (the),1502588.0,USA,US,NA,Subtropical
+4600,1995,United States of America (the),3556422.0,USA,US,NA,Subtropical
+4627,1995,Turkey,41788.0,TUR,TR,AS,Subtropical
+4628,1995,Turkey,88911.0,TUR,TR,AS,Subtropical
+4632,1995,United States of America (the),5334633.0,USA,US,NA,Subtropical
+4633,1995,United States of America (the),5334633.0,USA,US,NA,Subtropical
+4634,1995,United States of America (the),177821.0,USA,US,NA,Subtropical
+4635,1995,United States of America (the),17782.0,USA,US,NA,Subtropical
+4636,1995,United States of America (the),17782.0,USA,US,NA,Subtropical
+4637,1995,United States of America (the),3734243.0,USA,US,NA,Subtropical
+4641,1995,United States of America (the),3556422.0,USA,US,NA,Subtropical
+4646,1995,South Africa,17782.0,ZAF,ZA,AF,Subtropical
+4655,1996,United States of America (the),2591358.0,USA,US,NA,Subtropical
+4657,1996,United States of America (the),5873745.0,USA,US,NA,Subtropical
+4661,1996,Portugal,22458.0,PRT,PT,EU,Subtropical
+4678,1996,Taiwan (Province of China),1900329.0,TWN,TW,AS,Subtropical
+4679,1996,Taiwan (Province of China),345514.0,TWN,TW,AS,Subtropical
+4688,1996,United States of America (the),1209300.0,USA,US,NA,Subtropical
+4689,1996,United States of America (the),863786.0,USA,US,NA,Subtropical
+4690,1996,United States of America (the),34551.0,USA,US,NA,Subtropical
+4704,1996,South Africa,11851.0,ZAF,ZA,AF,Subtropical
+4708,1997,Portugal,42203.0,PRT,PT,EU,Subtropical
+4709,1997,United States of America (the),303860.0,USA,US,NA,Subtropical
+4710,1997,United States of America (the),8440547.0,USA,US,NA,Subtropical
+4712,1997,United States of America (the),2532164.0,USA,US,NA,Subtropical
+4715,1997,United States of America (the),844055.0,USA,US,NA,Subtropical
+4725,1997,Portugal,16881.0,PRT,PT,EU,Subtropical
+4743,1997,Taiwan (Province of China),84405.0,TWN,TW,AS,Subtropical
+4744,1997,Taiwan (Province of China),98417.0,TWN,TW,AS,Subtropical
+4753,1997,United States of America (the),253216.0,USA,US,NA,Subtropical
+4756,1997,United States of America (the),84405.0,USA,US,NA,Subtropical
+4757,1997,United States of America (the),422027.0,USA,US,NA,Subtropical
+4759,1997,United States of America (the),337622.0,USA,US,NA,Subtropical
+4761,1997,United States of America (the),337622.0,USA,US,NA,Subtropical
+4762,1997,United States of America (the),101287.0,USA,US,NA,Subtropical
+4763,1997,United States of America (the),3376.0,USA,US,NA,Subtropical
+4764,1997,United States of America (the),844055.0,USA,US,NA,Subtropical
+4766,1997,United States of America (the),844055.0,USA,US,NA,Subtropical
+4768,1997,United States of America (the),413587.0,USA,US,NA,Subtropical
+4769,1997,United States of America (the),168811.0,USA,US,NA,Subtropical
+4771,1997,United States of America (the),4220.0,USA,US,NA,Subtropical
+4779,1997,United States of America (the),253216.0,USA,US,NA,Subtropical
+4786,1998,United States of America (the),249346.0,USA,US,NA,Subtropical
+4788,1998,Tajikistan,109712.0,TJK,TJ,AS,Subtropical
+4789,1998,United States of America (the),103894.0,USA,US,NA,Subtropical
+4791,1998,United States of America (the),333292.0,USA,US,NA,Subtropical
+4792,1998,United States of America (the),3325442.0,USA,US,NA,Subtropical
+4793,1998,United States of America (the),1662306.0,USA,US,NA,Subtropical
+4794,1998,United States of America (the),779621.0,USA,US,NA,Subtropical
+4795,1998,United States of America (the),2327228.0,USA,US,NA,Subtropical
+4796,1998,United States of America (the),615053.0,USA,US,NA,Subtropical
+4797,1998,United States of America (the),7106356.0,USA,US,NA,Subtropical
+4798,1998,United States of America (the),83115.0,USA,US,NA,Subtropical
+4800,1998,United States of America (the),5818070.0,USA,US,NA,Subtropical
+4801,1998,United States of America (the),1662306.0,USA,US,NA,Subtropical
+4827,1998,Turkey,1662306.0,TUR,TR,AS,Subtropical
+4830,1998,Taiwan (Province of China),207788.0,TWN,TW,AS,Subtropical
+4835,1998,Uruguay,8312.0,URY,UY,SA,Subtropical
+4837,1998,United States of America (the),103894.0,USA,US,NA,Subtropical
+4839,1998,United States of America (the),448823.0,USA,US,NA,Subtropical
+4840,1998,United States of America (the),99738.0,USA,US,NA,Subtropical
+4841,1998,United States of America (the),458796.0,USA,US,NA,Subtropical
+4842,1998,United States of America (the),7480.0,USA,US,NA,Subtropical
+4843,1998,United States of America (the),997.0,USA,US,NA,Subtropical
+4846,1998,United States of America (the),166231.0,USA,US,NA,Subtropical
+4847,1998,United States of America (the),3325.0,USA,US,NA,Subtropical
+4854,1998,South Africa,274280.0,ZAF,ZA,AF,Subtropical
+4862,1998,China,1602463.0,CHN,CN,AS,Subtropical
+4863,1999,China,452063.0,CHN,CN,AS,Subtropical
+4865,1999,Australia,2440069.0,AUS,AU,OC,Subtropical
+4867,1999,Australia,488014.0,AUS,AU,OC,Subtropical
+4869,1999,China,104598.0,CHN,CN,AS,Subtropical
+4876,1999,Australia,325343.0,AUS,AU,OC,Subtropical
+4878,1999,Australia,319324.0,AUS,AU,OC,Subtropical
+4896,1999,Bahamas (the),732021.0,BHS,BS,NA,Subtropical
+4904,1999,Bhutan,5693.0,BTN,BT,AS,Subtropical
+4913,1999,Chile,455480.0,CHL,CL,SA,Subtropical
+4915,1999,China,13014.0,CHN,CN,AS,Subtropical
+4917,1999,China,1052483.0,CHN,CN,AS,Subtropical
+4918,1999,China,13176374.0,CHN,CN,AS,Subtropical
+4920,1999,China,393014.0,CHN,CN,AS,Subtropical
+4921,1999,China,29281.0,CHN,CN,AS,Subtropical
+4923,2000,China,29898.0,CHN,CN,AS,Subtropical
+4924,2000,Afghanistan,79.0,AFG,AF,AS,Subtropical
+4930,2000,China,39915.0,CHN,CN,AS,Subtropical
+4931,2000,China,7868.0,CHN,CN,AS,Subtropical
+4933,2000,Chile,47207.0,CHL,CL,SA,Subtropical
+4936,2000,Australia,141622.0,AUS,AU,OC,Subtropical
+4938,2000,China,265934.0,CHN,CN,AS,Subtropical
+4950,2000,Argentina,472073.0,ARG,AR,SA,Subtropical
+4952,2000,Australia,416997.0,AUS,AU,OC,Subtropical
+4953,2000,Australia,94415.0,AUS,AU,OC,Subtropical
+4963,2000,Bangladesh,786788.0,BGD,BD,AS,Subtropical
+4987,2000,Chile,15736.0,CHL,CL,SA,Subtropical
+4988,2000,China,755.0,CHN,CN,AS,Subtropical
+4989,2000,China,34619.0,CHN,CN,AS,Subtropical
+4991,2000,China,18883.0,CHN,CN,AS,Subtropical
+4992,2000,China,94415.0,CHN,CN,AS,Subtropical
+4994,2000,China,3777.0,CHN,CN,AS,Subtropical
+4995,2000,China,109274.0,CHN,CN,AS,Subtropical
+4996,2000,China,16.0,CHN,CN,AS,Subtropical
+4998,2001,Afghanistan,15.0,AFG,AF,AS,Subtropical
+5001,2001,Australia,19894.0,AUS,AU,OC,Subtropical
+5003,2001,Australia,18364.0,AUS,AU,OC,Subtropical
+5004,2001,Australia,10100.0,AUS,AU,OC,Subtropical
+5009,2001,Chile,13620.0,CHL,CL,SA,Subtropical
+5010,2001,China,18364.0,CHN,CN,AS,Subtropical
+5016,1998,China,61838.0,CHN,CN,AS,Subtropical
+5017,1998,China,1204673.0,CHN,CN,AS,Subtropical
+5042,1999,Japan,8133564.0,JPN,JP,AS,Subtropical
+5048,1999,Mexico,734135.0,MEX,MX,NA,Subtropical
+5050,1999,Pakistan,17790.0,PAK,PK,AS,Subtropical
+5057,1999,China,292808.0,CHN,CN,AS,Subtropical
+5058,1999,China,64906.0,CHN,CN,AS,Subtropical
+5059,1999,China,491267.0,CHN,CN,AS,Subtropical
+5060,1999,China,294760.0,CHN,CN,AS,Subtropical
+5061,1999,China,39366.0,CHN,CN,AS,Subtropical
+5119,1999,Iran (Islamic Republic of),69949.0,IRN,IR,AS,Subtropical
+5122,1999,Iran (Islamic Republic of),5368152.0,IRN,IR,AS,Subtropical
+5124,1999,Israel,122003.0,ISR,IL,AS,Subtropical
+5128,1999,Japan,174058.0,JPN,JP,AS,Subtropical
+5134,1999,Korea (the Republic of),540069.0,KOR,KR,AS,Subtropical
+5135,1999,Korea (the Republic of),6507.0,KOR,KR,AS,Subtropical
+5142,1999,Morocco,1464042.0,MAR,MA,AF,Subtropical
+5148,1999,Mexico,162671.0,MEX,MX,NA,Subtropical
+5168,1999,Nepal,3253.0,NPL,NP,AS,Subtropical
+5176,2000,China,270655.0,CHN,CN,AS,Subtropical
+5179,2000,Japan,11707400.0,JPN,JP,AS,Subtropical
+5182,2000,Japan,550751.0,JPN,JP,AS,Subtropical
+5190,2000,China,1252747.0,CHN,CN,AS,Subtropical
+5194,2000,China,4878.0,CHN,CN,AS,Subtropical
+5195,2000,China,7868.0,CHN,CN,AS,Subtropical
+5198,2000,China,20910.0,CHN,CN,AS,Subtropical
+5242,2000,Greece,4721.0,GRC,GR,EU,Subtropical
+5275,2000,Iran (Islamic Republic of),9441.0,IRN,IR,AS,Subtropical
+5279,2000,Israel,4327.0,ISR,IL,AS,Subtropical
+5288,2000,Japan,472073.0,JPN,JP,AS,Subtropical
+5289,2000,Japan,2203005.0,JPN,JP,AS,Subtropical
+5293,2000,Korea (the Republic of),42487.0,KOR,KR,AS,Subtropical
+5294,2000,Korea (the Republic of),17781.0,KOR,KR,AS,Subtropical
+5295,2000,Korea (the Republic of),111724.0,KOR,KR,AS,Subtropical
+5297,2000,Korea (the Republic of),36192.0,KOR,KR,AS,Subtropical
+5302,2000,Morocco,1273.0,MAR,MA,AF,Subtropical
+5309,2000,Mexico,1574.0,MEX,MX,NA,Subtropical
+5338,2000,Nepal,9914.0,NPL,NP,AS,Subtropical
+5354,2001,Korea (the Republic of),443795.0,KOR,KR,AS,Subtropical
+5359,1998,United States of America (the),748869.0,USA,US,NA,Subtropical
+5369,1998,Taiwan (Province of China),31584.0,TWN,TW,AS,Subtropical
+5370,1998,Taiwan (Province of China),6649.0,TWN,TW,AS,Subtropical
+5372,1998,United States of America (the),103894.0,USA,US,NA,Subtropical
+5373,1998,United States of America (the),333292.0,USA,US,NA,Subtropical
+5374,1998,United States of America (the),2493458.0,USA,US,NA,Subtropical
+5375,1998,United States of America (the),831153.0,USA,US,NA,Subtropical
+5380,1999,United States of America (the),488014.0,USA,US,NA,Subtropical
+5381,1999,United States of America (the),162671.0,USA,US,NA,Subtropical
+5382,1999,United States of America (the),325343.0,USA,US,NA,Subtropical
+5384,1999,Uruguay,406678.0,URY,UY,SA,Subtropical
+5386,1999,South Africa,10248.0,ZAF,ZA,AF,Subtropical
+5388,1999,United States of America (the),732021.0,USA,US,NA,Subtropical
+5389,1999,United States of America (the),326156.0,USA,US,NA,Subtropical
+5391,1999,United States of America (the),1626713.0,USA,US,NA,Subtropical
+5392,1999,Pakistan,401798.0,PAK,PK,AS,Subtropical
+5393,1999,United States of America (the),1626713.0,USA,US,NA,Subtropical
+5394,1999,United States of America (the),11386989.0,USA,US,NA,Subtropical
+5457,1999,Tajikistan,10011.0,TJK,TJ,AS,Subtropical
+5458,1999,Tajikistan,325.0,TJK,TJ,AS,Subtropical
+5460,1999,United States of America (the),326156.0,USA,US,NA,Subtropical
+5462,1999,United States of America (the),4489727.0,USA,US,NA,Subtropical
+5463,1999,United States of America (the),244007.0,USA,US,NA,Subtropical
+5464,1999,United States of America (the),11387.0,USA,US,NA,Subtropical
+5465,1999,United States of America (the),113870.0,USA,US,NA,Subtropical
+5466,1999,United States of America (the),162671.0,USA,US,NA,Subtropical
+5467,1999,United States of America (the),101670.0,USA,US,NA,Subtropical
+5469,1999,United States of America (the),149658.0,USA,US,NA,Subtropical
+5471,1999,United States of America (the),1789384.0,USA,US,NA,Subtropical
+5473,1999,United States of America (the),488.0,USA,US,NA,Subtropical
+5486,1999,South Africa,40668.0,ZAF,ZA,AF,Subtropical
+5487,1999,South Africa,21635.0,ZAF,ZA,AF,Subtropical
+5491,2000,Taiwan (Province of China),236036.0,TWN,TW,AS,Subtropical
+5495,2000,United States of America (the),261214.0,USA,US,NA,Subtropical
+5498,2000,United States of America (the),550751.0,USA,US,NA,Subtropical
+5499,2000,Turkey,1574.0,TUR,TR,AS,Subtropical
+5553,2000,Eswatini,79.0,SWZ,SZ,AF,Subtropical
+5559,2000,Tajikistan,89694.0,TJK,TJ,AS,Subtropical
+5560,2000,Turkey,62943.0,TUR,TR,AS,Subtropical
+5563,2000,Taiwan (Province of China),212433.0,TWN,TW,AS,Subtropical
+5574,2000,United States of America (the),330451.0,USA,US,NA,Subtropical
+5576,2000,United States of America (the),708109.0,USA,US,NA,Subtropical
+5577,2000,United States of America (the),44847.0,USA,US,NA,Subtropical
+5578,2000,United States of America (the),12746.0,USA,US,NA,Subtropical
+5579,2000,United States of America (the),141622.0,USA,US,NA,Subtropical
+5584,2000,United States of America (the),31472.0,USA,US,NA,Subtropical
+5585,2000,United States of America (the),786788.0,USA,US,NA,Subtropical
+5586,2000,United States of America (the),344613.0,USA,US,NA,Subtropical
+5589,2000,United States of America (the),2360363.0,USA,US,NA,Subtropical
+5594,2000,United States of America (the),1573575.0,USA,US,NA,Subtropical
+5595,2000,United States of America (the),1730933.0,USA,US,NA,Subtropical
+5597,2000,United States of America (the),157358.0,USA,US,NA,Subtropical
+5614,2000,South Africa,251772.0,ZAF,ZA,AF,Subtropical
+5616,2000,South Africa,15736.0,ZAF,ZA,AF,Subtropical
+5631,2001,United States of America (the),382581.0,USA,US,NA,Subtropical
+5638,2001,Argentina,1147744.0,ARG,AR,SA,Subtropical
+5642,2001,Argentina,22955.0,ARG,AR,SA,Subtropical
+5645,2001,Australia,306065.0,AUS,AU,OC,Subtropical
+5647,2001,Australia,137729.0,AUS,AU,OC,Subtropical
+5658,2001,Bahamas (the),459098.0,BHS,BS,NA,Subtropical
+5671,2001,China,36728.0,CHN,CN,AS,Subtropical
+5678,2002,Chile,301287.0,CHL,CL,SA,Subtropical
+5679,2002,Australia,3012867.0,AUS,AU,OC,Subtropical
+5692,2002,Australia,75322.0,AUS,AU,OC,Subtropical
+5724,2002,Chile,120515.0,CHL,CL,SA,Subtropical
+5726,2002,China,49712.0,CHN,CN,AS,Subtropical
+5735,2003,Australia,2946.0,AUS,AU,OC,Subtropical
+5736,2003,Australia,441898.0,AUS,AU,OC,Subtropical
+5744,2001,China,459098.0,CHN,CN,AS,Subtropical
+5746,2001,Algeria,459098.0,DZA,DZ,AF,Subtropical
+5755,2001,China,119365.0,CHN,CN,AS,Subtropical
+5756,2001,China,26016.0,CHN,CN,AS,Subtropical
+5757,2001,China,7652.0,CHN,CN,AS,Subtropical
+5759,2001,China,255564.0,CHN,CN,AS,Subtropical
+5760,2001,China,183639.0,CHN,CN,AS,Subtropical
+5762,2001,China,91820.0,CHN,CN,AS,Subtropical
+5766,2001,China,719253.0,CHN,CN,AS,Subtropical
+5767,2001,China,4197684.0,CHN,CN,AS,Subtropical
+5768,2001,China,61213.0,CHN,CN,AS,Subtropical
+5769,2001,China,130078.0,CHN,CN,AS,Subtropical
+5771,2001,China,325959.0,CHN,CN,AS,Subtropical
+5774,2001,China,36728.0,CHN,CN,AS,Subtropical
+5836,2001,Iran (Islamic Republic of),120590.0,IRN,IR,AS,Subtropical
+5838,2001,Iran (Islamic Republic of),38258.0,IRN,IR,AS,Subtropical
+5842,2001,Japan,1224261.0,JPN,JP,AS,Subtropical
+5843,2001,Japan,765163.0,JPN,JP,AS,Subtropical
+5849,2001,Korea (the Republic of),116305.0,KOR,KR,AS,Subtropical
+5858,2001,Morocco,3367.0,MAR,MA,AF,Subtropical
+5861,2001,Mexico,612130.0,MEX,MX,NA,Subtropical
+5862,2001,Mexico,1530.0,MEX,MX,NA,Subtropical
+5875,2002,China,4669943.0,CHN,CN,AS,Subtropical
+5876,2002,China,6327.0,CHN,CN,AS,Subtropical
+5886,2002,Korea (the Republic of),519719.0,KOR,KR,AS,Subtropical
+5887,2002,Korea (the Republic of),6327020.0,KOR,KR,AS,Subtropical
+5899,2002,China,79841.0,CHN,CN,AS,Subtropical
+5900,2002,China,1420567.0,CHN,CN,AS,Subtropical
+5901,2002,China,58148.0,CHN,CN,AS,Subtropical
+5912,2002,China,1822784.0,CHN,CN,AS,Subtropical
+5913,2002,China,75322.0,CHN,CN,AS,Subtropical
+5914,2002,China,128047.0,CHN,CN,AS,Subtropical
+5915,2002,China,813474.0,CHN,CN,AS,Subtropical
+5916,2002,China,150643.0,CHN,CN,AS,Subtropical
+5935,2002,Algeria,2260.0,DZA,DZ,AF,Subtropical
+5993,2002,Iran (Islamic Republic of),88970.0,IRN,IR,AS,Subtropical
+5995,2002,Iran (Islamic Republic of),6026.0,IRN,IR,AS,Subtropical
+6002,2002,Japan,7532.0,JPN,JP,AS,Subtropical
+6004,2002,Japan,753.0,JPN,JP,AS,Subtropical
+6005,2002,Japan,30129.0,JPN,JP,AS,Subtropical
+6014,2002,Korea (the Republic of),15064.0,KOR,KR,AS,Subtropical
+6019,2002,Morocco,301287.0,MAR,MA,AF,Subtropical
+6025,2002,Mexico,964117.0,MEX,MX,NA,Subtropical
+6027,2002,Mexico,301287.0,MEX,MX,NA,Subtropical
+6029,2002,Mexico,316351.0,MEX,MX,NA,Subtropical
+6041,2003,Greece,883797.0,GRC,GR,EU,Subtropical
+6049,2003,Cyprus,14730.0,CYP,CY,AS,Subtropical
+6077,2001,Taiwan (Province of China),1224261.0,TWN,TW,AS,Subtropical
+6079,2001,Pakistan,376460.0,PAK,PK,AS,Subtropical
+6081,2001,United States of America (the),30607.0,USA,US,NA,Subtropical
+6084,2001,United States of America (the),35197.0,USA,US,NA,Subtropical
+6088,2001,United States of America (the),9181955.0,USA,US,NA,Subtropical
+6149,2001,Tajikistan,918.0,TJK,TJ,AS,Subtropical
+6151,2001,Tajikistan,358.0,TJK,TJ,AS,Subtropical
+6155,2001,Turkey,38258.0,TUR,TR,AS,Subtropical
+6158,2001,Taiwan (Province of China),7652.0,TWN,TW,AS,Subtropical
+6159,2001,Taiwan (Province of China),3061.0,TWN,TW,AS,Subtropical
+6160,2001,Taiwan (Province of China),367278.0,TWN,TW,AS,Subtropical
+6166,2001,United States of America (the),2755.0,USA,US,NA,Subtropical
+6169,2001,United States of America (the),15303.0,USA,US,NA,Subtropical
+6172,2001,United States of America (the),45910.0,USA,US,NA,Subtropical
+6173,2001,United States of America (the),6121.0,USA,US,NA,Subtropical
+6174,2001,United States of America (the),10712.0,USA,US,NA,Subtropical
+6175,2001,United States of America (the),4591.0,USA,US,NA,Subtropical
+6177,2001,United States of America (the),19894.0,USA,US,NA,Subtropical
+6206,2002,United States of America (the),302040.0,USA,US,NA,Subtropical
+6212,2002,Tajikistan,4272.0,TJK,TJ,AS,Subtropical
+6219,2002,United States of America (the),3012867.0,USA,US,NA,Subtropical
+6241,2002,Pakistan,45.0,PAK,PK,AS,Subtropical
+6306,2002,Taiwan (Province of China),75.0,TWN,TW,AS,Subtropical
+6311,2002,Uruguay,37661.0,URY,UY,SA,Subtropical
+6314,2002,United States of America (the),6026.0,USA,US,NA,Subtropical
+6315,2002,United States of America (the),3314153.0,USA,US,NA,Subtropical
+6316,2002,United States of America (the),30129.0,USA,US,NA,Subtropical
+6317,2002,United States of America (the),1054503.0,USA,US,NA,Subtropical
+6318,2002,United States of America (the),678648.0,USA,US,NA,Subtropical
+6321,2002,United States of America (the),19584.0,USA,US,NA,Subtropical
+6322,2002,United States of America (the),1506433.0,USA,US,NA,Subtropical
+6324,2002,United States of America (the),451930.0,USA,US,NA,Subtropical
+6326,2002,United States of America (the),9942.0,USA,US,NA,Subtropical
+6327,2002,United States of America (the),7532.0,USA,US,NA,Subtropical
+6329,2002,United States of America (the),30129.0,USA,US,NA,Subtropical
+6330,2002,United States of America (the),302040.0,USA,US,NA,Subtropical
+6334,2002,United States of America (the),4971230.0,USA,US,NA,Subtropical
+6335,2002,United States of America (the),602573.0,USA,US,NA,Subtropical
+6351,2002,South Africa,13558.0,ZAF,ZA,AF,Subtropical
+6352,2002,South Africa,7532.0,ZAF,ZA,AF,Subtropical
+6353,2002,South Africa,62.0,ZAF,ZA,AF,Subtropical
+6361,2003,United States of America (the),7364975.0,USA,US,NA,Subtropical
+6371,2003,Australia,136989.0,AUS,AU,OC,Subtropical
+6372,2003,United States of America (the),36825.0,USA,US,NA,Subtropical
+6381,2003,United States of America (the),294599.0,USA,US,NA,Subtropical
+6389,2003,Argentina,1514548.0,ARG,AR,SA,Subtropical
+6390,2003,Argentina,176759.0,ARG,AR,SA,Subtropical
+6394,2003,Australia,110475.0,AUS,AU,OC,Subtropical
+6398,2004,Australia,71729.0,AUS,AU,OC,Subtropical
+6399,2004,Australia,14346.0,AUS,AU,OC,Subtropical
+6412,2004,Australia,45907.0,AUS,AU,OC,Subtropical
+6413,2004,Australia,7890.0,AUS,AU,OC,Subtropical
+6414,2004,Australia,21519.0,AUS,AU,OC,Subtropical
+6423,2005,Afghanistan,6938.0,AFG,AF,AS,Subtropical
+6429,2005,Australia,55501.0,AUS,AU,OC,Subtropical
+6430,2005,Australia,37463.0,AUS,AU,OC,Subtropical
+6435,2003,Korea (the Republic of),6628477.0,KOR,KR,AS,Subtropical
+6443,2003,Japan,81015.0,JPN,JP,AS,Subtropical
+6449,2003,China,235679.0,CHN,CN,AS,Subtropical
+6451,2003,China,11621930.0,CHN,CN,AS,Subtropical
+6452,2003,China,3594108.0,CHN,CN,AS,Subtropical
+6463,2003,Japan,10311.0,JPN,JP,AS,Subtropical
+6465,2003,China,7114566.0,CHN,CN,AS,Subtropical
+6466,2003,Bermuda,441898.0,BMU,BM,NA,Subtropical
+6471,2003,Japan,73650.0,JPN,JP,AS,Subtropical
+6498,2003,China,14200.0,CHN,CN,AS,Subtropical
+6500,2003,China,147299.0,CHN,CN,AS,Subtropical
+6501,2003,China,354992.0,CHN,CN,AS,Subtropical
+6502,2003,China,290089.0,CHN,CN,AS,Subtropical
+6539,2003,Iran (Islamic Republic of),1234.0,IRN,IR,AS,Subtropical
+6552,2004,Korea (the Republic of),1435.0,KOR,KR,AS,Subtropical
+6553,2004,Bangladesh,3156093.0,BGD,BD,AS,Subtropical
+6556,2004,Japan,1061595.0,JPN,JP,AS,Subtropical
+6557,2004,Japan,3299552.0,JPN,JP,AS,Subtropical
+6561,2004,Bahamas (the),789023.0,BHS,BS,NA,Subtropical
+6563,2004,China,402.0,CHN,CN,AS,Subtropical
+6566,2004,China,517886.0,CHN,CN,AS,Subtropical
+6567,2004,China,76750.0,CHN,CN,AS,Subtropical
+6568,2004,China,675691.0,CHN,CN,AS,Subtropical
+6577,2004,Japan,2797446.0,JPN,JP,AS,Subtropical
+6579,2004,Korea (the Republic of),7959.0,KOR,KR,AS,Subtropical
+6583,2004,China,8608.0,CHN,CN,AS,Subtropical
+6584,2004,China,18219.0,CHN,CN,AS,Subtropical
+6587,2004,China,1578046.0,CHN,CN,AS,Subtropical
+6598,2004,China,7173.0,CHN,CN,AS,Subtropical
+6603,2004,Japan,2869175.0,JPN,JP,AS,Subtropical
+6604,2004,Japan,865056.0,JPN,JP,AS,Subtropical
+6611,2004,Japan,12911289.0,JPN,JP,AS,Subtropical
+6613,2004,Bahamas (the),1434588.0,BHS,BS,NA,Subtropical
+6627,2004,China,5738.0,CHN,CN,AS,Subtropical
+6632,2004,China,3141747.0,CHN,CN,AS,Subtropical
+6648,2004,Greece,487760.0,GRC,GR,EU,Subtropical
+6662,2004,Iran (Islamic Republic of),344.0,IRN,IR,AS,Subtropical
+6665,2004,Japan,717294.0,JPN,JP,AS,Subtropical
+6666,2004,Japan,717.0,JPN,JP,AS,Subtropical
+6674,2004,Korea (the Republic of),817715.0,KOR,KR,AS,Subtropical
+6675,2004,Korea (the Republic of),1502.0,KOR,KR,AS,Subtropical
+6676,2004,Korea (the Republic of),358647.0,KOR,KR,AS,Subtropical
+6681,2005,China,23470.0,CHN,CN,AS,Subtropical
+6693,2005,China,416254.0,CHN,CN,AS,Subtropical
+6727,2003,Mexico,147299.0,MEX,MX,NA,Subtropical
+6728,2003,United States of America (the),3093289.0,USA,US,NA,Subtropical
+6737,2003,Tajikistan,29460.0,TJK,TJ,AS,Subtropical
+6752,2003,United States of America (the),156137.0,USA,US,NA,Subtropical
+6759,2003,United States of America (the),4963993.0,USA,US,NA,Subtropical
+6760,2003,United States of America (the),73650.0,USA,US,NA,Subtropical
+6761,2003,United States of America (the),589198.0,USA,US,NA,Subtropical
+6797,2003,Portugal,2548281.0,PRT,PT,EU,Subtropical
+6809,2003,Tajikistan,60393.0,TJK,TJ,AS,Subtropical
+6813,2003,United States of America (the),5891980.0,USA,US,NA,Subtropical
+6818,2003,United States of America (the),25041.0,USA,US,NA,Subtropical
+6822,2003,United States of America (the),5155482.0,USA,US,NA,Subtropical
+6841,2004,Taiwan (Province of China),573835.0,TWN,TW,AS,Subtropical
+6843,2004,Tajikistan,17215.0,TJK,TJ,AS,Subtropical
+6844,2004,United States of America (the),1004211.0,USA,US,NA,Subtropical
+6846,2004,Taiwan (Province of China),3888.0,TWN,TW,AS,Subtropical
+6851,2004,Taiwan (Province of China),7173.0,TWN,TW,AS,Subtropical
+6852,2004,United States of America (the),25822577.0,USA,US,NA,Subtropical
+6853,2004,United States of America (the),1578046.0,USA,US,NA,Subtropical
+6856,2004,United States of America (the),86075.0,USA,US,NA,Subtropical
+6858,2004,United States of America (the),430376.0,USA,US,NA,Subtropical
+6878,2004,United States of America (the),15780464.0,USA,US,NA,Subtropical
+6889,2004,United States of America (the),244.0,USA,US,NA,Subtropical
+6890,2004,United States of America (the),89662.0,USA,US,NA,Subtropical
+6895,2004,United States of America (the),22953402.0,USA,US,NA,Subtropical
+6896,2004,Mexico,5165.0,MEX,MX,NA,Subtropical
+6928,2004,Portugal,1919673.0,PRT,PT,EU,Subtropical
+6958,2004,United States of America (the),3013.0,USA,US,NA,Subtropical
+6959,2004,United States of America (the),6456.0,USA,US,NA,Subtropical
+6961,2004,United States of America (the),1435.0,USA,US,NA,Subtropical
+6962,2004,United States of America (the),717294.0,USA,US,NA,Subtropical
+6963,2004,United States of America (the),11476701.0,USA,US,NA,Subtropical
+6977,2005,Pakistan,41625.0,PAK,PK,AS,Subtropical
+6978,2005,United States of America (the),346878.0,USA,US,NA,Subtropical
+6982,2005,United States of America (the),277503.0,USA,US,NA,Subtropical
+6996,2005,United States of America (the),485629.0,USA,US,NA,Subtropical
+6997,2005,United States of America (the),485629.0,USA,US,NA,Subtropical
+7022,2005,United States of America (the),41625.0,USA,US,NA,Subtropical
+7044,2005,China,1179386.0,CHN,CN,AS,Subtropical
+7046,2005,China,2428147.0,CHN,CN,AS,Subtropical
+7053,2005,China,2636274.0,CHN,CN,AS,Subtropical
+7054,2005,China,208127.0,CHN,CN,AS,Subtropical
+7064,2005,China,842220.0,CHN,CN,AS,Subtropical
+7065,2005,China,2997028.0,CHN,CN,AS,Subtropical
+7067,2005,China,250724.0,CHN,CN,AS,Subtropical
+7083,2005,China,777.0,CHN,CN,AS,Subtropical
+7090,2005,China,8325.0,CHN,CN,AS,Subtropical
+7091,2005,China,206739.0,CHN,CN,AS,Subtropical
+7092,2005,Australia,80476.0,AUS,AU,OC,Subtropical
+7095,2005,China,1443013.0,CHN,CN,AS,Subtropical
+7098,2005,China,1387513.0,CHN,CN,AS,Subtropical
+7118,2005,Australia,20813.0,AUS,AU,OC,Subtropical
+7149,2005,China,62438.0,CHN,CN,AS,Subtropical
+7150,2005,China,6383.0,CHN,CN,AS,Subtropical
+7151,2005,China,1266799.0,CHN,CN,AS,Subtropical
+7152,2005,China,331616.0,CHN,CN,AS,Subtropical
+7153,2005,China,333003.0,CHN,CN,AS,Subtropical
+7154,2005,China,376016.0,CHN,CN,AS,Subtropical
+7167,2005,Algeria,10068.0,DZA,DZ,AF,Subtropical
+7203,2006,China,912679.0,CHN,CN,AS,Subtropical
+7205,2006,China,638472.0,CHN,CN,AS,Subtropical
+7206,2006,China,493304.0,CHN,CN,AS,Subtropical
+7208,2006,China,14786.0,CHN,CN,AS,Subtropical
+7210,2006,Greece,7607.0,GRC,GR,EU,Subtropical
+7212,2006,China,4469303.0,CHN,CN,AS,Subtropical
+7219,2006,China,76617.0,CHN,CN,AS,Subtropical
+7220,2006,China,1209736.0,CHN,CN,AS,Subtropical
+7238,2006,China,528251.0,CHN,CN,AS,Subtropical
+7243,2006,China,379051.0,CHN,CN,AS,Subtropical
+7247,2006,China,189525.0,CHN,CN,AS,Subtropical
+7248,2006,China,447602.0,CHN,CN,AS,Subtropical
+7253,2006,China,3911480.0,CHN,CN,AS,Subtropical
+7254,2006,Australia,3164.0,AUS,AU,OC,Subtropical
+7255,2006,Australia,1586099.0,AUS,AU,OC,Subtropical
+7258,2006,China,3373820.0,CHN,CN,AS,Subtropical
+7269,2006,Australia,67208.0,AUS,AU,OC,Subtropical
+7270,2006,Australia,67208.0,AUS,AU,OC,Subtropical
+7297,2006,China,48389.0,CHN,CN,AS,Subtropical
+7301,2006,China,8737.0,CHN,CN,AS,Subtropical
+7303,2006,China,41669.0,CHN,CN,AS,Subtropical
+7311,2006,Algeria,1613.0,DZA,DZ,AF,Subtropical
+7351,2006,Iran (Islamic Republic of),21506.0,IRN,IR,AS,Subtropical
+7353,2006,Iraq,1747.0,IRQ,IQ,AS,Subtropical
+7354,2007,Australia,1698932.0,AUS,AU,OC,Subtropical
+7356,2007,Argentina,39206.0,ARG,AR,SA,Subtropical
+7357,2007,Bangladesh,18296.0,BGD,BD,AS,Subtropical
+7363,2007,China,33979.0,CHN,CN,AS,Subtropical
+7369,2007,Argentina,13069.0,ARG,AR,SA,Subtropical
+7382,2007,Algeria,17722.0,DZA,DZ,AF,Subtropical
+7392,2005,Japan,1387513.0,JPN,JP,AS,Subtropical
+7398,2005,United States of America (the),173439092.0,USA,US,NA,Subtropical
+7400,2005,United States of America (the),339941.0,USA,US,NA,Subtropical
+7404,2005,United States of America (the),19841432.0,USA,US,NA,Subtropical
+7409,2005,Japan,45788.0,JPN,JP,AS,Subtropical
+7421,2005,Tajikistan,69376.0,TJK,TJ,AS,Subtropical
+7425,2005,Taiwan (Province of China),86026.0,TWN,TW,AS,Subtropical
+7434,2005,Mexico,3468782.0,MEX,MX,NA,Subtropical
+7435,2005,Mexico,6937564.0,MEX,MX,NA,Subtropical
+7440,2005,United States of America (the),7395.0,USA,US,NA,Subtropical
+7444,2005,Mexico,13875.0,MEX,MX,NA,Subtropical
+7447,2005,Taiwan (Province of China),138751.0,TWN,TW,AS,Subtropical
+7448,2005,Taiwan (Province of China),1388.0,TWN,TW,AS,Subtropical
+7449,2005,United States of America (the),22200204.0,USA,US,NA,Subtropical
+7466,2005,Korea (the Republic of),694.0,KOR,KR,AS,Subtropical
+7467,2005,Korea (the Republic of),6938.0,KOR,KR,AS,Subtropical
+7468,2005,Korea (the Republic of),222002.0,KOR,KR,AS,Subtropical
+7471,2005,Morocco,69.0,MAR,MA,AF,Subtropical
+7474,2005,Mexico,555005.0,MEX,MX,NA,Subtropical
+7490,2005,Portugal,2289396.0,PRT,PT,EU,Subtropical
+7511,2005,Taiwan (Province of China),52725.0,TWN,TW,AS,Subtropical
+7512,2005,Taiwan (Province of China),138751.0,TWN,TW,AS,Subtropical
+7517,2005,United States of America (the),3094153.0,USA,US,NA,Subtropical
+7519,2005,United States of America (the),138751.0,USA,US,NA,Subtropical
+7530,2006,United States of America (the),348135.0,USA,US,NA,Subtropical
+7531,2006,United States of America (the),16130.0,USA,US,NA,Subtropical
+7532,2006,Japan,3360378.0,JPN,JP,AS,Subtropical
+7534,2006,Mexico,3629.0,MEX,MX,NA,Subtropical
+7566,2006,United States of America (the),1344151.0,USA,US,NA,Subtropical
+7580,2006,United States of America (the),806491.0,USA,US,NA,Subtropical
+7581,2006,United States of America (the),2150642.0,USA,US,NA,Subtropical
+7582,2006,United States of America (the),604868.0,USA,US,NA,Subtropical
+7592,2006,United States of America (the),114253.0,USA,US,NA,Subtropical
+7601,2006,United States of America (the),1612982.0,USA,US,NA,Subtropical
+7602,2006,United States of America (the),127694.0,USA,US,NA,Subtropical
+7603,2006,United States of America (the),403245.0,USA,US,NA,Subtropical
+7604,2006,United States of America (the),44169.0,USA,US,NA,Subtropical
+7686,2006,Turkey,426096.0,TUR,TR,AS,Subtropical
+7688,2006,Taiwan (Province of China),156096.0,TWN,TW,AS,Subtropical
+7695,2006,United States of America (the),120974.0,USA,US,NA,Subtropical
+7697,2006,United States of America (the),483894.0,USA,US,NA,Subtropical
+7698,2006,United States of America (the),9409.0,USA,US,NA,Subtropical
+7699,2006,United States of America (the),134415.0,USA,US,NA,Subtropical
+7701,2006,United States of America (the),20834.0,USA,US,NA,Subtropical
+7706,2006,United States of America (the),33604.0,USA,US,NA,Subtropical
+7707,2006,United States of America (the),33604.0,USA,US,NA,Subtropical
+7708,2006,United States of America (the),21506.0,USA,US,NA,Subtropical
+7717,2006,South Africa,95435.0,ZAF,ZA,AF,Subtropical
+7718,2006,South Africa,194902.0,ZAF,ZA,AF,Subtropical
+7723,2007,United States of America (the),653435.0,USA,US,NA,Subtropical
+7732,2007,United States of America (the),182962.0,USA,US,NA,Subtropical
+7754,2007,United States of America (the),169893.0,USA,US,NA,Subtropical
+7755,2007,United States of America (the),784122.0,USA,US,NA,Subtropical
+7761,2007,China,429960.0,CHN,CN,AS,Subtropical
+7762,2007,China,833783.0,CHN,CN,AS,Subtropical
+7770,2007,China,101936.0,CHN,CN,AS,Subtropical
+7774,2007,Bangladesh,130687.0,BGD,BD,AS,Subtropical
+7776,2007,China,5783758.0,CHN,CN,AS,Subtropical
+7777,2007,China,52275.0,CHN,CN,AS,Subtropical
+7778,2007,China,104550.0,CHN,CN,AS,Subtropical
+7780,2007,China,7188.0,CHN,CN,AS,Subtropical
+7796,2007,China,9409.0,CHN,CN,AS,Subtropical
+7797,2007,Algeria,38553.0,DZA,DZ,AF,Subtropical
+7800,2007,Australia,130687.0,AUS,AU,OC,Subtropical
+7802,2007,Bangladesh,3005802.0,BGD,BD,AS,Subtropical
+7804,2007,China,1163840.0,CHN,CN,AS,Subtropical
+7805,2007,China,1408529.0,CHN,CN,AS,Subtropical
+7845,2007,China,16989.0,CHN,CN,AS,Subtropical
+7847,2007,China,33979.0,CHN,CN,AS,Subtropical
+7873,2007,Greece,2287023.0,GRC,GR,EU,Subtropical
+7902,2008,China,61669.0,CHN,CN,AS,Subtropical
+7905,2008,Australia,566349.0,AUS,AU,OC,Subtropical
+7919,2008,Chile,28947.0,CHL,CL,SA,Subtropical
+7921,2008,China,2768817.0,CHN,CN,AS,Subtropical
+7922,2008,China,36498.0,CHN,CN,AS,Subtropical
+7929,2008,Algeria,437977.0,DZA,DZ,AF,Subtropical
+7937,2008,Australia,346102.0,AUS,AU,OC,Subtropical
+7942,2008,China,72996.0,CHN,CN,AS,Subtropical
+7945,2008,China,922520.0,CHN,CN,AS,Subtropical
+7946,2008,China,26555476.0,CHN,CN,AS,Subtropical
+7952,2008,China,220247.0,CHN,CN,AS,Subtropical
+7953,2008,China,91874.0,CHN,CN,AS,Subtropical
+7954,2008,China,100684.0,CHN,CN,AS,Subtropical
+7975,2008,Australia,113270.0,AUS,AU,OC,Subtropical
+7976,2008,Australia,755132.0,AUS,AU,OC,Subtropical
+7977,2008,Australia,1384409.0,AUS,AU,OC,Subtropical
+7993,2008,China,28947.0,CHN,CN,AS,Subtropical
+7994,2008,China,23913.0,CHN,CN,AS,Subtropical
+7995,2008,China,52859.0,CHN,CN,AS,Subtropical
+7997,2008,China,128372.0,CHN,CN,AS,Subtropical
+8002,2008,China,1037048.0,CHN,CN,AS,Subtropical
+8004,2008,China,294501.0,CHN,CN,AS,Subtropical
+8050,2009,Bangladesh,341022.0,BGD,BD,AS,Subtropical
+8052,2009,China,83361.0,CHN,CN,AS,Subtropical
+8053,2009,China,789403.0,CHN,CN,AS,Subtropical
+8055,2009,Afghanistan,25261.0,AFG,AF,AS,Subtropical
+8064,2009,Australia,1641957.0,AUS,AU,OC,Subtropical
+8065,2009,Australia,75783.0,AUS,AU,OC,Subtropical
+8072,2009,Argentina,18946.0,ARG,AR,SA,Subtropical
+8100,2007,Mexico,3920611.0,MEX,MX,NA,Subtropical
+8101,2007,United States of America (the),914809.0,USA,US,NA,Subtropical
+8110,2007,Taiwan (Province of China),45740.0,TWN,TW,AS,Subtropical
+8111,2007,United States of America (the),1306870.0,USA,US,NA,Subtropical
+8112,2007,Pakistan,2117130.0,PAK,PK,AS,Subtropical
+8113,2007,United States of America (the),457405.0,USA,US,NA,Subtropical
+8114,2007,United States of America (the),2613741.0,USA,US,NA,Subtropical
+8115,2007,Japan,78412.0,JPN,JP,AS,Subtropical
+8126,2007,Nepal,3136.0,NPL,NP,AS,Subtropical
+8138,2007,United States of America (the),392061.0,USA,US,NA,Subtropical
+8148,2007,United States of America (the),3267176.0,USA,US,NA,Subtropical
+8149,2007,United States of America (the),392061.0,USA,US,NA,Subtropical
+8156,2007,Japan,1306870.0,JPN,JP,AS,Subtropical
+8157,2007,Korea (the Republic of),91481.0,KOR,KR,AS,Subtropical
+8159,2007,Mexico,784122.0,MEX,MX,NA,Subtropical
+8176,2007,United States of America (the),653435.0,USA,US,NA,Subtropical
+8177,2007,Iran (Islamic Republic of),28751.0,IRN,IR,AS,Subtropical
+8208,2007,Pakistan,427501.0,PAK,PK,AS,Subtropical
+8243,2007,Taiwan (Province of China),32672.0,TWN,TW,AS,Subtropical
+8245,2007,Uruguay,58809.0,URY,UY,SA,Subtropical
+8248,2007,United States of America (the),36592.0,USA,US,NA,Subtropical
+8250,2007,United States of America (the),411664.0,USA,US,NA,Subtropical
+8251,2007,United States of America (the),392061.0,USA,US,NA,Subtropical
+8261,2008,Mexico,94392.0,MEX,MX,NA,Subtropical
+8263,2008,Taiwan (Province of China),20137.0,TWN,TW,AS,Subtropical
+8266,2008,Nepal,36.0,NPL,NP,AS,Subtropical
+8268,2008,United States of America (the),2013685.0,USA,US,NA,Subtropical
+8269,2008,United States of America (the),880987.0,USA,US,NA,Subtropical
+8272,2008,Taiwan (Province of China),33226.0,TWN,TW,AS,Subtropical
+8273,2008,United States of America (the),1636119.0,USA,US,NA,Subtropical
+8274,2008,United States of America (the),566349.0,USA,US,NA,Subtropical
+8277,2008,United States of America (the),1510264.0,USA,US,NA,Subtropical
+8296,2008,United States of America (the),2517.0,USA,US,NA,Subtropical
+8297,2008,United States of America (the),12585534.0,USA,US,NA,Subtropical
+8317,2008,Taiwan (Province of China),12586.0,TWN,TW,AS,Subtropical
+8318,2008,Taiwan (Province of China),113270.0,TWN,TW,AS,Subtropical
+8319,2008,United States of America (the),226540.0,USA,US,NA,Subtropical
+8320,2008,United States of America (the),37756601.0,USA,US,NA,Subtropical
+8329,2008,Tajikistan,1057185.0,TJK,TJ,AS,Subtropical
+8372,2008,Pakistan,129631.0,PAK,PK,AS,Subtropical
+8416,2008,United States of America (the),755132.0,USA,US,NA,Subtropical
+8417,2008,United States of America (the),1384409.0,USA,US,NA,Subtropical
+8418,2008,United States of America (the),138441.0,USA,US,NA,Subtropical
+8419,2008,United States of America (the),453079.0,USA,US,NA,Subtropical
+8422,2008,United States of America (the),1258553.0,USA,US,NA,Subtropical
+8423,2008,United States of America (the),8809874.0,USA,US,NA,Subtropical
+8424,2008,United States of America (the),201369.0,USA,US,NA,Subtropical
+8425,2008,United States of America (the),128372.0,USA,US,NA,Subtropical
+8426,2008,United States of America (the),2517107.0,USA,US,NA,Subtropical
+8430,2008,South Africa,1591.0,ZAF,ZA,AF,Subtropical
+8431,2008,South Africa,541178.0,ZAF,ZA,AF,Subtropical
+8434,2009,United States of America (the),2147175.0,USA,US,NA,Subtropical
+8438,2009,Tajikistan,1263.0,TJK,TJ,AS,Subtropical
+8464,2009,United States of America (the),209665.0,USA,US,NA,Subtropical
+8466,2009,United States of America (the),1389348.0,USA,US,NA,Subtropical
+8467,2009,United States of America (the),126304.0,USA,US,NA,Subtropical
+8487,2009,China,136409.0,CHN,CN,AS,Subtropical
+8488,2009,China,1787958.0,CHN,CN,AS,Subtropical
+8495,2009,China,1263044.0,CHN,CN,AS,Subtropical
+8497,2009,China,41680.0,CHN,CN,AS,Subtropical
+8510,2009,China,372599.0,CHN,CN,AS,Subtropical
+8511,2009,China,8841.0,CHN,CN,AS,Subtropical
+8515,2009,China,4546959.0,CHN,CN,AS,Subtropical
+8529,2009,Australia,189457.0,AUS,AU,OC,Subtropical
+8550,2009,China,1300935.0,CHN,CN,AS,Subtropical
+8551,2009,China,25080.0,CHN,CN,AS,Subtropical
+8552,2009,China,74520.0,CHN,CN,AS,Subtropical
+8553,2009,China,354915.0,CHN,CN,AS,Subtropical
+8554,2009,China,175563.0,CHN,CN,AS,Subtropical
+8558,2009,China,44207.0,CHN,CN,AS,Subtropical
+8594,2010,China,77357.0,CHN,CN,AS,Subtropical
+8595,2010,China,370668.0,CHN,CN,AS,Subtropical
+8598,2010,China,111840.0,CHN,CN,AS,Subtropical
+8599,2010,Australia,1652743.0,AUS,AU,OC,Subtropical
+8607,2010,China,22367949.0,CHN,CN,AS,Subtropical
+8627,2010,Australia,1727303.0,AUS,AU,OC,Subtropical
+8645,2010,China,2945113.0,CHN,CN,AS,Subtropical
+8658,2010,Australia,135450.0,AUS,AU,OC,Subtropical
+8660,2010,Australia,9071446.0,AUS,AU,OC,Subtropical
+8695,2010,China,212496.0,CHN,CN,AS,Subtropical
+8699,2010,China,943182.0,CHN,CN,AS,Subtropical
+8704,2010,China,621.0,CHN,CN,AS,Subtropical
+8705,2010,China,521919.0,CHN,CN,AS,Subtropical
+8771,2010,Israel,335519.0,ISR,IL,AS,Subtropical
+8780,2011,China,65207.0,CHN,CN,AS,Subtropical
+8781,2011,China,7709666.0,CHN,CN,AS,Subtropical
+8787,2011,Australia,3011588.0,AUS,AU,OC,Subtropical
+8790,2011,China,581339.0,CHN,CN,AS,Subtropical
+8803,2011,Bahamas (the),48185.0,BHS,BS,NA,Subtropical
+8809,2011,China,18070.0,CHN,CN,AS,Subtropical
+8814,2011,China,338503.0,CHN,CN,AS,Subtropical
+8836,2009,Taiwan (Province of China),315761.0,TWN,TW,AS,Subtropical
+8837,2009,Mexico,50522.0,MEX,MX,NA,Subtropical
+8839,2009,United States of America (the),2526088.0,USA,US,NA,Subtropical
+8840,2009,United States of America (the),303131.0,USA,US,NA,Subtropical
+8847,2009,Nepal,75783.0,NPL,NP,AS,Subtropical
+8861,2009,United States of America (the),1894566.0,USA,US,NA,Subtropical
+8862,2009,United States of America (the),1263044.0,USA,US,NA,Subtropical
+8863,2009,United States of America (the),3157610.0,USA,US,NA,Subtropical
+8869,2009,United States of America (the),757826.0,USA,US,NA,Subtropical
+8876,2009,Japan,1263044.0,JPN,JP,AS,Subtropical
+8919,2009,Saudi Arabia,1136740.0,SAU,SA,AS,Subtropical
+8928,2009,Turkey,694674.0,TUR,TR,AS,Subtropical
+8932,2009,United States of America (the),1073587.0,USA,US,NA,Subtropical
+8934,2009,United States of America (the),631522.0,USA,US,NA,Subtropical
+8950,2010,Portugal,1677596.0,PRT,PT,EU,Subtropical
+8951,2010,Mexico,19883.0,MEX,MX,NA,Subtropical
+8971,2010,Tajikistan,253503.0,TJK,TJ,AS,Subtropical
+8972,2010,Taiwan (Province of China),12427.0,TWN,TW,AS,Subtropical
+8979,2010,United States of America (the),3355192.0,USA,US,NA,Subtropical
+8981,2010,United States of America (the),124266.0,USA,US,NA,Subtropical
+8983,2010,Mexico,2485328.0,MEX,MX,NA,Subtropical
+8984,2010,Mexico,4846389.0,MEX,MX,NA,Subtropical
+8985,2010,Pakistan,99413.0,PAK,PK,AS,Subtropical
+8987,2010,Taiwan (Province of China),78412.0,TWN,TW,AS,Subtropical
+8989,2010,United States of America (the),2920260.0,USA,US,NA,Subtropical
+8990,2010,United States of America (the),1863996.0,USA,US,NA,Subtropical
+8997,2010,Morocco,36037.0,MAR,MA,AF,Subtropical
+9033,2010,Pakistan,11805307.0,PAK,PK,AS,Subtropical
+9036,2010,Pakistan,22368.0,PAK,PK,AS,Subtropical
+9051,2010,Portugal,335519.0,PRT,PT,EU,Subtropical
+9093,2010,United States of America (the),2485328.0,USA,US,NA,Subtropical
+9094,2010,United States of America (the),621332.0,USA,US,NA,Subtropical
+9116,2011,Mexico,84324.0,MEX,MX,NA,Subtropical
+9131,2011,United States of America (the),2288807.0,USA,US,NA,Subtropical
+9139,2011,United States of America (the),13250989.0,USA,US,NA,Subtropical
+9140,2011,United States of America (the),8793838.0,USA,US,NA,Subtropical
+9147,2011,Mexico,602318.0,MEX,MX,NA,Subtropical
+9173,2011,Saudi Arabia,361391.0,SAU,SA,AS,Subtropical
+9177,2011,United States of America (the),2409271.0,USA,US,NA,Subtropical
+9178,2011,United States of America (the),16864895.0,USA,US,NA,Subtropical
+9182,2011,United States of America (the),220448.0,USA,US,NA,Subtropical
+9186,2009,South Africa,18946.0,ZAF,ZA,AF,Subtropical
+9213,2011,China,5119700.0,CHN,CN,AS,Subtropical
+9219,2011,China,263815.0,CHN,CN,AS,Subtropical
+9221,2011,Afghanistan,171058.0,AFG,AF,AS,Subtropical
+9228,2011,South Africa,254178.0,ZAF,ZA,AF,Subtropical
+9234,2011,Australia,65050.0,AUS,AU,OC,Subtropical
+9242,2011,Chile,240927.0,CHL,CL,SA,Subtropical
+9246,2011,Algeria,938411.0,DZA,DZ,AF,Subtropical
+9269,2012,China,146346.0,CHN,CN,AS,Subtropical
+9280,2012,China,1416255.0,CHN,CN,AS,Subtropical
+9281,2012,China,2950532.0,CHN,CN,AS,Subtropical
+9303,2012,Argentina,2360.0,ARG,AR,SA,Subtropical
+9304,2012,China,388290.0,CHN,CN,AS,Subtropical
+9305,2012,China,708128.0,CHN,CN,AS,Subtropical
+9318,2012,Argentina,11802.0,ARG,AR,SA,Subtropical
+9319,2012,Australia,265548.0,AUS,AU,OC,Subtropical
+9320,2012,Australia,428417.0,AUS,AU,OC,Subtropical
+9344,2012,Chile,3659.0,CHL,CL,SA,Subtropical
+9345,2012,Chile,236043.0,CHL,CL,SA,Subtropical
+9346,2012,China,141626.0,CHN,CN,AS,Subtropical
+9347,2012,China,99138.0,CHN,CN,AS,Subtropical
+9348,2012,China,373340.0,CHN,CN,AS,Subtropical
+9350,2012,China,9441703.0,CHN,CN,AS,Subtropical
+9351,2012,China,708128.0,CHN,CN,AS,Subtropical
+9352,2012,China,590106.0,CHN,CN,AS,Subtropical
+9353,2012,China,446120.0,CHN,CN,AS,Subtropical
+9354,2012,China,944170.0,CHN,CN,AS,Subtropical
+9355,2012,China,436679.0,CHN,CN,AS,Subtropical
+9356,2012,China,361145.0,CHN,CN,AS,Subtropical
+9358,2012,China,1770319.0,CHN,CN,AS,Subtropical
+9359,2012,China,309216.0,CHN,CN,AS,Subtropical
+9360,2012,China,232502.0,CHN,CN,AS,Subtropical
+9361,2012,China,23840.0,CHN,CN,AS,Subtropical
+9411,2013,China,768858.0,CHN,CN,AS,Subtropical
+9413,2013,China,301262.0,CHN,CN,AS,Subtropical
+9414,2013,China,137255.0,CHN,CN,AS,Subtropical
+9419,2013,China,7793267.0,CHN,CN,AS,Subtropical
+9421,2013,China,645562.0,CHN,CN,AS,Subtropical
+9428,2013,China,1628444.0,CHN,CN,AS,Subtropical
+9429,2013,China,5769344.0,CHN,CN,AS,Subtropical
+9440,2013,China,30243.0,CHN,CN,AS,Subtropical
+9442,2013,Australia,2326348.0,AUS,AU,OC,Subtropical
+9445,2013,China,2465929.0,CHN,CN,AS,Subtropical
+9446,2013,China,437354.0,CHN,CN,AS,Subtropical
+9447,2013,China,23263.0,CHN,CN,AS,Subtropical
+9450,2013,Bahamas (the),52343.0,BHS,BS,NA,Subtropical
+9452,2013,China,387337.0,CHN,CN,AS,Subtropical
+9453,2013,China,322199.0,CHN,CN,AS,Subtropical
+9459,2013,Argentina,2326.0,ARG,AR,SA,Subtropical
+9460,2013,Argentina,1512127.0,ARG,AR,SA,Subtropical
+9462,2013,Australia,113991.0,AUS,AU,OC,Subtropical
+9463,2013,Australia,311731.0,AUS,AU,OC,Subtropical
+9470,2013,Bangladesh,23263.0,BGD,BD,AS,Subtropical
+9483,2013,Chile,1163174.0,CHL,CL,SA,Subtropical
+9484,2013,China,179129.0,CHN,CN,AS,Subtropical
+9485,2013,China,144234.0,CHN,CN,AS,Subtropical
+9486,2013,China,191924.0,CHN,CN,AS,Subtropical
+9487,2013,China,517613.0,CHN,CN,AS,Subtropical
+9488,2013,China,5375726.0,CHN,CN,AS,Subtropical
+9489,2013,China,1628444.0,CHN,CN,AS,Subtropical
+9490,2013,China,664172.0,CHN,CN,AS,Subtropical
+9491,2013,China,531571.0,CHN,CN,AS,Subtropical
+9492,2013,China,398969.0,CHN,CN,AS,Subtropical
+9493,2013,China,476901.0,CHN,CN,AS,Subtropical
+9497,2013,China,535060.0,CHN,CN,AS,Subtropical
+9498,2013,China,205882.0,CHN,CN,AS,Subtropical
+9499,2013,China,294283.0,CHN,CN,AS,Subtropical
+9548,2014,Australia,28615.0,AUS,AU,OC,Subtropical
+9555,2011,Japan,783013.0,JPN,JP,AS,Subtropical
+9557,2011,Mexico,33368.0,MEX,MX,NA,Subtropical
+9560,2011,Korea (the Republic of),62641.0,KOR,KR,AS,Subtropical
+9573,2011,Japan,60232.0,JPN,JP,AS,Subtropical
+9574,2011,Japan,2192436.0,JPN,JP,AS,Subtropical
+9610,2011,Nepal,148.0,NPL,NP,AS,Subtropical
+9612,2011,Pakistan,3011588.0,PAK,PK,AS,Subtropical
+9638,2012,United States of America (the),5901064.0,USA,US,NA,Subtropical
+9641,2012,Japan,1652298.0,JPN,JP,AS,Subtropical
+9649,2012,Tajikistan,897.0,TJK,TJ,AS,Subtropical
+9650,2012,Taiwan (Province of China),31866.0,TWN,TW,AS,Subtropical
+9670,2012,Japan,186474.0,JPN,JP,AS,Subtropical
+9679,2012,Japan,101498.0,JPN,JP,AS,Subtropical
+9680,2012,Japan,32338.0,JPN,JP,AS,Subtropical
+9681,2012,Japan,36587.0,JPN,JP,AS,Subtropical
+9687,2012,Korea (the Republic of),531096.0,KOR,KR,AS,Subtropical
+9688,2012,Korea (the Republic of),411894.0,KOR,KR,AS,Subtropical
+9697,2012,Mexico,354064.0,MEX,MX,NA,Subtropical
+9698,2012,Mexico,655018.0,MEX,MX,NA,Subtropical
+9707,2012,Nepal,1180.0,NPL,NP,AS,Subtropical
+9712,2012,Pakistan,2950532.0,PAK,PK,AS,Subtropical
+9761,2012,Taiwan (Province of China),19946.0,TWN,TW,AS,Subtropical
+9762,2012,Taiwan (Province of China),9796.0,TWN,TW,AS,Subtropical
+9770,2012,United States of America (the),4012724.0,USA,US,NA,Subtropical
+9771,2012,United States of America (the),1652298.0,USA,US,NA,Subtropical
+9772,2012,United States of America (the),2242404.0,USA,US,NA,Subtropical
+9773,2012,United States of America (the),826149.0,USA,US,NA,Subtropical
+9774,2012,United States of America (the),247845.0,USA,US,NA,Subtropical
+9775,2012,United States of America (the),206537.0,USA,US,NA,Subtropical
+9776,2012,United States of America (the),590106.0,USA,US,NA,Subtropical
+9777,2012,United States of America (the),1829330.0,USA,US,NA,Subtropical
+9778,2012,United States of America (the),2124383.0,USA,US,NA,Subtropical
+9779,2013,Mexico,2326.0,MEX,MX,NA,Subtropical
+9780,2013,Mexico,4885332.0,MEX,MX,NA,Subtropical
+9781,2013,Mexico,1744761.0,MEX,MX,NA,Subtropical
+9783,2013,Japan,232635.0,JPN,JP,AS,Subtropical
+9786,2013,United States of America (the),348952.0,USA,US,NA,Subtropical
+9788,2013,Japan,2326.0,JPN,JP,AS,Subtropical
+9801,2013,United States of America (the),3605840.0,USA,US,NA,Subtropical
+9802,2013,Japan,2326.0,JPN,JP,AS,Subtropical
+9818,2013,Japan,2326.0,JPN,JP,AS,Subtropical
+9820,2013,Japan,16517.0,JPN,JP,AS,Subtropical
+9821,2013,Japan,2326.0,JPN,JP,AS,Subtropical
+9858,2013,Pakistan,1744761.0,PAK,PK,AS,Subtropical
+9890,2013,Taiwan (Province of China),50598.0,TWN,TW,AS,Subtropical
+9891,2013,Taiwan (Province of China),13958.0,TWN,TW,AS,Subtropical
+9892,2013,Taiwan (Province of China),7095.0,TWN,TW,AS,Subtropical
+9895,2013,United States of America (the),1046857.0,USA,US,NA,Subtropical
+9896,2013,United States of America (the),348952.0,USA,US,NA,Subtropical
+9904,2011,United States of America (the),5541322.0,USA,US,NA,Subtropical
+9905,2011,United States of America (the),903476.0,USA,US,NA,Subtropical
+9906,2011,South Africa,12046.0,ZAF,ZA,AF,Subtropical
+9907,2011,United States of America (the),3613906.0,USA,US,NA,Subtropical
+9912,2011,United States of America (the),2409271.0,USA,US,NA,Subtropical
+9913,2011,United States of America (the),4216224.0,USA,US,NA,Subtropical
+9915,2011,United States of America (the),1204635.0,USA,US,NA,Subtropical
+9916,2011,United States of America (the),240927.0,USA,US,NA,Subtropical
+9917,2011,United States of America (the),9637083.0,USA,US,NA,Subtropical
+9928,2012,United States of America (the),59010643.0,USA,US,NA,Subtropical
+9932,2012,United States of America (the),23604257.0,USA,US,NA,Subtropical
+9933,2012,United States of America (the),2360426.0,USA,US,NA,Subtropical
+9937,2012,United States of America (the),2360.0,USA,US,NA,Subtropical
+9938,2012,United States of America (the),118021.0,USA,US,NA,Subtropical
+9939,2012,United States of America (the),118021.0,USA,US,NA,Subtropical
+9940,2012,United States of America (the),4720851.0,USA,US,NA,Subtropical
+9941,2012,United States of America (the),5310958.0,USA,US,NA,Subtropical
+9942,2012,United States of America (the),205357.0,USA,US,NA,Subtropical
+9943,2012,United States of America (the),247845.0,USA,US,NA,Subtropical
+9945,2012,United States of America (the),708128.0,USA,US,NA,Subtropical
+9946,2012,United States of America (the),236043.0,USA,US,NA,Subtropical
+9950,2012,South Africa,236043.0,ZAF,ZA,AF,Subtropical
+9960,2013,United States of America (the),2210031.0,USA,US,NA,Subtropical
+9963,2013,United States of America (the),348952.0,USA,US,NA,Subtropical
+9964,2013,United States of America (the),1512127.0,USA,US,NA,Subtropical
+9965,2013,United States of America (the),1279492.0,USA,US,NA,Subtropical
+9967,2013,United States of America (the),116317.0,USA,US,NA,Subtropical
+9968,2013,United States of America (the),2326.0,USA,US,NA,Subtropical
+9969,2013,United States of America (the),1279492.0,USA,US,NA,Subtropical
+9971,2013,United States of America (the),2442666.0,USA,US,NA,Subtropical
+9972,2013,United States of America (the),116317.0,USA,US,NA,Subtropical
+9973,2013,United States of America (the),116317.0,USA,US,NA,Subtropical
+9974,2013,United States of America (the),232635.0,USA,US,NA,Subtropical
+9975,2013,United States of America (the),1861079.0,USA,US,NA,Subtropical
+9976,2013,United States of America (the),2558983.0,USA,US,NA,Subtropical
+9977,2013,United States of America (the),29079.0,USA,US,NA,Subtropical
+9978,2013,United States of America (the),29079.0,USA,US,NA,Subtropical
+9979,2013,United States of America (the),2326.0,USA,US,NA,Subtropical
+9980,2013,United States of America (the),378032.0,USA,US,NA,Subtropical
+9983,2013,United States of America (the),24892.0,USA,US,NA,Subtropical
+9984,2013,United States of America (the),581587.0,USA,US,NA,Subtropical
+9985,2013,United States of America (the),2326.0,USA,US,NA,Subtropical
+9986,2013,United States of America (the),203555.0,USA,US,NA,Subtropical
+9987,2013,United States of America (the),11632.0,USA,US,NA,Subtropical
+10003,2014,China,4845087.0,CHN,CN,AS,Subtropical
+10006,2014,Australia,114461.0,AUS,AU,OC,Subtropical
+10008,2014,China,177414.0,CHN,CN,AS,Subtropical
+10009,2014,China,521940.0,CHN,CN,AS,Subtropical
+10010,2014,Afghanistan,3434.0,AFG,AF,AS,Subtropical
+10011,2014,China,107593.0,CHN,CN,AS,Subtropical
+10012,2014,China,313622.0,CHN,CN,AS,Subtropical
+10013,2014,China,1430758.0,CHN,CN,AS,Subtropical
+10017,2014,China,557423.0,CHN,CN,AS,Subtropical
+10018,2014,China,572303.0,CHN,CN,AS,Subtropical
+10019,2014,China,1602449.0,CHN,CN,AS,Subtropical
+10027,2014,Bangladesh,183137.0,BGD,BD,AS,Subtropical
+10029,2014,China,686764.0,CHN,CN,AS,Subtropical
+10032,2014,China,772609.0,CHN,CN,AS,Subtropical
+10033,2014,China,114461.0,CHN,CN,AS,Subtropical
+10034,2014,China,149943.0,CHN,CN,AS,Subtropical
+10035,2014,China,3319358.0,CHN,CN,AS,Subtropical
+10043,2014,United States of America (the),2861515.0,USA,US,NA,Subtropical
+10046,2014,Argentina,70966.0,ARG,AR,SA,Subtropical
+10048,2014,Australia,1144606.0,AUS,AU,OC,Subtropical
+10069,2014,Chile,38917.0,CHL,CL,SA,Subtropical
+10070,2014,China,178559.0,CHN,CN,AS,Subtropical
+10071,2014,China,35483.0,CHN,CN,AS,Subtropical
+10072,2014,China,57230.0,CHN,CN,AS,Subtropical
+10073,2014,China,360551.0,CHN,CN,AS,Subtropical
+10074,2014,China,1144606.0,CHN,CN,AS,Subtropical
+10075,2014,China,774898.0,CHN,CN,AS,Subtropical
+10076,2014,China,1030146.0,CHN,CN,AS,Subtropical
+10077,2014,China,652425.0,CHN,CN,AS,Subtropical
+10078,2014,China,801224.0,CHN,CN,AS,Subtropical
+10079,2014,China,1259067.0,CHN,CN,AS,Subtropical
+10081,2014,China,572303.0,CHN,CN,AS,Subtropical
+10083,2014,China,1350635.0,CHN,CN,AS,Subtropical
+10084,2014,China,2861515.0,CHN,CN,AS,Subtropical
+10085,2014,China,552845.0,CHN,CN,AS,Subtropical
+10104,2015,China,2286500.0,CHN,CN,AS,Subtropical
+10107,2015,China,527038.0,CHN,CN,AS,Subtropical
+10108,2015,China,165771.0,CHN,CN,AS,Subtropical
+10109,2015,Bangladesh,4573.0,BGD,BD,AS,Subtropical
+10110,2015,Afghanistan,3430.0,AFG,AF,AS,Subtropical
+10112,2015,China,285813.0,CHN,CN,AS,Subtropical
+10113,2015,Egypt,114325.0,EGY,EG,AF,Subtropical
+10114,2015,Australia,1486225.0,AUS,AU,OC,Subtropical
+10115,2015,Bahamas (the),102893.0,BHS,BS,NA,Subtropical
+10116,2015,China,257231.0,CHN,CN,AS,Subtropical
+10119,2015,Bangladesh,45730.0,BGD,BD,AS,Subtropical
+10121,2015,Chile,1714875.0,CHL,CL,SA,Subtropical
+10122,2015,China,914600.0,CHN,CN,AS,Subtropical
+10123,2015,China,251515.0,CHN,CN,AS,Subtropical
+10128,2015,China,148623.0,CHN,CN,AS,Subtropical
+10132,2015,China,123471.0,CHN,CN,AS,Subtropical
+10135,2015,Argentina,19664.0,ARG,AR,SA,Subtropical
+10136,2015,Bangladesh,45730.0,BGD,BD,AS,Subtropical
+10138,2015,China,238939.0,CHN,CN,AS,Subtropical
+10139,2015,China,12576.0,CHN,CN,AS,Subtropical
+10140,2015,China,1466435.0,CHN,CN,AS,Subtropical
+10147,2015,China,97176.0,CHN,CN,AS,Subtropical
+10158,2015,Australia,457300.0,AUS,AU,OC,Subtropical
+10159,2015,Australia,89174.0,AUS,AU,OC,Subtropical
+10160,2015,Australia,624215.0,AUS,AU,OC,Subtropical
+10161,2015,Australia,65165.0,AUS,AU,OC,Subtropical
+10162,2015,Australia,114325.0,AUS,AU,OC,Subtropical
+10163,2015,Australia,58306.0,AUS,AU,OC,Subtropical
+10164,2015,Australia,228650.0,AUS,AU,OC,Subtropical
+10185,2015,China,22865.0,CHN,CN,AS,Subtropical
+10186,2015,China,49160.0,CHN,CN,AS,Subtropical
+10187,2015,China,714531.0,CHN,CN,AS,Subtropical
+10188,2015,China,737396.0,CHN,CN,AS,Subtropical
+10189,2015,China,148623.0,CHN,CN,AS,Subtropical
+10191,2015,China,1074655.0,CHN,CN,AS,Subtropical
+10192,2015,China,243512.0,CHN,CN,AS,Subtropical
+10193,2015,China,755688.0,CHN,CN,AS,Subtropical
+10194,2015,China,4801650.0,CHN,CN,AS,Subtropical
+10195,2015,China,2816968.0,CHN,CN,AS,Subtropical
+10196,2015,China,228650.0,CHN,CN,AS,Subtropical
+10197,2015,China,1371900.0,CHN,CN,AS,Subtropical
+10198,2015,China,477879.0,CHN,CN,AS,Subtropical
+10199,2015,China,290386.0,CHN,CN,AS,Subtropical
+10200,2015,China,571625.0,CHN,CN,AS,Subtropical
+10231,2016,Bangladesh,677404.0,BGD,BD,AS,Subtropical
+10232,2016,China,191931.0,CHN,CN,AS,Subtropical
+10233,2016,China,109514.0,CHN,CN,AS,Subtropical
+10239,2016,China,24838142.0,CHN,CN,AS,Subtropical
+10244,2016,China,228059.0,CHN,CN,AS,Subtropical
+10245,2016,China,867077.0,CHN,CN,AS,Subtropical
+10246,2016,Australia,564503.0,AUS,AU,OC,Subtropical
+10248,2016,China,1706109.0,CHN,CN,AS,Subtropical
+10249,2016,China,790305.0,CHN,CN,AS,Subtropical
+10262,2016,Argentina,1129006.0,ARG,AR,SA,Subtropical
+10263,2016,Australia,124191.0,AUS,AU,OC,Subtropical
+10267,2016,Bangladesh,169351.0,BGD,BD,AS,Subtropical
+10271,2016,Chile,112901.0,CHL,CL,SA,Subtropical
+10272,2016,China,340960.0,CHN,CN,AS,Subtropical
+10273,2016,China,22580.0,CHN,CN,AS,Subtropical
+10274,2016,China,504666.0,CHN,CN,AS,Subtropical
+10277,2016,China,564503.0,CHN,CN,AS,Subtropical
+10278,2016,China,1806410.0,CHN,CN,AS,Subtropical
+10279,2016,China,77901.0,CHN,CN,AS,Subtropical
+10280,2016,China,749660.0,CHN,CN,AS,Subtropical
+10281,2016,China,3387019.0,CHN,CN,AS,Subtropical
+10282,2016,China,762079.0,CHN,CN,AS,Subtropical
+10283,2016,China,5080529.0,CHN,CN,AS,Subtropical
+10295,2014,Japan,178559.0,JPN,JP,AS,Subtropical
+10296,2014,Japan,114461.0,JPN,JP,AS,Subtropical
+10302,2014,Mexico,2861515.0,MEX,MX,NA,Subtropical
+10307,2014,Mexico,2289.0,MEX,MX,NA,Subtropical
+10319,2014,Iran (Islamic Republic of),56086.0,IRN,IR,AS,Subtropical
+10332,2014,Tajikistan,2289.0,TJK,TJ,AS,Subtropical
+10335,2014,Mexico,572.0,MEX,MX,NA,Subtropical
+10338,2014,Pakistan,20603.0,PAK,PK,AS,Subtropical
+10340,2014,Morocco,343382.0,MAR,MA,AF,Subtropical
+10341,2014,Mexico,16024.0,MEX,MX,NA,Subtropical
+10342,2014,Mexico,28615.0,MEX,MX,NA,Subtropical
+10365,2014,Japan,6753176.0,JPN,JP,AS,Subtropical
+10366,2014,Japan,211752.0,JPN,JP,AS,Subtropical
+10369,2014,Japan,43495.0,JPN,JP,AS,Subtropical
+10370,2014,Japan,228921.0,JPN,JP,AS,Subtropical
+10371,2014,Japan,114461.0,JPN,JP,AS,Subtropical
+10378,2014,Korea (the Republic of),12591.0,KOR,KR,AS,Subtropical
+10379,2014,Korea (the Republic of),2289.0,KOR,KR,AS,Subtropical
+10400,2014,Nepal,17169.0,NPL,NP,AS,Subtropical
+10401,2014,Pakistan,2289212.0,PAK,PK,AS,Subtropical
+10431,2015,Japan,236653.0,JPN,JP,AS,Subtropical
+10437,2015,Mexico,2287.0,MEX,MX,NA,Subtropical
+10440,2015,Pakistan,1143.0,PAK,PK,AS,Subtropical
+10450,2015,Japan,1600550.0,JPN,JP,AS,Subtropical
+10473,2015,Mexico,940895.0,MEX,MX,NA,Subtropical
+10484,2015,Iran (Islamic Republic of),68595.0,IRN,IR,AS,Subtropical
+10506,2015,Iran (Islamic Republic of),68595.0,IRN,IR,AS,Subtropical
+10508,2015,Iran (Islamic Republic of),589917.0,IRN,IR,AS,Subtropical
+10514,2015,Japan,26523.0,JPN,JP,AS,Subtropical
+10577,2015,Saudi Arabia,2287.0,SAU,SA,AS,Subtropical
+10606,2016,Nepal,16935.0,NPL,NP,AS,Subtropical
+10637,2016,Korea (the Republic of),143384.0,KOR,KR,AS,Subtropical
+10657,2016,Portugal,177254.0,PRT,PT,EU,Subtropical
+10672,2014,United States of America (the),309044.0,USA,US,NA,Subtropical
+10673,2014,United States of America (the),2289212.0,USA,US,NA,Subtropical
+10675,2014,United States of America (the),194583.0,USA,US,NA,Subtropical
+10676,2014,United States of America (the),103015.0,USA,US,NA,Subtropical
+10677,2014,South Africa,97292.0,ZAF,ZA,AF,Subtropical
+10682,2014,United States of America (the),4463964.0,USA,US,NA,Subtropical
+10683,2014,United States of America (the),1831370.0,USA,US,NA,Subtropical
+10684,2014,United States of America (the),286152.0,USA,US,NA,Subtropical
+10685,2014,United States of America (the),858455.0,USA,US,NA,Subtropical
+10686,2014,Taiwan (Province of China),22892.0,TWN,TW,AS,Subtropical
+10687,2014,Taiwan (Province of China),457842.0,TWN,TW,AS,Subtropical
+10691,2014,United States of America (the),240367.0,USA,US,NA,Subtropical
+10692,2014,United States of America (the),286152.0,USA,US,NA,Subtropical
+10693,2014,United States of America (the),2289.0,USA,US,NA,Subtropical
+10694,2014,United States of America (the),114461.0,USA,US,NA,Subtropical
+10695,2014,United States of America (the),1831370.0,USA,US,NA,Subtropical
+10696,2014,United States of America (the),22892.0,USA,US,NA,Subtropical
+10697,2014,United States of America (the),75544.0,USA,US,NA,Subtropical
+10698,2014,United States of America (the),114461.0,USA,US,NA,Subtropical
+10699,2014,United States of America (the),2518133.0,USA,US,NA,Subtropical
+10706,2015,United States of America (the),1600550.0,USA,US,NA,Subtropical
+10707,2015,United States of America (the),308678.0,USA,US,NA,Subtropical
+10708,2015,United States of America (the),1086088.0,USA,US,NA,Subtropical
+10709,2015,United States of America (the),182920.0,USA,US,NA,Subtropical
+10710,2015,United States of America (the),743113.0,USA,US,NA,Subtropical
+10711,2015,United States of America (the),1600550.0,USA,US,NA,Subtropical
+10712,2015,United States of America (the),800275.0,USA,US,NA,Subtropical
+10715,2015,United States of America (the),171488.0,USA,US,NA,Subtropical
+10716,2015,United States of America (the),571625.0,USA,US,NA,Subtropical
+10717,2015,United States of America (the),1086088.0,USA,US,NA,Subtropical
+10718,2015,United States of America (the),685950.0,USA,US,NA,Subtropical
+10719,2015,United States of America (the),114325.0,USA,US,NA,Subtropical
+10720,2015,United States of America (the),171488.0,USA,US,NA,Subtropical
+10721,2015,South Africa,285813.0,ZAF,ZA,AF,Subtropical
+10725,2015,United States of America (the),2286500.0,USA,US,NA,Subtropical
+10726,2015,United States of America (the),160055.0,USA,US,NA,Subtropical
+10727,2015,United States of America (the),2286500.0,USA,US,NA,Subtropical
+10732,2015,United States of America (the),91460.0,USA,US,NA,Subtropical
+10733,2015,United States of America (the),3086775.0,USA,US,NA,Subtropical
+10737,2015,Taiwan (Province of China),29725.0,TWN,TW,AS,Subtropical
+10742,2015,United States of America (the),1143250.0,USA,US,NA,Subtropical
+10743,2015,United States of America (the),114325.0,USA,US,NA,Subtropical
+10744,2015,United States of America (the),3429750.0,USA,US,NA,Subtropical
+10745,2015,United States of America (the),194353.0,USA,US,NA,Subtropical
+10747,2015,United States of America (the),2287.0,USA,US,NA,Subtropical
+10748,2015,United States of America (the),1600550.0,USA,US,NA,Subtropical
+10749,2015,United States of America (the),457300.0,USA,US,NA,Subtropical
+10750,2015,United States of America (the),5144625.0,USA,US,NA,Subtropical
+10751,2015,United States of America (the),2287.0,USA,US,NA,Subtropical
+10752,2015,United States of America (the),114325.0,USA,US,NA,Subtropical
+10763,2016,United States of America (the),141126.0,USA,US,NA,Subtropical
+10764,2016,United States of America (the),1129006.0,USA,US,NA,Subtropical
+10765,2016,Argentina,2258.0,ARG,AR,SA,Subtropical
+10766,2016,China,197576.0,CHN,CN,AS,Subtropical
+10767,2016,China,3387019.0,CHN,CN,AS,Subtropical
+10768,2016,United States of America (the),2709615.0,USA,US,NA,Subtropical
+10769,2016,Uruguay,3387.0,URY,UY,SA,Subtropical
+10771,2016,China,937075.0,CHN,CN,AS,Subtropical
+10774,2016,United States of America (the),4403125.0,USA,US,NA,Subtropical
+10775,2016,United States of America (the),1919311.0,USA,US,NA,Subtropical
+10776,2016,United States of America (the),1354808.0,USA,US,NA,Subtropical
+10777,2016,United States of America (the),2596715.0,USA,US,NA,Subtropical
+10778,2016,United States of America (the),2258013.0,USA,US,NA,Subtropical
+10779,2016,United States of America (the),338702.0,USA,US,NA,Subtropical
+10780,2016,United States of America (the),1241907.0,USA,US,NA,Subtropical
+10781,2016,United States of America (the),1806410.0,USA,US,NA,Subtropical
+10782,2016,Bahamas (the),677404.0,BHS,BS,NA,Subtropical
+10783,2016,China,2596715.0,CHN,CN,AS,Subtropical
+10785,2016,Egypt,28225.0,EGY,EG,AF,Subtropical
+10788,2016,United States of America (the),620954.0,USA,US,NA,Subtropical
+10789,2016,United States of America (the),1354808.0,USA,US,NA,Subtropical
+10801,2016,United States of America (the),169351.0,USA,US,NA,Subtropical
+10802,2016,United States of America (the),56450.0,USA,US,NA,Subtropical
+10803,2016,United States of America (the),112901.0,USA,US,NA,Subtropical
+10805,2016,United States of America (the),11290065.0,USA,US,NA,Subtropical
+10810,2016,South Africa,203221.0,ZAF,ZA,AF,Subtropical
+10815,2016,Australia,28225.0,AUS,AU,OC,Subtropical
+10816,2016,China,25967.0,CHN,CN,AS,Subtropical
+10817,2016,China,1004816.0,CHN,CN,AS,Subtropical
+10820,2016,China,138868.0,CHN,CN,AS,Subtropical
+10821,2016,China,146771.0,CHN,CN,AS,Subtropical
+10822,2016,China,23709.0,CHN,CN,AS,Subtropical
+10829,2016,Greece,63224.0,GRC,GR,EU,Subtropical
+10837,2017,China,84015.0,CHN,CN,AS,Subtropical
+10838,2017,China,102808.0,CHN,CN,AS,Subtropical
+10842,2017,China,306212.0,CHN,CN,AS,Subtropical
+10847,2017,Chile,2211.0,CHL,CL,SA,Subtropical
+10848,2017,China,118284.0,CHN,CN,AS,Subtropical
+10849,2017,China,6632753.0,CHN,CN,AS,Subtropical
+10850,2017,China,160292.0,CHN,CN,AS,Subtropical
+10854,2017,China,3758560.0,CHN,CN,AS,Subtropical
+10856,2017,China,82909.0,CHN,CN,AS,Subtropical
+10857,2017,Australia,22109.0,AUS,AU,OC,Subtropical
+10859,2017,Chile,608002.0,CHL,CL,SA,Subtropical
+10861,2017,Australia,2984739.0,AUS,AU,OC,Subtropical
+10864,2017,China,3869106.0,CHN,CN,AS,Subtropical
+10886,2017,Australia,541675.0,AUS,AU,OC,Subtropical
+10890,2017,Bangladesh,141499.0,BGD,BD,AS,Subtropical
+10892,2017,Bangladesh,552729.0,BGD,BD,AS,Subtropical
+10893,2017,Bahamas (the),2211.0,BHS,BS,NA,Subtropical
+10901,2017,China,221092.0,CHN,CN,AS,Subtropical
+10902,2017,China,67433.0,CHN,CN,AS,Subtropical
+10903,2017,China,30953.0,CHN,CN,AS,Subtropical
+10906,2017,China,2543.0,CHN,CN,AS,Subtropical
+10908,2017,China,3980.0,CHN,CN,AS,Subtropical
+10909,2017,China,63011.0,CHN,CN,AS,Subtropical
+10910,2017,China,61906.0,CHN,CN,AS,Subtropical
+10911,2017,China,134866.0,CHN,CN,AS,Subtropical
+10912,2017,China,127128.0,CHN,CN,AS,Subtropical
+10913,2017,China,40902.0,CHN,CN,AS,Subtropical
+10914,2017,China,348220.0,CHN,CN,AS,Subtropical
+10915,2017,China,399071.0,CHN,CN,AS,Subtropical
+10916,2017,China,474242.0,CHN,CN,AS,Subtropical
+10917,2017,China,543886.0,CHN,CN,AS,Subtropical
+10954,2018,China,299990.0,CHN,CN,AS,Subtropical
+10955,2018,China,1888428.0,CHN,CN,AS,Subtropical
+10957,2018,China,1564697.0,CHN,CN,AS,Subtropical
+10960,2018,China,528760.0,CHN,CN,AS,Subtropical
+10961,2018,China,202871.0,CHN,CN,AS,Subtropical
+10962,2018,China,396030.0,CHN,CN,AS,Subtropical
+10963,2018,China,5827149.0,CHN,CN,AS,Subtropical
+10976,2018,Argentina,3668946.0,ARG,AR,SA,Subtropical
+10981,2018,Australia,1294922.0,AUS,AU,OC,Subtropical
+10982,2018,Australia,12302.0,AUS,AU,OC,Subtropical
+10999,2018,China,158628.0,CHN,CN,AS,Subtropical
+11000,2018,China,921553.0,CHN,CN,AS,Subtropical
+11001,2018,China,128737.0,CHN,CN,AS,Subtropical
+11002,2018,China,615088.0,CHN,CN,AS,Subtropical
+11003,2018,China,258984.0,CHN,CN,AS,Subtropical
+11004,2018,China,86220.0,CHN,CN,AS,Subtropical
+11005,2018,China,830908.0,CHN,CN,AS,Subtropical
+11007,2018,China,402505.0,CHN,CN,AS,Subtropical
+11008,2018,China,72300.0,CHN,CN,AS,Subtropical
+11009,2018,China,843084.0,CHN,CN,AS,Subtropical
+11010,2018,China,572667.0,CHN,CN,AS,Subtropical
+11011,2018,China,852490.0,CHN,CN,AS,Subtropical
+11067,2019,Australia,2119787.0,AUS,AU,OC,Subtropical
+11078,2019,China,153685.0,CHN,CN,AS,Subtropical
+11081,2019,China,6571340.0,CHN,CN,AS,Subtropical
+11099,2016,Korea (the Republic of),142255.0,KOR,KR,AS,Subtropical
+11109,2016,Japan,112901.0,JPN,JP,AS,Subtropical
+11113,2016,Pakistan,2258.0,PAK,PK,AS,Subtropical
+11124,2016,Mexico,56450.0,MEX,MX,NA,Subtropical
+11131,2016,Israel,587083.0,ISR,IL,AS,Subtropical
+11138,2016,Mexico,28225.0,MEX,MX,NA,Subtropical
+11160,2017,Japan,1105459.0,JPN,JP,AS,Subtropical
+11161,2017,Japan,552729.0,JPN,JP,AS,Subtropical
+11165,2017,Mexico,2211.0,MEX,MX,NA,Subtropical
+11174,2017,Portugal,256466.0,PRT,PT,EU,Subtropical
+11188,2017,Iran (Islamic Republic of),390227.0,IRN,IR,AS,Subtropical
+11189,2017,Japan,773821.0,JPN,JP,AS,Subtropical
+11194,2017,Nepal,657748.0,NPL,NP,AS,Subtropical
+11196,2017,Pakistan,121600.0,PAK,PK,AS,Subtropical
+11245,2017,Iran (Islamic Republic of),38691.0,IRN,IR,AS,Subtropical
+11249,2017,Japan,2211.0,JPN,JP,AS,Subtropical
+11281,2017,Portugal,552729.0,PRT,PT,EU,Subtropical
+11303,2018,Iran (Islamic Republic of),179131.0,IRN,IR,AS,Subtropical
+11304,2018,Japan,10251466.0,JPN,JP,AS,Subtropical
+11325,2018,Japan,13488771.0,JPN,JP,AS,Subtropical
+11326,2018,Japan,4855958.0,JPN,JP,AS,Subtropical
+11330,2018,Mexico,7559.0,MEX,MX,NA,Subtropical
+11379,2018,Mexico,579262.0,MEX,MX,NA,Subtropical
+11414,2018,Portugal,124636.0,PRT,PT,EU,Subtropical
+11418,2018,Qatar,10791.0,QAT,QA,AS,Subtropical
+11434,2019,Iran (Islamic Republic of),2649734.0,IRN,IR,AS,Subtropical
+11458,2019,Iran (Islamic Republic of),84791.0,IRN,IR,AS,Subtropical
+11463,2019,Libya,7525.0,LBY,LY,AF,Subtropical
+11494,2016,United States of America (the),677404.0,USA,US,NA,Subtropical
+11495,2016,Taiwan (Province of China),124191.0,TWN,TW,AS,Subtropical
+11496,2016,United States of America (the),620954.0,USA,US,NA,Subtropical
+11499,2016,United States of America (the),310477.0,USA,US,NA,Subtropical
+11502,2016,United States of America (the),112901.0,USA,US,NA,Subtropical
+11503,2016,Saudi Arabia,56450.0,SAU,SA,AS,Subtropical
+11504,2016,Taiwan (Province of China),79030.0,TWN,TW,AS,Subtropical
+11505,2016,United States of America (the),11290065.0,USA,US,NA,Subtropical
+11514,2016,United States of America (the),1354808.0,USA,US,NA,Subtropical
+11515,2016,United States of America (the),2596715.0,USA,US,NA,Subtropical
+11521,2016,South Africa,112901.0,ZAF,ZA,AF,Subtropical
+11526,2017,United States of America (the),442184.0,USA,US,NA,Subtropical
+11528,2017,United States of America (the),1879280.0,USA,US,NA,Subtropical
+11529,2017,United States of America (the),221092.0,USA,US,NA,Subtropical
+11531,2017,United States of America (the),1216005.0,USA,US,NA,Subtropical
+11532,2017,South Africa,312845.0,ZAF,ZA,AF,Subtropical
+11533,2017,United States of America (the),1658188.0,USA,US,NA,Subtropical
+11535,2017,Turkey,663275.0,TUR,TR,AS,Subtropical
+11536,2017,United States of America (the),1547642.0,USA,US,NA,Subtropical
+11537,2017,United States of America (the),2984739.0,USA,US,NA,Subtropical
+11538,2017,United States of America (the),105018585.0,USA,US,NA,Subtropical
+11539,2017,United States of America (the),2100372.0,USA,US,NA,Subtropical
+11543,2017,Taiwan (Province of China),31063.0,TWN,TW,AS,Subtropical
+11550,2017,United States of America (the),3426922.0,USA,US,NA,Subtropical
+11551,2017,United States of America (the),2432009.0,USA,US,NA,Subtropical
+11552,2017,United States of America (the),2210918.0,USA,US,NA,Subtropical
+11553,2017,United States of America (the),287419.0,USA,US,NA,Subtropical
+11557,2017,Taiwan (Province of China),19014.0,TWN,TW,AS,Subtropical
+11558,2017,United States of America (the),63011151.0,USA,US,NA,Subtropical
+11561,2017,South Africa,353747.0,ZAF,ZA,AF,Subtropical
+11577,2017,United States of America (the),1105459.0,USA,US,NA,Subtropical
+11578,2017,United States of America (the),1216005.0,USA,US,NA,Subtropical
+11582,2017,United States of America (the),276365.0,USA,US,NA,Subtropical
+11584,2017,United States of America (the),14370964.0,USA,US,NA,Subtropical
+11585,2017,United States of America (the),2763647.0,USA,US,NA,Subtropical
+11586,2017,United States of America (the),2432009.0,USA,US,NA,Subtropical
+11595,2017,South Africa,1326551.0,ZAF,ZA,AF,Subtropical
+11597,2017,South Africa,464293.0,ZAF,ZA,AF,Subtropical
+11606,2018,United States of America (the),2481934.0,USA,US,NA,Subtropical
+11609,2018,United States of America (the),134888.0,USA,US,NA,Subtropical
+11612,2018,United States of America (the),1079102.0,USA,US,NA,Subtropical
+11613,2018,United States of America (the),1079102.0,USA,US,NA,Subtropical
+11614,2018,United States of America (the),1402832.0,USA,US,NA,Subtropical
+11615,2018,United States of America (the),431641.0,USA,US,NA,Subtropical
+11616,2018,United States of America (the),1079102.0,USA,US,NA,Subtropical
+11622,2018,Taiwan (Province of China),36689.0,TWN,TW,AS,Subtropical
+11624,2018,United States of America (the),161865.0,USA,US,NA,Subtropical
+11625,2018,United States of America (the),15107424.0,USA,US,NA,Subtropical
+11626,2018,United States of America (the),971192.0,USA,US,NA,Subtropical
+11631,2018,United States of America (the),17265628.0,USA,US,NA,Subtropical
+11633,2018,United States of America (the),1618653.0,USA,US,NA,Subtropical
+11640,2018,Tunisia,38848.0,TUN,TN,AF,Subtropical
+11644,2018,Uruguay,539551.0,URY,UY,SA,Subtropical
+11645,2018,United States of America (the),53955.0,USA,US,NA,Subtropical
+11646,2018,United States of America (the),269775.0,USA,US,NA,Subtropical
+11647,2018,United States of America (the),1564697.0,USA,US,NA,Subtropical
+11648,2018,United States of America (the),134888.0,USA,US,NA,Subtropical
+11649,2018,United States of America (the),17805178.0,USA,US,NA,Subtropical
+11650,2018,United States of America (the),3237305.0,USA,US,NA,Subtropical
+11651,2018,United States of America (the),5611329.0,USA,US,NA,Subtropical
+11658,2019,Australia,2119787.0,AUS,AU,OC,Subtropical
+11659,2019,China,10598936.0,CHN,CN,AS,Subtropical
+11660,2019,United States of America (the),1271872.0,USA,US,NA,Subtropical
+11661,2019,Bangladesh,79492.0,BGD,BD,AS,Subtropical
+11663,2019,United States of America (the),105989.0,USA,US,NA,Subtropical
+11667,2019,South Africa,52995.0,ZAF,ZA,AF,Subtropical
+11672,2019,China,95390.0,CHN,CN,AS,Subtropical
+11674,2019,United States of America (the),1377862.0,USA,US,NA,Subtropical
+11676,2019,United States of America (the),10598936.0,USA,US,NA,Subtropical
+11698,2019,United States of America (the),201380.0,USA,US,NA,Subtropical
+11716,2019,Bangladesh,6131.0,BGD,BD,AS,Subtropical
+11718,2019,Bahamas (the),3603638.0,BHS,BS,NA,Subtropical
+11724,2019,China,333866.0,CHN,CN,AS,Subtropical
+11726,2019,China,138846.0,CHN,CN,AS,Subtropical
+11727,2019,China,278752.0,CHN,CN,AS,Subtropical
+11728,2019,China,211979.0,CHN,CN,AS,Subtropical
+11742,2020,Australia,1570467.0,AUS,AU,OC,Subtropical
+11744,2020,Bangladesh,523489.0,BGD,BD,AS,Subtropical
+11756,2020,Australia,1256374.0,AUS,AU,OC,Subtropical
+11766,2020,China,14658.0,CHN,CN,AS,Subtropical
+11776,2020,Argentina,10470.0,ARG,AR,SA,Subtropical
+11777,2020,Australia,1256374.0,AUS,AU,OC,Subtropical
+11786,2020,Bangladesh,1570467.0,BGD,BD,AS,Subtropical
+11791,2020,China,1151676.0,CHN,CN,AS,Subtropical
+11793,2020,China,168563.0,CHN,CN,AS,Subtropical
+11797,2020,China,17798630.0,CHN,CN,AS,Subtropical
+11798,2020,China,5025496.0,CHN,CN,AS,Subtropical
+11810,2021,Chile,175000.0,CHL,CL,SA,Subtropical
+11812,2021,China,2500.0,CHN,CN,AS,Subtropical
+11838,2021,Cyprus,47000.0,CYP,CY,AS,Subtropical
+11841,2021,Australia,155000.0,AUS,AU,OC,Subtropical
+11856,2021,Australia,330000.0,AUS,AU,OC,Subtropical
+11857,2021,Australia,530000.0,AUS,AU,OC,Subtropical
+11858,2021,Australia,120000.0,AUS,AU,OC,Subtropical
+11860,2021,Australia,2100000.0,AUS,AU,OC,Subtropical
+11861,2021,Australia,100000.0,AUS,AU,OC,Subtropical
+11882,2021,China,96000.0,CHN,CN,AS,Subtropical
+11883,2021,China,935000.0,CHN,CN,AS,Subtropical
+11885,2021,China,1800000.0,CHN,CN,AS,Subtropical
+11886,2021,China,2000000.0,CHN,CN,AS,Subtropical
+11887,2021,China,3100000.0,CHN,CN,AS,Subtropical
+11888,2021,China,161000.0,CHN,CN,AS,Subtropical
+11889,2021,China,16500000.0,CHN,CN,AS,Subtropical
+11942,2019,Japan,105989.0,JPN,JP,AS,Subtropical
+11949,2019,Nepal,216218.0,NPL,NP,AS,Subtropical
+11960,2019,Japan,18018191.0,JPN,JP,AS,Subtropical
+11963,2019,Mexico,405939.0,MEX,MX,NA,Subtropical
+11986,2019,Japan,10599.0,JPN,JP,AS,Subtropical
+11988,2019,Japan,9645032.0,JPN,JP,AS,Subtropical
+11994,2019,Korea (the Republic of),586121.0,KOR,KR,AS,Subtropical
+12045,2020,Japan,6072474.0,JPN,JP,AS,Subtropical
+12048,2020,Korea (the Republic of),439731.0,KOR,KR,AS,Subtropical
+12054,2020,Nepal,104698.0,NPL,NP,AS,Subtropical
+12055,2020,Pakistan,1570467.0,PAK,PK,AS,Subtropical
+12064,2020,Israel,607247.0,ISR,IL,AS,Subtropical
+12065,2020,Japan,209396.0,JPN,JP,AS,Subtropical
+12072,2020,Mexico,141342.0,MEX,MX,NA,Subtropical
+12081,2020,Egypt,79570.0,EGY,EG,AF,Subtropical
+12105,2020,Greece,31409.0,GRC,GR,EU,Subtropical
+12137,2020,Iran (Islamic Republic of),845958.0,IRN,IR,AS,Subtropical
+12139,2020,Iran (Islamic Republic of),1570467.0,IRN,IR,AS,Subtropical
+12141,2020,Iran (Islamic Republic of),52349.0,IRN,IR,AS,Subtropical
+12142,2020,Iraq,104698.0,IRQ,IQ,AS,Subtropical
+12150,2020,Korea (the Republic of),1256374.0,KOR,KR,AS,Subtropical
+12158,2020,Mexico,104698.0,MEX,MX,NA,Subtropical
+12160,2020,Mexico,104698.0,MEX,MX,NA,Subtropical
+12191,2021,Mexico,50000.0,MEX,MX,NA,Subtropical
+12192,2021,Mexico,500000.0,MEX,MX,NA,Subtropical
+12193,2021,Mexico,100000.0,MEX,MX,NA,Subtropical
+12195,2021,Mexico,50000.0,MEX,MX,NA,Subtropical
+12200,2021,Mexico,50000.0,MEX,MX,NA,Subtropical
+12228,2021,Japan,100000.0,JPN,JP,AS,Subtropical
+12253,2021,Japan,2000000.0,JPN,JP,AS,Subtropical
+12254,2021,Greece,580000.0,GRC,GR,EU,Subtropical
+12262,2021,Korea (the Republic of),13000.0,KOR,KR,AS,Subtropical
+12264,2021,Mexico,10000.0,MEX,MX,NA,Subtropical
+12319,2021,Iraq,14000.0,IRQ,IQ,AS,Subtropical
+12321,2021,Japan,250000.0,JPN,JP,AS,Subtropical
+12334,2021,Mexico,100000.0,MEX,MX,NA,Subtropical
+12335,2021,Mexico,50000.0,MEX,MX,NA,Subtropical
+12337,2021,Mexico,10000.0,MEX,MX,NA,Subtropical
+12356,2021,Pakistan,10000.0,PAK,PK,AS,Subtropical
+12397,1941,Portugal,735254.0,PRT,PT,EU,Subtropical
+12414,2019,United States of America (the),249075.0,USA,US,NA,Subtropical
+12417,2019,United States of America (the),1695830.0,USA,US,NA,Subtropical
+12418,2019,United States of America (the),3709628.0,USA,US,NA,Subtropical
+12452,2019,United States of America (the),2755723.0,USA,US,NA,Subtropical
+12453,2019,United States of America (the),635936.0,USA,US,NA,Subtropical
+12454,2019,United States of America (the),344465.0,USA,US,NA,Subtropical
+12455,2019,United States of America (the),1377862.0,USA,US,NA,Subtropical
+12461,2019,South Africa,143086.0,ZAF,ZA,AF,Subtropical
+12469,2020,United States of America (the),1675165.0,USA,US,NA,Subtropical
+12472,2020,United States of America (the),366442.0,USA,US,NA,Subtropical
+12477,2020,United States of America (the),1570467.0,USA,US,NA,Subtropical
+12494,2020,United States of America (the),2198654.0,USA,US,NA,Subtropical
+12496,2020,United States of America (the),3036237.0,USA,US,NA,Subtropical
+12497,2020,United States of America (the),889932.0,USA,US,NA,Subtropical
+12501,2020,United States of America (the),4711402.0,USA,US,NA,Subtropical
+12505,2020,United States of America (the),3664424.0,USA,US,NA,Subtropical
+12506,2020,United States of America (the),1465770.0,USA,US,NA,Subtropical
+12507,2020,United States of America (the),1256374.0,USA,US,NA,Subtropical
+12508,2020,United States of America (the),1151676.0,USA,US,NA,Subtropical
+12509,2020,United States of America (the),3036237.0,USA,US,NA,Subtropical
+12510,2020,United States of America (the),6595963.0,USA,US,NA,Subtropical
+12515,2020,United States of America (the),3664424.0,USA,US,NA,Subtropical
+12517,2020,United States of America (the),13610717.0,USA,US,NA,Subtropical
+12555,2020,Turkey,36644.0,TUR,TR,AS,Subtropical
+12557,2020,Turkey,261745.0,TUR,TR,AS,Subtropical
+12568,2020,United States of America (the),7119452.0,USA,US,NA,Subtropical
+12569,2020,United States of America (the),1465770.0,USA,US,NA,Subtropical
+12570,2020,United States of America (the),2617446.0,USA,US,NA,Subtropical
+12571,2020,United States of America (the),3036237.0,USA,US,NA,Subtropical
+12572,2020,United States of America (the),183221.0,USA,US,NA,Subtropical
+12573,2020,United States of America (the),340268.0,USA,US,NA,Subtropical
+12574,2020,United States of America (the),5025496.0,USA,US,NA,Subtropical
+12575,2020,United States of America (the),11516761.0,USA,US,NA,Subtropical
+12600,2021,United States of America (the),675000.0,USA,US,NA,Subtropical
+12601,2021,United States of America (the),1100000.0,USA,US,NA,Subtropical
+12604,2021,United States of America (the),1300000.0,USA,US,NA,Subtropical
+12605,2021,United States of America (the),3100000.0,USA,US,NA,Subtropical
+12606,2021,United States of America (the),1200000.0,USA,US,NA,Subtropical
+12609,2021,United States of America (the),120000.0,USA,US,NA,Subtropical
+12610,2021,United States of America (the),375000.0,USA,US,NA,Subtropical
+12618,2021,Tajikistan,9000.0,TJK,TJ,AS,Subtropical
+12619,2021,Turkey,290000.0,TUR,TR,AS,Subtropical
+12621,2021,United States of America (the),150000.0,USA,US,NA,Subtropical
+12622,2021,United States of America (the),50000.0,USA,US,NA,Subtropical
+12628,2021,United States of America (the),945000.0,USA,US,NA,Subtropical
+12629,2021,United States of America (the),1500000.0,USA,US,NA,Subtropical
+12632,2021,United States of America (the),300000.0,USA,US,NA,Subtropical
+12633,2021,United States of America (the),75000.0,USA,US,NA,Subtropical
+12635,2021,United States of America (the),30000000.0,USA,US,NA,Subtropical
+12636,2021,Turkey,232000.0,TUR,TR,AS,Subtropical
+12640,2021,United States of America (the),1700000.0,USA,US,NA,Subtropical
+12641,2021,United States of America (the),1300000.0,USA,US,NA,Subtropical
+12642,2021,United States of America (the),1200000.0,USA,US,NA,Subtropical
+12643,2021,United States of America (the),550000.0,USA,US,NA,Subtropical
+12644,2021,United States of America (the),1300000.0,USA,US,NA,Subtropical
+12645,2021,United States of America (the),65000000.0,USA,US,NA,Subtropical
+12646,2021,United States of America (the),1000000.0,USA,US,NA,Subtropical
+12660,2021,United States of America (the),215000.0,USA,US,NA,Subtropical
+12663,2021,United States of America (the),225000.0,USA,US,NA,Subtropical
+12690,2021,Turkey,23000.0,TUR,TR,AS,Subtropical
+12695,2021,United States of America (the),1300000.0,USA,US,NA,Subtropical
+12696,2021,United States of America (the),500000.0,USA,US,NA,Subtropical
+12697,2021,United States of America (the),5200000.0,USA,US,NA,Subtropical
+12698,2021,United States of America (the),100000.0,USA,US,NA,Subtropical
+12699,2021,United States of America (the),1900000.0,USA,US,NA,Subtropical
+12700,2021,United States of America (the),950000.0,USA,US,NA,Subtropical
+12701,2021,United States of America (the),150000.0,USA,US,NA,Subtropical
+12702,2021,United States of America (the),25000.0,USA,US,NA,Subtropical
+12703,2021,United States of America (the),325000.0,USA,US,NA,Subtropical
+12705,2021,United States of America (the),3000000.0,USA,US,NA,Subtropical
+12706,2021,United States of America (the),1500000.0,USA,US,NA,Subtropical
+12707,2021,United States of America (the),9000000.0,USA,US,NA,Subtropical
+12708,2021,United States of America (the),50000.0,USA,US,NA,Subtropical
+12709,2021,United States of America (the),1300000.0,USA,US,NA,Subtropical
+12710,2021,United States of America (the),10000.0,USA,US,NA,Subtropical
+12711,2021,United States of America (the),325000.0,USA,US,NA,Subtropical
+12713,2021,United States of America (the),200000.0,USA,US,NA,Subtropical
+12714,2021,United States of America (the),3300000.0,USA,US,NA,Subtropical
+12724,2021,South Africa,75000.0,ZAF,ZA,AF,Subtropical

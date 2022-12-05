@@ -1,0 +1,699 @@
+,Year,Country,Losses,ISO,Alpha_2,Continent,Zone
+17,1912,Canada,140079.0,CAN,CA,NA,Temperate
+28,1920,Germany Fed Rep,269919.0,DEU,DE,EU,Temperate
+30,1922,Canada,129218.0,CAN,CA,NA,Temperate
+35,1925,Germany Fed Rep,292916.0,DEU,DE,EU,Temperate
+41,1926,Germany Fed Rep,473423.0,DEU,DE,EU,Temperate
+53,1929,Germany Fed Rep,865990.0,DEU,DE,EU,Temperate
+102,1946,Canada,6932.0,CAN,CA,NA,Temperate
+122,1950,Canada,1123728.0,CAN,CA,NA,Temperate
+129,1951,Switzerland,208322.0,CHE,CH,EU,Temperate
+140,1953,Germany Fed Rep,252629.0,DEU,DE,EU,Temperate
+149,1954,Canada,1006760.0,CAN,CA,NA,Temperate
+230,1962,Germany Fed Rep,5374604.0,DEU,DE,EU,Temperate
+231,1962,Spain,716614.0,ESP,ES,EU,Temperate
+337,1967,France,162460.0,FRA,FR,EU,Temperate
+355,1968,Germany Fed Rep,241497.0,DEU,DE,EU,Temperate
+358,1968,United Kingdom of Great Britain and Northern Ireland (the),19476.0,GBR,GB,EU,Temperate
+419,1970,Hungary,593237.0,HUN,HU,EU,Temperate
+437,1971,Spain,669198.0,ESP,ES,EU,Temperate
+438,1971,Spain,368059.0,ESP,ES,EU,Temperate
+452,1972,Germany Fed Rep,2721576.0,DEU,DE,EU,Temperate
+453,1972,Spain,129599.0,ESP,ES,EU,Temperate
+482,1973,Spain,2441169.0,ESP,ES,EU,Temperate
+509,1974,Canada,79684.0,CAN,CA,NA,Temperate
+514,1974,Germany Fed Rep,120899.0,DEU,DE,EU,Temperate
+530,1975,Canada,12588.0,CAN,CA,NA,Temperate
+556,1976,Germany Fed Rep,6189966.0,DEU,DE,EU,Temperate
+594,1977,Canada,13412498.0,CAN,CA,NA,Temperate
+603,1977,United Kingdom of Great Britain and Northern Ireland (the),4471.0,GBR,GB,EU,Temperate
+628,1978,Germany Fed Rep,1370771.0,DEU,DE,EU,Temperate
+630,1978,Spain,103846.0,ESP,ES,EU,Temperate
+770,1951,Italy,3124830.0,ITA,IT,EU,Temperate
+789,1953,Netherlands (the),3031551.0,NLD,NL,EU,Temperate
+995,1966,Italy,16696460.0,ITA,IT,EU,Temperate
+1005,1966,Mongolia,208706.0,MNG,MN,AS,Temperate
+1113,1970,Italy,1872535.0,ITA,IT,EU,Temperate
+1114,1970,Italy,22334.0,ITA,IT,EU,Temperate
+1137,1970,Romania,3489629.0,ROU,RO,EU,Temperate
+1190,1973,Italy,2197052.0,ITA,IT,EU,Temperate
+1192,1973,Italy,732351.0,ITA,IT,EU,Temperate
+1258,1975,Romania,251753.0,ROU,RO,EU,Temperate
+1289,1977,Italy,196717.0,ITA,IT,EU,Temperate
+1290,1977,Italy,670625.0,ITA,IT,EU,Temperate
+1338,1978,Italy,4154.0,ITA,IT,EU,Temperate
+1510,1979,Canada,70939.0,CAN,CA,NA,Temperate
+1514,1979,Germany Fed Rep,298692.0,DEU,DE,EU,Temperate
+1558,1980,Spain,4932201.0,ESP,ES,EU,Temperate
+1566,1981,Canada,235431.0,CAN,CA,NA,Temperate
+1594,1981,Denmark,745036.0,DNK,DK,EU,Temperate
+1598,1981,Spain,4351011.0,ESP,ES,EU,Temperate
+1618,1982,Switzerland,2808.0,CHE,CH,EU,Temperate
+1633,1982,Spain,1769025.0,ESP,ES,EU,Temperate
+1634,1982,Spain,842393.0,ESP,ES,EU,Temperate
+1638,1982,France,982792.0,FRA,FR,EU,Temperate
+1668,1983,Canada,157794.0,CAN,CA,NA,Temperate
+1670,1983,Switzerland,2721.0,CHE,CH,EU,Temperate
+1690,1983,Spain,10610259.0,ESP,ES,EU,Temperate
+1697,1983,France,1643230.0,FRA,FR,EU,Temperate
+1701,1983,France,14963.0,FRA,FR,EU,Temperate
+1710,1984,Germany Fed Rep,2477983.0,DEU,DE,EU,Temperate
+1727,1984,Canada,2608404.0,CAN,CA,NA,Temperate
+1728,1984,Switzerland,25041.0,CHE,CH,EU,Temperate
+1744,1984,Spain,2608404.0,ESP,ES,EU,Temperate
+1746,1984,Spain,2608.0,ESP,ES,EU,Temperate
+1752,1984,United Kingdom of Great Britain and Northern Ireland (the),212585.0,GBR,GB,EU,Temperate
+1779,1985,Canada,294733.0,CAN,CA,NA,Temperate
+1781,1985,Switzerland,5038.0,CHE,CH,EU,Temperate
+1837,1986,Canada,74165.0,CAN,CA,NA,Temperate
+1841,1986,Switzerland,259577.0,CHE,CH,EU,Temperate
+1883,1987,Canada,631964.0,CAN,CA,NA,Temperate
+1884,1987,Canada,26232.0,CAN,CA,NA,Temperate
+1885,1987,Canada,414950.0,CAN,CA,NA,Temperate
+1887,1987,Switzerland,331245.0,CHE,CH,EU,Temperate
+1914,1987,Spain,19078.0,ESP,ES,EU,Temperate
+1915,1987,Spain,3059662.0,ESP,ES,EU,Temperate
+1918,1987,France,4054112.0,FRA,FR,EU,Temperate
+1921,1987,United Kingdom of Great Britain and Northern Ireland (the),3732168.0,GBR,GB,EU,Temperate
+1956,1988,Canada,1855983.0,CAN,CA,NA,Temperate
+1957,1988,Canada,34370.0,CAN,CA,NA,Temperate
+1987,1988,France,1145669.0,FRA,FR,EU,Temperate
+2052,1979,New Zealand,9207.0,NZL,NZ,OC,Temperate
+2187,1982,Italy,1965583.0,ITA,IT,EU,Temperate
+2227,1982,Poland,148823.0,POL,PL,EU,Temperate
+2284,1983,Poland,5441.0,POL,PL,EU,Temperate
+2330,1984,New Zealand,52168.0,NZL,NZ,OC,Temperate
+2340,1985,Italy,37786.0,ITA,IT,EU,Temperate
+2382,1986,Hungary,1236081.0,HUN,HU,EU,Temperate
+2401,1986,Italy,49443.0,ITA,IT,EU,Temperate
+2419,1986,New Zealand,48949.0,NZL,NZ,OC,Temperate
+2463,1987,Italy,1490482.0,ITA,IT,EU,Temperate
+2464,1987,Italy,166934.0,ITA,IT,EU,Temperate
+2465,1987,Italy,186012.0,ITA,IT,EU,Temperate
+2466,1987,Italy,1492152.0,ITA,IT,EU,Temperate
+2467,1987,Italy,1192386.0,ITA,IT,EU,Temperate
+2499,1987,Poland,1192386.0,POL,PL,EU,Temperate
+2866,1989,Canada,9180473.0,CAN,CA,NA,Temperate
+2892,1990,Austria,20739.0,AUT,AT,EU,Temperate
+2893,1990,Austria,248866.0,AUT,AT,EU,Temperate
+2894,1990,Austria,248866.0,AUT,AT,EU,Temperate
+2895,1990,Belgium,725858.0,BEL,BE,EU,Temperate
+2896,1990,Belgium,373298.0,BEL,BE,EU,Temperate
+2897,1990,Belgium,124433.0,BEL,BE,EU,Temperate
+2898,1990,Belgium,124433.0,BEL,BE,EU,Temperate
+2899,1990,Belgium,497731.0,BEL,BE,EU,Temperate
+2900,1990,Belgium,186649.0,BEL,BE,EU,Temperate
+2916,1990,Canada,17628.0,CAN,CA,NA,Temperate
+2918,1990,Switzerland,207388.0,CHE,CH,EU,Temperate
+2919,1990,Switzerland,186649.0,CHE,CH,EU,Temperate
+2920,1990,Switzerland,186649.0,CHE,CH,EU,Temperate
+2943,1990,Germany,2488656.0,DEU,DE,EU,Temperate
+2944,1990,Germany,1244328.0,DEU,DE,EU,Temperate
+2945,1990,Germany,124433.0,DEU,DE,EU,Temperate
+2946,1990,Germany,373298.0,DEU,DE,EU,Temperate
+2947,1990,Germany,2488656.0,DEU,DE,EU,Temperate
+2948,1990,Germany,2488656.0,DEU,DE,EU,Temperate
+2949,1990,Denmark,248866.0,DNK,DK,EU,Temperate
+2950,1990,Denmark,124433.0,DNK,DK,EU,Temperate
+2951,1990,Denmark,20739.0,DNK,DK,EU,Temperate
+2952,1991,Austria,163149.0,AUT,AT,EU,Temperate
+2953,1991,Austria,55709.0,AUT,AT,EU,Temperate
+2956,1991,Canada,994810.0,CAN,CA,NA,Temperate
+2958,1991,Germany Fed Rep,111419.0,DEU,DE,EU,Temperate
+2991,1991,Germany,9948.0,DEU,DE,EU,Temperate
+3006,1992,Albania,13518.0,ALB,AL,EU,Temperate
+3023,1992,Canada,3862259.0,CAN,CA,NA,Temperate
+3024,1992,Canada,231736.0,CAN,CA,NA,Temperate
+3040,1992,Germany,58127.0,DEU,DE,EU,Temperate
+3041,1992,Denmark,1451630.0,DNK,DK,EU,Temperate
+3045,1993,Switzerland,41267.0,CHE,CH,EU,Temperate
+3046,1993,Germany,56273.0,DEU,DE,EU,Temperate
+3047,1993,Switzerland,787821.0,CHE,CH,EU,Temperate
+3059,1993,Austria,1876.0,AUT,AT,EU,Temperate
+3061,1993,Belgium,31888.0,BEL,BE,EU,Temperate
+3074,1993,Belarus,187576.0,BLR,BY,EU,Temperate
+3076,1993,Switzerland,3301.0,CHE,CH,EU,Temperate
+3102,1993,Germany,1125458.0,DEU,DE,EU,Temperate
+3103,1993,Germany,712790.0,DEU,DE,EU,Temperate
+3112,1994,Austria,3656.0,AUT,AT,EU,Temperate
+3118,1994,Switzerland,9140.0,CHE,CH,EU,Temperate
+3126,1994,Germany,365619.0,DEU,DE,EU,Temperate
+3127,1994,Germany,353737.0,DEU,DE,EU,Temperate
+3128,1994,Germany,731239.0,DEU,DE,EU,Temperate
+3134,1989,Spain,819685.0,ESP,ES,EU,Temperate
+3136,1989,France,3497323.0,FRA,FR,EU,Temperate
+3205,1990,Spain,9332460.0,ESP,ES,EU,Temperate
+3215,1990,France,829552.0,FRA,FR,EU,Temperate
+3216,1990,France,1866492.0,FRA,FR,EU,Temperate
+3217,1990,France,124433.0,FRA,FR,EU,Temperate
+3218,1990,France,124433.0,FRA,FR,EU,Temperate
+3219,1990,France,124433.0,FRA,FR,EU,Temperate
+3220,1990,France,414776.0,FRA,FR,EU,Temperate
+3221,1990,France,476992.0,FRA,FR,EU,Temperate
+3223,1990,United Kingdom of Great Britain and Northern Ireland (the),7051192.0,GBR,GB,EU,Temperate
+3224,1990,United Kingdom of Great Britain and Northern Ireland (the),20739.0,GBR,GB,EU,Temperate
+3225,1990,United Kingdom of Great Britain and Northern Ireland (the),124433.0,GBR,GB,EU,Temperate
+3226,1990,United Kingdom of Great Britain and Northern Ireland (the),145172.0,GBR,GB,EU,Temperate
+3227,1990,United Kingdom of Great Britain and Northern Ireland (the),1866492.0,GBR,GB,EU,Temperate
+3228,1990,United Kingdom of Great Britain and Northern Ireland (the),725858.0,GBR,GB,EU,Temperate
+3246,1990,Ireland,62216.0,IRL,IE,EU,Temperate
+3247,1990,Ireland,124433.0,IRL,IE,EU,Temperate
+3248,1990,Ireland,41478.0,IRL,IE,EU,Temperate
+3251,1990,Italy,1825014.0,ITA,IT,EU,Temperate
+3252,1990,Italy,1462085.0,ITA,IT,EU,Temperate
+3253,1990,Italy,41478.0,ITA,IT,EU,Temperate
+3267,1990,Luxembourg,186649.0,LUX,LU,EU,Temperate
+3268,1990,Luxembourg,186649.0,LUX,LU,EU,Temperate
+3269,1990,Luxembourg,10369.0,LUX,LU,EU,Temperate
+3270,1990,Luxembourg,10369.0,LUX,LU,EU,Temperate
+3271,1990,Luxembourg,186649.0,LUX,LU,EU,Temperate
+3272,1990,Luxembourg,186649.0,LUX,LU,EU,Temperate
+3275,1990,Mongolia,228127.0,MNG,MN,AS,Temperate
+3281,1990,Netherlands (the),2488656.0,NLD,NL,EU,Temperate
+3282,1990,Netherlands (the),373298.0,NLD,NL,EU,Temperate
+3283,1990,Netherlands (the),145172.0,NLD,NL,EU,Temperate
+3284,1990,Netherlands (the),124433.0,NLD,NL,EU,Temperate
+3285,1990,Netherlands (the),373298.0,NLD,NL,EU,Temperate
+3286,1990,Netherlands (the),124433.0,NLD,NL,EU,Temperate
+3303,1990,Poland,103694.0,POL,PL,EU,Temperate
+3315,1991,Romania,99481.0,ROU,RO,EU,Temperate
+3320,1991,France,1535987.0,FRA,FR,EU,Temperate
+3322,1991,United Kingdom of Great Britain and Northern Ireland (the),1790658.0,GBR,GB,EU,Temperate
+3334,1991,Ireland,7958.0,IRL,IE,EU,Temperate
+3395,1992,France,772452.0,FRA,FR,EU,Temperate
+3401,1992,Hungary,741554.0,HUN,HU,EU,Temperate
+3414,1992,Italy,19311.0,ITA,IT,EU,Temperate
+3415,1992,Italy,1327265.0,ITA,IT,EU,Temperate
+3424,1992,Lithuania,102157.0,LTU,LT,EU,Temperate
+3430,1992,Netherlands (the),53299.0,NLD,NL,EU,Temperate
+3433,1992,New Zealand,99453.0,NZL,NZ,OC,Temperate
+3434,1992,New Zealand,193113.0,NZL,NZ,OC,Temperate
+3458,1993,France,93788.0,FRA,FR,EU,Temperate
+3460,1993,France,937882.0,FRA,FR,EU,Temperate
+3461,1993,Italy,1172352.0,ITA,IT,EU,Temperate
+3467,1993,France,1125458.0,FRA,FR,EU,Temperate
+3468,1993,United Kingdom of Great Britain and Northern Ireland (the),281365.0,GBR,GB,EU,Temperate
+3469,1993,United Kingdom of Great Britain and Northern Ireland (the),69403.0,GBR,GB,EU,Temperate
+3493,1993,Ireland,71279.0,IRL,IE,EU,Temperate
+3504,1993,Kazakhstan,68525.0,KAZ,KZ,AS,Temperate
+3510,1993,Lithuania,8629.0,LTU,LT,EU,Temperate
+3511,1993,Luxembourg,18758.0,LUX,LU,EU,Temperate
+3522,1993,Mongolia,18758.0,MNG,MN,AS,Temperate
+3527,1993,Netherlands (the),99415.0,NLD,NL,EU,Temperate
+3547,1993,Korea (the Democratic People's Republic of),206334.0,PRK,KP,AS,Temperate
+3556,1994,France,9140.0,FRA,FR,EU,Temperate
+3557,1994,United Kingdom of Great Britain and Northern Ireland (the),164529.0,GBR,GB,EU,Temperate
+3562,1994,Kyrgyzstan,65811.0,KGZ,KG,AS,Temperate
+3569,1994,Netherlands (the),3656.0,NLD,NL,EU,Temperate
+3579,1994,Poland,1828.0,POL,PL,EU,Temperate
+3745,1992,Ukraine,3090.0,UKR,UA,EU,Temperate
+3802,1993,Ukraine,150061.0,UKR,UA,EU,Temperate
+3803,1993,Ukraine,298246.0,UKR,UA,EU,Temperate
+3874,1994,Canada,5484.0,CAN,CA,NA,Temperate
+3888,1995,Azerbaijan,11914.0,AZE,AZ,AS,Temperate
+3909,1995,Austria,356.0,AUT,AT,EU,Temperate
+3910,1995,Azerbaijan,9780.0,AZE,AZ,AS,Temperate
+3911,1995,Azerbaijan,7113.0,AZE,AZ,AS,Temperate
+3912,1995,Belgium,177821.0,BEL,BE,EU,Temperate
+3932,1995,Canada,177821.0,CAN,CA,NA,Temperate
+3933,1995,Canada,159150.0,CAN,CA,NA,Temperate
+3935,1995,Canada,130343.0,CAN,CA,NA,Temperate
+3950,1996,Canada,1260437.0,CAN,CA,NA,Temperate
+3963,1996,Austria,8638.0,AUT,AT,EU,Temperate
+3979,1996,Canada,173.0,CAN,CA,NA,Temperate
+4011,1997,Armenia,13505.0,ARM,AM,AS,Temperate
+4016,1997,Austria,295419.0,AUT,AT,EU,Temperate
+4017,1997,Azerbaijan,42203.0,AZE,AZ,AS,Temperate
+4027,1997,Belarus,55708.0,BLR,BY,EU,Temperate
+4034,1997,Canada,16881.0,CAN,CA,NA,Temperate
+4035,1997,Canada,202573.0,CAN,CA,NA,Temperate
+4037,1997,Switzerland,115635.0,CHE,CH,EU,Temperate
+4054,1998,Armenia,199.0,ARM,AM,AS,Temperate
+4062,1998,Belgium,16623.0,BEL,BE,EU,Temperate
+4083,1998,Canada,2493458.0,CAN,CA,NA,Temperate
+4099,1994,Moldova (the Republic of),548429.0,MDA,MD,EU,Temperate
+4100,1994,Germany,1179488.0,DEU,DE,EU,Temperate
+4115,1994,France,173669.0,FRA,FR,EU,Temperate
+4116,1994,United Kingdom of Great Britain and Northern Ireland (the),266902.0,GBR,GB,EU,Temperate
+4134,1994,Italy,17001302.0,ITA,IT,EU,Temperate
+4172,1995,Germany,569027.0,DEU,DE,EU,Temperate
+4173,1995,France,1244748.0,FRA,FR,EU,Temperate
+4174,1995,United Kingdom of Great Britain and Northern Ireland (the),1155837.0,GBR,GB,EU,Temperate
+4176,1995,Luxembourg,17782.0,LUX,LU,EU,Temperate
+4177,1995,Netherlands (the),2098289.0,NLD,NL,EU,Temperate
+4186,1995,Germany,372713.0,DEU,DE,EU,Temperate
+4194,1995,Spain,1465779.0,ESP,ES,EU,Temperate
+4197,1995,Georgia,3912.0,GEO,GE,AS,Temperate
+4223,1995,Kazakhstan,5335.0,KAZ,KZ,AS,Temperate
+4240,1995,Macedonia (the former Yugoslav Republic of),435662.0,MKD,MK,EU,Temperate
+4264,1996,Italy,55282.0,ITA,IT,EU,Temperate
+4279,1996,Czech Republic (the),62193.0,CZE,CZ,EU,Temperate
+4280,1996,Germany,864.0,DEU,DE,EU,Temperate
+4286,1996,Spain,996118.0,ESP,ES,EU,Temperate
+4287,1996,Spain,34551.0,ESP,ES,EU,Temperate
+4290,1996,France,10365.0,FRA,FR,EU,Temperate
+4291,1996,France,17.0,FRA,FR,EU,Temperate
+4293,1996,United Kingdom of Great Britain and Northern Ireland (the),518272.0,GBR,GB,EU,Temperate
+4322,1996,Ireland,1728.0,IRL,IE,EU,Temperate
+4349,1996,Mongolia,2958985.0,MNG,MN,AS,Temperate
+4373,1997,Spain,8441.0,ESP,ES,EU,Temperate
+4382,1997,Czech Republic (the),3123002.0,CZE,CZ,EU,Temperate
+4383,1997,Germany,607719.0,DEU,DE,EU,Temperate
+4394,1997,France,16881.0,FRA,FR,EU,Temperate
+4395,1997,United Kingdom of Great Britain and Northern Ireland (the),166110.0,GBR,GB,EU,Temperate
+4397,1997,United Kingdom of Great Britain and Northern Ireland (the),253216.0,GBR,GB,EU,Temperate
+4398,1997,Georgia,16881.0,GEO,GE,AS,Temperate
+4399,1997,Georgia,32918.0,GEO,GE,AS,Temperate
+4407,1997,Hungary,16881.0,HUN,HU,EU,Temperate
+4421,1997,Italy,1350488.0,ITA,IT,EU,Temperate
+4435,1997,Moldova (the Republic of),84405.0,MDA,MD,EU,Temperate
+4466,1998,Italy,47708.0,ITA,IT,EU,Temperate
+4474,1998,Czech Republic (the),86440.0,CZE,CZ,EU,Temperate
+4476,1998,Spain,69996.0,ESP,ES,EU,Temperate
+4478,1998,United Kingdom of Great Britain and Northern Ireland (the),831153.0,GBR,GB,EU,Temperate
+4479,1998,United Kingdom of Great Britain and Northern Ireland (the),332461.0,GBR,GB,EU,Temperate
+4499,1998,Ireland,83.0,IRL,IE,EU,Temperate
+4510,1998,Kyrgyzstan,3990.0,KGZ,KG,AS,Temperate
+4532,1998,Netherlands (the),881022.0,NLD,NL,EU,Temperate
+4535,1998,New Zealand,124673.0,NZL,NZ,OC,Temperate
+4557,1994,Romania,5484.0,ROU,RO,EU,Temperate
+4609,1995,Korea (the Democratic People's Republic of),26673163.0,PRK,KP,AS,Temperate
+4613,1995,Romania,6046.0,ROU,RO,EU,Temperate
+4652,1996,Korea (the Democratic People's Republic of),3800659.0,PRK,KP,AS,Temperate
+4721,1997,Poland,5908383.0,POL,PL,EU,Temperate
+4724,1997,Korea (the Democratic People's Republic of),17.0,PRK,KP,AS,Temperate
+4728,1997,Romania,185692.0,ROU,RO,EU,Temperate
+4737,1997,Slovakia,101287.0,SVK,SK,EU,Temperate
+4749,1997,Ukraine,28698.0,UKR,UA,EU,Temperate
+4750,1997,Ukraine,57396.0,UKR,UA,EU,Temperate
+4787,1998,Romania,249346.0,ROU,RO,EU,Temperate
+4821,1998,Slovakia,74804.0,SVK,SK,EU,Temperate
+4834,1998,Ukraine,2093.0,UKR,UA,EU,Temperate
+4857,1998,Belgium,831.0,BEL,BE,EU,Temperate
+4861,1998,Switzerland,1662.0,CHE,CH,EU,Temperate
+4879,1999,Austria,52055.0,AUT,AT,EU,Temperate
+4880,1999,Austria,67622.0,AUT,AT,EU,Temperate
+4883,1999,Belgium,791.0,BEL,BE,EU,Temperate
+4884,1999,Belgium,81336.0,BEL,BE,EU,Temperate
+4898,1999,Belarus,7125.0,BLR,BY,EU,Temperate
+4909,1999,Canada,163.0,CAN,CA,NA,Temperate
+4910,1999,Switzerland,536815.0,CHE,CH,EU,Temperate
+4911,1999,Switzerland,1114298.0,CHE,CH,EU,Temperate
+4912,1999,Switzerland,2440069.0,CHE,CH,EU,Temperate
+4932,2000,Austria,31472.0,AUT,AT,EU,Temperate
+4934,2000,Armenia,157358.0,ARM,AM,AS,Temperate
+4935,2000,Bosnia and Herzegovina,248625.0,BIH,BA,EU,Temperate
+4958,2000,Azerbaijan,157358.0,AZE,AZ,AS,Temperate
+4970,2000,Bulgaria,79.0,BGR,BG,EU,Temperate
+4971,2000,Bulgaria,27695.0,BGR,BG,EU,Temperate
+4974,2000,Belarus,47679.0,BLR,BY,EU,Temperate
+4984,2000,Canada,20456.0,CAN,CA,NA,Temperate
+4985,2000,Switzerland,519280.0,CHE,CH,EU,Temperate
+5012,1998,Germany,249346.0,DEU,DE,EU,Temperate
+5021,1998,Spain,1662.0,ESP,ES,EU,Temperate
+5024,1998,France,249346.0,FRA,FR,EU,Temperate
+5026,1998,United Kingdom of Great Britain and Northern Ireland (the),831153.0,GBR,GB,EU,Temperate
+5027,1998,United Kingdom of Great Britain and Northern Ireland (the),1106098.0,GBR,GB,EU,Temperate
+5041,1998,Netherlands (the),166.0,NLD,NL,EU,Temperate
+5045,1999,France,813356.0,FRA,FR,EU,Temperate
+5046,1999,France,13013702.0,FRA,FR,EU,Temperate
+5047,1999,Hungary,208870.0,HUN,HU,EU,Temperate
+5072,1999,Germany,699486.0,DEU,DE,EU,Temperate
+5073,1999,Germany,10134.0,DEU,DE,EU,Temperate
+5074,1999,Germany,2602740.0,DEU,DE,EU,Temperate
+5075,1999,Germany,244007.0,DEU,DE,EU,Temperate
+5078,1999,Denmark,4237488.0,DNK,DK,EU,Temperate
+5080,1999,Spain,162671.0,ESP,ES,EU,Temperate
+5081,1999,Spain,5205481.0,ESP,ES,EU,Temperate
+5089,1999,France,17552.0,FRA,FR,EU,Temperate
+5090,1999,France,6506851.0,FRA,FR,EU,Temperate
+5095,1999,United Kingdom of Great Britain and Northern Ireland (the),53161.0,GBR,GB,EU,Temperate
+5096,1999,United Kingdom of Great Britain and Northern Ireland (the),162671.0,GBR,GB,EU,Temperate
+5097,1999,United Kingdom of Great Britain and Northern Ireland (the),1627.0,GBR,GB,EU,Temperate
+5107,1999,Hungary,268408.0,HUN,HU,EU,Temperate
+5118,1999,Ireland,162671.0,IRL,IE,EU,Temperate
+5125,1999,Italy,8963.0,ITA,IT,EU,Temperate
+5139,1999,Lithuania,813.0,LTU,LT,EU,Temperate
+5141,1999,Latvia,813.0,LVA,LV,EU,Temperate
+5143,1999,Moldova (the Republic of),6507.0,MDA,MD,EU,Temperate
+5184,2000,Mongolia,125886.0,MNG,MN,AS,Temperate
+5186,2000,United Kingdom of Great Britain and Northern Ireland (the),2360363.0,GBR,GB,EU,Temperate
+5208,2000,Czech Republic (the),125886.0,CZE,CZ,EU,Temperate
+5218,2000,Spain,118018.0,ESP,ES,EU,Temperate
+5235,2000,United Kingdom of Great Britain and Northern Ireland (the),28560.0,GBR,GB,EU,Temperate
+5236,2000,United Kingdom of Great Britain and Northern Ireland (the),9284094.0,GBR,GB,EU,Temperate
+5240,2000,Georgia,314715.0,GEO,GE,AS,Temperate
+5251,2000,Croatia,377658.0,HRV,HR,EU,Temperate
+5252,2000,Croatia,27931.0,HRV,HR,EU,Temperate
+5255,2000,Hungary,86547.0,HUN,HU,EU,Temperate
+5274,2000,Ireland,157358.0,IRL,IE,EU,Temperate
+5280,2000,Italy,12588603.0,ITA,IT,EU,Temperate
+5283,2000,Italy,78679.0,ITA,IT,EU,Temperate
+5290,2000,Kazakhstan,2360.0,KAZ,KZ,AS,Temperate
+5304,2000,Moldova (the Republic of),49725.0,MDA,MD,EU,Temperate
+5312,2000,Macedonia (the former Yugoslav Republic of),21342.0,MKD,MK,EU,Temperate
+5339,2000,New Zealand,1574.0,NZL,NZ,OC,Temperate
+5346,2001,Hungary,7652.0,HUN,HU,EU,Temperate
+5423,1999,Poland,16267.0,POL,PL,EU,Temperate
+5426,1999,Korea (the Democratic People's Republic of),3253.0,PRK,KP,AS,Temperate
+5427,1999,Romania,16267.0,ROU,RO,EU,Temperate
+5428,1999,Romania,81336.0,ROU,RO,EU,Temperate
+5446,1999,Slovakia,184307.0,SVK,SK,EU,Temperate
+5503,2000,Korea (the Democratic People's Republic of),9441452.0,PRK,KP,AS,Temperate
+5519,2000,Romania,787.0,ROU,RO,EU,Temperate
+5520,2000,Romania,157358.0,ROU,RO,EU,Temperate
+5522,2000,Romania,786788.0,ROU,RO,EU,Temperate
+5567,2000,Ukraine,133754.0,UKR,UA,EU,Temperate
+5570,2000,Ukraine,188829.0,UKR,UA,EU,Temperate
+5599,2000,Uzbekistan,78679.0,UZB,UZ,AS,Temperate
+5625,2001,Romania,22955.0,ROU,RO,EU,Temperate
+5630,2001,Ukraine,22955.0,UKR,UA,EU,Temperate
+5673,2002,Switzerland,271158.0,CHE,CH,EU,Temperate
+5687,2002,Albania,26363.0,ALB,AL,EU,Temperate
+5694,2002,Austria,3615440.0,AUT,AT,EU,Temperate
+5695,2002,Austria,7532.0,AUT,AT,EU,Temperate
+5701,2002,Belgium,7532.0,BEL,BE,EU,Temperate
+5710,2002,Bulgaria,1506.0,BGR,BG,EU,Temperate
+5742,2003,Switzerland,7365.0,CHE,CH,EU,Temperate
+5789,2001,Germany,459098.0,DEU,DE,EU,Temperate
+5793,2001,Spain,110183.0,ESP,ES,EU,Temperate
+5800,2001,France,202539.0,FRA,FR,EU,Temperate
+5839,2001,Italy,267807.0,ITA,IT,EU,Temperate
+5840,2001,Italy,153033.0,ITA,IT,EU,Temperate
+5878,2002,Spain,131060.0,ESP,ES,EU,Temperate
+5883,2002,Italy,527252.0,ITA,IT,EU,Temperate
+5889,2002,Germany,17474626.0,DEU,DE,EU,Temperate
+5891,2002,Germany,225965.0,DEU,DE,EU,Temperate
+5928,2002,Czech Republic (the),3615440.0,CZE,CZ,EU,Temperate
+5929,2002,Czech Republic (the),30129.0,CZE,CZ,EU,Temperate
+5931,2002,Germany,2711580.0,DEU,DE,EU,Temperate
+5932,2002,Germany,150643.0,DEU,DE,EU,Temperate
+5943,2002,France,1792656.0,FRA,FR,EU,Temperate
+5944,2002,France,1506.0,FRA,FR,EU,Temperate
+5950,2002,United Kingdom of Great Britain and Northern Ireland (the),602573.0,GBR,GB,EU,Temperate
+5951,2002,United Kingdom of Great Britain and Northern Ireland (the),75.0,GBR,GB,EU,Temperate
+5970,2002,Hungary,45193.0,HUN,HU,EU,Temperate
+5998,2002,Italy,445904.0,ITA,IT,EU,Temperate
+6011,2002,Kyrgyzstan,2260.0,KGZ,KG,AS,Temperate
+6020,2002,Moldova (the Republic of),1253.0,MDA,MD,EU,Temperate
+6043,2003,Italy,220949.0,ITA,IT,EU,Temperate
+6050,2003,Germany,441898.0,DEU,DE,EU,Temperate
+6053,2003,France,74.0,FRA,FR,EU,Temperate
+6086,2001,Korea (the Democratic People's Republic of),14385.0,PRK,KP,AS,Temperate
+6087,2001,New Zealand,306065.0,NZL,NZ,OC,Temperate
+6117,2001,Poland,1071228.0,POL,PL,EU,Temperate
+6122,2001,Romania,183639.0,ROU,RO,EU,Temperate
+6141,2001,Slovakia,9182.0,SVK,SK,EU,Temperate
+6235,2002,Netherlands (the),451930.0,NLD,NL,EU,Temperate
+6237,2002,New Zealand,753.0,NZL,NZ,OC,Temperate
+6262,2002,Poland,75.0,POL,PL,EU,Temperate
+6264,2002,Poland,151.0,POL,PL,EU,Temperate
+6266,2002,Korea (the Democratic People's Republic of),753.0,PRK,KP,AS,Temperate
+6272,2002,Romania,437.0,ROU,RO,EU,Temperate
+6292,2002,Slovakia,4519.0,SVK,SK,EU,Temperate
+6360,2003,Austria,412439.0,AUT,AT,EU,Temperate
+6367,2003,Azerbaijan,81015.0,AZE,AZ,AS,Temperate
+6402,2004,Albania,248.0,ALB,AL,EU,Temperate
+6442,2003,Italy,964812.0,ITA,IT,EU,Temperate
+6456,2003,France,2209492.0,FRA,FR,EU,Temperate
+6472,2003,Croatia,486088.0,HRV,HR,EU,Temperate
+6473,2003,Switzerland,412439.0,CHE,CH,EU,Temperate
+6474,2003,Germany,2430442.0,DEU,DE,EU,Temperate
+6475,2003,Spain,1296236.0,ESP,ES,EU,Temperate
+6476,2003,France,6481178.0,FRA,FR,EU,Temperate
+6479,2003,Italy,6481178.0,ITA,IT,EU,Temperate
+6480,2003,Canada,162029.0,CAN,CA,NA,Temperate
+6490,2003,Bosnia and Herzegovina,206219.0,BIH,BA,EU,Temperate
+6493,2003,Canada,14730.0,CAN,CA,NA,Temperate
+6494,2003,Canada,14730.0,CAN,CA,NA,Temperate
+6495,2003,Canada,22095.0,CAN,CA,NA,Temperate
+6497,2003,Canada,802782.0,CAN,CA,NA,Temperate
+6527,2003,Croatia,29460.0,HRV,HR,EU,Temperate
+6530,2003,Hungary,147299.0,HUN,HU,EU,Temperate
+6575,2004,Georgia,3093.0,GEO,GE,AS,Temperate
+6586,2004,Canada,286918.0,CAN,CA,NA,Temperate
+6597,2004,Canada,143459.0,CAN,CA,NA,Temperate
+6637,2004,Germany,186496.0,DEU,DE,EU,Temperate
+6642,2004,Spain,20493.0,ESP,ES,EU,Temperate
+6644,2004,Spain,4304.0,ESP,ES,EU,Temperate
+6645,2004,United Kingdom of Great Britain and Northern Ireland (the),137720.0,GBR,GB,EU,Temperate
+6690,2005,Estonia,180377.0,EST,EE,EU,Temperate
+6697,2005,Denmark,1803767.0,DNK,DK,EU,Temperate
+6698,2005,United Kingdom of Great Britain and Northern Ireland (the),901883.0,GBR,GB,EU,Temperate
+6704,2005,Germany,374628.0,DEU,DE,EU,Temperate
+6713,2005,Kazakhstan,10631.0,KAZ,KZ,AS,Temperate
+6716,2005,Lithuania,41625.0,LTU,LT,EU,Temperate
+6717,2005,Latvia,450942.0,LVA,LV,EU,Temperate
+6722,2003,Slovenia,117840.0,SVN,SI,EU,Temperate
+6723,2003,New Zealand,4419.0,NZL,NZ,OC,Temperate
+6755,2003,Slovakia,220949.0,SVK,SK,EU,Temperate
+6772,2003,Mongolia,398.0,MNG,MN,AS,Temperate
+6860,2004,New Zealand,64556.0,NZL,NZ,OC,Temperate
+6898,2004,Macedonia (the former Yugoslav Republic of),5165.0,MKD,MK,EU,Temperate
+6913,2004,New Zealand,286918.0,NZL,NZ,OC,Temperate
+6926,2004,Korea (the Democratic People's Republic of),28692.0,PRK,KP,AS,Temperate
+6941,2004,Slovakia,549877.0,SVK,SK,EU,Temperate
+6976,2005,Romania,277503.0,ROU,RO,EU,Temperate
+7007,2005,New Zealand,13875.0,NZL,NZ,OC,Temperate
+7051,2005,Bulgaria,342716.0,BGR,BG,EU,Temperate
+7093,2005,Bulgaria,13875.0,BGR,BG,EU,Temperate
+7110,2005,Germany,416254.0,DEU,DE,EU,Temperate
+7120,2005,Austria,971259.0,AUT,AT,EU,Temperate
+7130,2005,Bulgaria,277503.0,BGR,BG,EU,Temperate
+7140,2005,Canada,495342.0,CAN,CA,NA,Temperate
+7144,2005,Switzerland,2913777.0,CHE,CH,EU,Temperate
+7164,2005,Germany,305253.0,DEU,DE,EU,Temperate
+7168,2005,Spain,2844401.0,ESP,ES,EU,Temperate
+7174,2005,France,13875.0,FRA,FR,EU,Temperate
+7176,2005,United Kingdom of Great Britain and Northern Ireland (the),69376.0,GBR,GB,EU,Temperate
+7183,2005,Hungary,66601.0,HUN,HU,EU,Temperate
+7249,2006,Hungary,13442.0,HUN,HU,EU,Temperate
+7314,2006,Spain,885796.0,ESP,ES,EU,Temperate
+7370,2007,Austria,522748.0,AUT,AT,EU,Temperate
+7372,2007,Belgium,588092.0,BEL,BE,EU,Temperate
+7374,2007,Belarus,13069.0,BLR,BY,EU,Temperate
+7377,2007,Switzerland,130687.0,CHE,CH,EU,Temperate
+7378,2007,Czech Republic (the),196031.0,CZE,CZ,EU,Temperate
+7380,2007,Germany,7187787.0,DEU,DE,EU,Temperate
+7381,2007,Denmark,130687.0,DNK,DK,EU,Temperate
+7387,2007,France,326718.0,FRA,FR,EU,Temperate
+7388,2007,United Kingdom of Great Britain and Northern Ireland (the),1568245.0,GBR,GB,EU,Temperate
+7410,2005,Kyrgyzstan,3691.0,KGZ,KG,AS,Temperate
+7415,2005,New Zealand,99901.0,NZL,NZ,OC,Temperate
+7472,2005,Moldova (the Republic of),10756.0,MDA,MD,EU,Temperate
+7482,2005,Netherlands (the),138751.0,NLD,NL,EU,Temperate
+7492,2005,Romania,1110010.0,ROU,RO,EU,Temperate
+7493,2005,Romania,434291.0,ROU,RO,EU,Temperate
+7506,2005,Slovenia,6938.0,SVN,SI,EU,Temperate
+7579,2006,Ukraine,32065.0,UKR,UA,EU,Temperate
+7597,2006,Lithuania,303204.0,LTU,LT,EU,Temperate
+7642,2006,New Zealand,4032.0,NZL,NZ,OC,Temperate
+7744,2007,Netherlands (the),718779.0,NLD,NL,EU,Temperate
+7748,2007,Poland,130687.0,POL,PL,EU,Temperate
+7751,2007,Slovenia,130687.0,SVN,SI,EU,Temperate
+7752,2007,Ukraine,130687.0,UKR,UA,EU,Temperate
+7795,2007,United Kingdom of Great Britain and Northern Ireland (the),585478.0,GBR,GB,EU,Temperate
+7798,2007,United Kingdom of Great Britain and Northern Ireland (the),5227482.0,GBR,GB,EU,Temperate
+7832,2007,Bulgaria,3207.0,BGR,BG,EU,Temperate
+7841,2007,Switzerland,457405.0,CHE,CH,EU,Temperate
+7861,2007,Spain,522748.0,ESP,ES,EU,Temperate
+7867,2007,United Kingdom of Great Britain and Northern Ireland (the),5227482.0,GBR,GB,EU,Temperate
+7941,2008,Germany,1887830.0,DEU,DE,EU,Temperate
+7944,2008,United Kingdom of Great Britain and Northern Ireland (the),62928.0,GBR,GB,EU,Temperate
+7948,2008,Austria,629277.0,AUT,AT,EU,Temperate
+7956,2008,Germany,1510264.0,DEU,DE,EU,Temperate
+8011,2008,Czech Republic (the),62928.0,CZE,CZ,EU,Temperate
+8017,2008,France,100684.0,FRA,FR,EU,Temperate
+8048,2009,France,4041741.0,FRA,FR,EU,Temperate
+8056,2009,Austria,252609.0,AUT,AT,EU,Temperate
+8089,2009,Czech Republic (the),189457.0,CZE,CZ,EU,Temperate
+8090,2009,Germany,25261.0,DEU,DE,EU,Temperate
+8095,2009,Spain,2399784.0,ESP,ES,EU,Temperate
+8116,2007,Korea (the Democratic People's Republic of),392061.0,PRK,KP,AS,Temperate
+8118,2007,Slovenia,381606.0,SVN,SI,EU,Temperate
+8122,2007,Kyrgyzstan,261.0,KGZ,KG,AS,Temperate
+8171,2007,Moldova (the Republic of),530589.0,MDA,MD,EU,Temperate
+8299,2008,Italy,349878.0,ITA,IT,EU,Temperate
+8303,2008,Ukraine,1258553.0,UKR,UA,EU,Temperate
+8339,2008,Kazakhstan,163612.0,KAZ,KZ,AS,Temperate
+8388,2008,Poland,62928.0,POL,PL,EU,Temperate
+8460,2009,Poland,126304.0,POL,PL,EU,Temperate
+8491,2009,Austria,631522.0,AUT,AT,EU,Temperate
+8503,2009,Italy,25261.0,ITA,IT,EU,Temperate
+8505,2009,Switzerland,1263044.0,CHE,CH,EU,Temperate
+8547,2009,Canada,631522.0,CAN,CA,NA,Temperate
+8562,2009,Germany,63152.0,DEU,DE,EU,Temperate
+8568,2009,United Kingdom of Great Britain and Northern Ireland (the),611313.0,GBR,GB,EU,Temperate
+8597,2010,Italy,1083603.0,ITA,IT,EU,Temperate
+8603,2010,Belgium,295935.0,BEL,BE,EU,Temperate
+8611,2010,Czech Republic (the),236106.0,CZE,CZ,EU,Temperate
+8614,2010,France,1863996.0,FRA,FR,EU,Temperate
+8635,2010,Czech Republic (the),195794.0,CZE,CZ,EU,Temperate
+8638,2010,France,5256468.0,FRA,FR,EU,Temperate
+8667,2010,Belgium,198826.0,BEL,BE,EU,Temperate
+8676,2010,Bosnia and Herzegovina,108112.0,BIH,BA,EU,Temperate
+8689,2010,Switzerland,17397.0,CHE,CH,EU,Temperate
+8719,2010,Germany,1242664.0,DEU,DE,EU,Temperate
+8727,2010,Spain,422506.0,ESP,ES,EU,Temperate
+8734,2010,United Kingdom of Great Britain and Northern Ireland (the),621.0,GBR,GB,EU,Temperate
+8750,2010,Croatia,99413.0,HRV,HR,EU,Temperate
+8754,2010,Hungary,546772.0,HUN,HU,EU,Temperate
+8798,2011,Belgium,119259.0,BEL,BE,EU,Temperate
+8807,2011,Canada,963708.0,CAN,CA,NA,Temperate
+8845,2009,Mongolia,119.0,MNG,MN,AS,Temperate
+8878,2009,Italy,145250.0,ITA,IT,EU,Temperate
+8897,2009,Mongolia,78309.0,MNG,MN,AS,Temperate
+8975,2010,Kazakhstan,42966.0,KAZ,KZ,AS,Temperate
+8978,2010,Poland,3827405.0,POL,PL,EU,Temperate
+9013,2010,Luxembourg,38523.0,LUX,LU,EU,Temperate
+9030,2010,Netherlands (the),34795.0,NLD,NL,EU,Temperate
+9055,2010,Romania,1381131.0,ROU,RO,EU,Temperate
+9077,2010,Slovakia,31067.0,SVK,SK,EU,Temperate
+9089,2010,Ukraine,2361.0,UKR,UA,EU,Temperate
+9142,2011,Kazakhstan,80711.0,KAZ,KZ,AS,Temperate
+9240,2011,Canada,1806953.0,CAN,CA,NA,Temperate
+9272,2012,Georgia,107399.0,GEO,GE,AS,Temperate
+9288,2012,Georgia,3541.0,GEO,GE,AS,Temperate
+9298,2012,Bulgaria,5193.0,BGR,BG,EU,Temperate
+9340,2012,Canada,1239223.0,CAN,CA,NA,Temperate
+9341,2012,Canada,40127.0,CAN,CA,NA,Temperate
+9379,2012,Spain,466184.0,ESP,ES,EU,Temperate
+9386,2012,United Kingdom of Great Britain and Northern Ireland (the),926467.0,GBR,GB,EU,Temperate
+9387,2012,United Kingdom of Great Britain and Northern Ireland (the),95597.0,GBR,GB,EU,Temperate
+9389,2012,United Kingdom of Great Britain and Northern Ireland (the),531096.0,GBR,GB,EU,Temperate
+9390,2012,United Kingdom of Great Britain and Northern Ireland (the),1923747.0,GBR,GB,EU,Temperate
+9423,2013,Austria,1163174.0,AUT,AT,EU,Temperate
+9430,2013,Czech Republic (the),963750.0,CZE,CZ,EU,Temperate
+9438,2013,Armenia,69790.0,ARM,AM,AS,Temperate
+9439,2013,Switzerland,290794.0,CHE,CH,EU,Temperate
+9444,2013,Canada,1640076.0,CAN,CA,NA,Temperate
+9480,2013,Canada,232635.0,CAN,CA,NA,Temperate
+9481,2013,Canada,6630093.0,CAN,CA,NA,Temperate
+9506,2013,Germany,5583236.0,DEU,DE,EU,Temperate
+9507,2013,Germany,15004948.0,DEU,DE,EU,Temperate
+9516,2013,France,761879.0,FRA,FR,EU,Temperate
+9518,2013,United Kingdom of Great Britain and Northern Ireland (the),1744761.0,GBR,GB,EU,Temperate
+9559,2011,Italy,656526.0,ITA,IT,EU,Temperate
+9587,2011,Ireland,391506.0,IRL,IE,EU,Temperate
+9646,2012,Korea (the Democratic People's Republic of),13454.0,PRK,KP,AS,Temperate
+9655,2012,Italy,1404453.0,ITA,IT,EU,Temperate
+9674,2012,Italy,17703.0,ITA,IT,EU,Temperate
+9675,2012,Italy,156497.0,ITA,IT,EU,Temperate
+9710,2012,New Zealand,10740.0,NZL,NZ,OC,Temperate
+9733,2012,Poland,6963.0,POL,PL,EU,Temperate
+9754,2012,Slovenia,312756.0,SVN,SI,EU,Temperate
+9768,2012,Ukraine,1994560.0,UKR,UA,EU,Temperate
+9804,2013,Netherlands (the),11632.0,NLD,NL,EU,Temperate
+9817,2013,Italy,907276.0,ITA,IT,EU,Temperate
+9855,2013,New Zealand,23263.0,NZL,NZ,OC,Temperate
+9856,2013,New Zealand,957292.0,NZL,NZ,OC,Temperate
+9873,2013,Romania,12795.0,ROU,RO,EU,Temperate
+9894,2013,Ukraine,24427.0,UKR,UA,EU,Temperate
+9898,2014,Italy,137353.0,ITA,IT,EU,Temperate
+10004,2014,France,208318.0,FRA,FR,EU,Temperate
+10007,2014,Bulgaria,431517.0,BGR,BG,EU,Temperate
+10016,2014,Bosnia and Herzegovina,499712.0,BIH,BA,EU,Temperate
+10037,2014,United Kingdom of Great Britain and Northern Ireland (the),114461.0,GBR,GB,EU,Temperate
+10041,2014,Canada,147654.0,CAN,CA,NA,Temperate
+10042,2014,France,346816.0,FRA,FR,EU,Temperate
+10053,2014,Bulgaria,623810.0,BGR,BG,EU,Temperate
+10055,2014,Bulgaria,11446.0,BGR,BG,EU,Temperate
+10094,2014,Germany,457842.0,DEU,DE,EU,Temperate
+10099,2014,United Kingdom of Great Britain and Northern Ireland (the),714234.0,GBR,GB,EU,Temperate
+10127,2015,Georgia,26295.0,GEO,GE,AS,Temperate
+10143,2015,United Kingdom of Great Britain and Northern Ireland (the),1371900.0,GBR,GB,EU,Temperate
+10171,2015,Bulgaria,6631.0,BGR,BG,EU,Temperate
+10211,2015,Spain,2287.0,ESP,ES,EU,Temperate
+10215,2015,France,1056363.0,FRA,FR,EU,Temperate
+10219,2015,United Kingdom of Great Britain and Northern Ireland (the),1371900.0,GBR,GB,EU,Temperate
+10243,2016,Canada,4516026.0,CAN,CA,NA,Temperate
+10254,2016,France,2709615.0,FRA,FR,EU,Temperate
+10284,2016,Germany,2258013.0,DEU,DE,EU,Temperate
+10305,2014,Italy,286152.0,ITA,IT,EU,Temperate
+10320,2014,Italy,346816.0,ITA,IT,EU,Temperate
+10321,2014,Italy,336514.0,ITA,IT,EU,Temperate
+10364,2014,Italy,137353.0,ITA,IT,EU,Temperate
+10429,2015,Macedonia (the former Yugoslav Republic of),99463.0,MKD,MK,EU,Temperate
+10441,2015,Italy,993484.0,ITA,IT,EU,Temperate
+10449,2015,Italy,186350.0,ITA,IT,EU,Temperate
+10513,2015,Italy,126901.0,ITA,IT,EU,Temperate
+10520,2015,Kazakhstan,6059.0,KAZ,KZ,AS,Temperate
+10544,2015,New Zealand,195496.0,NZL,NZ,OC,Temperate
+10545,2015,New Zealand,114325.0,NZL,NZ,OC,Temperate
+10593,2016,Macedonia (the former Yugoslav Republic of),56450.0,MKD,MK,EU,Temperate
+10596,2016,Netherlands (the),952881.0,NLD,NL,EU,Temperate
+10651,2016,New Zealand,28225.0,NZL,NZ,OC,Temperate
+10681,2014,Serbia,2344453.0,SRB,RS,EU,Temperate
+10811,2016,Serbia,112901.0,SRB,RS,EU,Temperate
+10827,2016,Spain,56450.0,ESP,ES,EU,Temperate
+10832,2017,Austria,130444.0,AUT,AT,EU,Temperate
+10843,2017,Albania,9839.0,ALB,AL,EU,Temperate
+10855,2017,Germany,175768.0,DEU,DE,EU,Temperate
+10898,2017,Canada,221092.0,CAN,CA,NA,Temperate
+10923,2017,Czech Republic (the),3206.0,CZE,CZ,EU,Temperate
+10924,2017,Germany,818040.0,DEU,DE,EU,Temperate
+10929,2017,France,608002.0,FRA,FR,EU,Temperate
+10942,2018,France,215820.0,FRA,FR,EU,Temperate
+10970,2018,Germany,635024.0,DEU,DE,EU,Temperate
+10979,2018,Armenia,1966.0,ARM,AM,AS,Temperate
+10996,2018,Canada,350708.0,CAN,CA,NA,Temperate
+11022,2018,Spain,161865.0,ESP,ES,EU,Temperate
+11031,2018,France,401426.0,FRA,FR,EU,Temperate
+11032,2018,France,366895.0,FRA,FR,EU,Temperate
+11047,2019,Spain,61474.0,ESP,ES,EU,Temperate
+11048,2019,Canada,847915.0,CAN,CA,NA,Temperate
+11132,2016,Italy,112901.0,ITA,IT,EU,Temperate
+11154,2016,Korea (the Democratic People's Republic of),68869.0,PRK,KP,AS,Temperate
+11159,2017,Italy,238779.0,ITA,IT,EU,Temperate
+11172,2017,Italy,3869.0,ITA,IT,EU,Temperate
+11178,2017,New Zealand,22109.0,NZL,NZ,OC,Temperate
+11195,2017,New Zealand,78488.0,NZL,NZ,OC,Temperate
+11203,2017,Croatia,177979.0,HRV,HR,EU,Temperate
+11246,2017,Italy,138182.0,ITA,IT,EU,Temperate
+11247,2017,Italy,2542555.0,ITA,IT,EU,Temperate
+11279,2017,Poland,304001.0,POL,PL,EU,Temperate
+11283,2017,Romania,8070.0,ROU,RO,EU,Temperate
+11286,2018,Italy,1187012.0,ITA,IT,EU,Temperate
+11335,2018,Korea (the Democratic People's Republic of),5007.0,PRK,KP,AS,Temperate
+11399,2018,Netherlands (the),118713.0,NLD,NL,EU,Temperate
+11403,2018,New Zealand,26978.0,NZL,NZ,OC,Temperate
+11413,2018,Korea (the Democratic People's Republic of),26978.0,PRK,KP,AS,Temperate
+11682,2019,Canada,291471.0,CAN,CA,NA,Temperate
+11755,2020,Canada,1256374.0,CAN,CA,NA,Temperate
+11790,2020,Canada,1361072.0,CAN,CA,NA,Temperate
+11811,2021,Czech Republic (the),701000.0,CZE,CZ,EU,Temperate
+11820,2021,Canada,2000000.0,CAN,CA,NA,Temperate
+11829,2021,Germany,40000000.0,DEU,DE,EU,Temperate
+11837,2021,Canada,80912.0,CAN,CA,NA,Temperate
+11864,2021,Belgium,2000000.0,BEL,BE,EU,Temperate
+11880,2021,Canada,25000.0,CAN,CA,NA,Temperate
+11956,2019,Spain,2649734.0,ESP,ES,EU,Temperate
+11958,2019,France,333866.0,FRA,FR,EU,Temperate
+11959,2019,France,105989.0,FRA,FR,EU,Temperate
+12028,2020,Italy,62819.0,ITA,IT,EU,Temperate
+12043,2020,Italy,62819.0,ITA,IT,EU,Temperate
+12083,2020,Spain,329798.0,ESP,ES,EU,Temperate
+12091,2020,France,55490.0,FRA,FR,EU,Temperate
+12092,2020,France,1012428.0,FRA,FR,EU,Temperate
+12146,2020,Italy,10470.0,ITA,IT,EU,Temperate
+12161,2020,Mongolia,1780.0,MNG,MN,AS,Temperate
+12181,2020,New Zealand,10470.0,NZL,NZ,OC,Temperate
+12182,2020,New Zealand,30362.0,NZL,NZ,OC,Temperate
+12183,2020,New Zealand,74335.0,NZL,NZ,OC,Temperate
+12202,2021,Spain,1900000.0,ESP,ES,EU,Temperate
+12205,2021,Spain,36000.0,ESP,ES,EU,Temperate
+12213,2021,France,23000.0,FRA,FR,EU,Temperate
+12240,2021,New Zealand,140000.0,NZL,NZ,OC,Temperate
+12272,2021,Spain,105000.0,ESP,ES,EU,Temperate
+12280,2021,France,5600000.0,FRA,FR,EU,Temperate
+12281,2021,France,10000.0,FRA,FR,EU,Temperate
+12320,2021,Italy,59000.0,ITA,IT,EU,Temperate
+12352,2021,New Zealand,30000.0,NZL,NZ,OC,Temperate
+12353,2021,New Zealand,50000.0,NZL,NZ,OC,Temperate
+12354,2021,New Zealand,57000.0,NZL,NZ,OC,Temperate
+12426,2019,Korea (the Democratic People's Republic of),25437.0,PRK,KP,AS,Temperate
+12492,2020,Serbia,29315.0,SRB,RS,EU,Temperate
+12532,2020,Romania,88993.0,ROU,RO,EU,Temperate
+12565,2020,Ukraine,169610.0,UKR,UA,EU,Temperate
+12567,2020,Ukraine,161089.0,UKR,UA,EU,Temperate
+12639,2021,Ukraine,170000.0,UKR,UA,EU,Temperate
