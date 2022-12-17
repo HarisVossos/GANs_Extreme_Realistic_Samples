@@ -6,7 +6,7 @@ from Evaluation_metrics import p_Wasserstein_distance
 def Distribution_Shifting(data, c, k, GAN):
     X = np.array(data)
     X.sort()
-    Xs = X
+    Xs = X.copy()
     n = len(X)
     print("Distribution Shifting Started")
     for i in range(1,k+1):

@@ -204,7 +204,7 @@ class Conditional_DCGAN(nn.Module):
             #     print(f'Epoch: {epoch} , Loss G: {lossG} , Loss D: {lossD}')
 
         print("Conditional GAN - Training finished")
-        
+
     def generate_samples(self,number_of_samples,tau):
         self.G.eval()
         torch.cuda.empty_cache()
