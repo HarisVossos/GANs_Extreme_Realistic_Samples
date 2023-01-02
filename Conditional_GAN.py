@@ -208,6 +208,7 @@ class Conditional_DCGAN(nn.Module):
     def generate_samples(self,number_of_samples,tau):
         self.G.eval()
         torch.cuda.empty_cache()
+        self.k = self.k + 1
         tau_prime = tau/(self.c**self.k)
         val = self.rv.ppf((1-tau_prime)) + self.threshold
         sample_list = []
@@ -217,7 +218,7 @@ class Conditional_DCGAN(nn.Module):
             latent = Variable(torch.randn(1, self.latentdim, 1)).cuda()
             code = torch.ones(1, 1, 1).cuda() * val
             fakeGen = self.G(latent, code)
-            if abs((val - self.extremeness_measure(fakeGen.cpu().data.numpy())/ val)) > 0.1:
+            if abs((val - self.extremeness_measure(fakeGen.cpu().data.numpy())/ val)) > 0.2:
                 sample_list.append(fakeGen.cpu().data.numpy().ravel())
             if counter > 10_000:
                 print("Maximum number of iterations reached")
